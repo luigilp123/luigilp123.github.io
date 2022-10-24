@@ -29,25 +29,25 @@
         <h1>Portfolio Project</h1>
         <h1>Week 1</h1>
         
-        <h3>Football</h3>
-        <p>This first chart compares premier league football stadium capacities</p>
-        <div class="chart" id="Chart2"></div>
+        <h3>Environment</h3>
+        <p>This first chart shows the proportions of UK beach litter by brand</p>
+        <div class="chart" id="Chartbeachlitter"></div>
 
-        <h3>Productivity puzzle</h3>
-        <p>My second chart looks at productivity in the UK</p>
-        <div class="chart" id="Chart1"> </div>
+        <h3>Inflation</h3>
+        <p>My second chart looks at inflation rates since 1800</p>
+        <div class="chart" id="Chartinflation"> </div>
     </div> 
 </body>
 
 
 <script>
     //Define charts:
-    var myChart1 = "chart1_covidUKRegions.json";
-    var myChart2 = "chart2_ukProductivity.json";
+    var myChart1 = "beachlitter.json";
+    var myChart2 = "Inflation.json";
 
     // Embed charts:
-    vegaEmbed('#Chart1', myChart1);
-    vegaEmbed('#Chart2', myChart2);
+    vegaEmbed('#Chartbeachlitter', myChart1);
+    vegaEmbed('#Chartinflation', myChart2);
 </script>
 
 </html>
