@@ -5,21 +5,24 @@
 
 /* Import a font */
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+/*Here I've imported another font. This is the one I'm using, as of 27/10*/
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Fasthand&display=swap');
+/*Actually, I changed my mind. I didn't like that font. This is more suitable:*/
+@import url('https://fonts.googleapis.com/css2?family=Joan&family=Yeseva+One&display=swap');
+
 
 
 /* Set the background color for my page: */
 
-/* Book on colour = Joseph Albers - Interaction of Colour */
-
 body{
-    background-color: rgb(200,200,200);
+    background-color: rgb(191, 199, 233);
  }
 
 
 /* Choose the appearance of the tags, h1, h3 and p: */
 h1, h3, p{
     color:rgb(0, 0, 0);
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Joan', serif;
     text-align: center;
 }
     
@@ -32,19 +35,22 @@ h1, h3, p{
     border-width: 3px;
     border-style: solid;
     border-radius: 10px;
-    border-color: rgb(100,100,100);
+    border-color: rgb(11, 11, 11);
 }
 
 
 /* Set the apperance of the class, chart */
 .chart{
     background-color: white;
-    width:450px;
+    width:500px;
     border-width: 2px;
     border-style: solid;
     border-radius: 10px;
-    border-color: grey;
+    border-color: rgb(10, 29, 234);
     
 }
-    
+/*All our charts have the same class, which is 'chart'. So, using whats above these settings apply to all of the chart classes. However, we can be more specific and set the appearance for a particular chart by using a hashtag, as below:*/
+#Chartbeachlitter{
+    border-color: blue;
+}
 
