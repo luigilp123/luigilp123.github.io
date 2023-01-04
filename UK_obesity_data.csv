@@ -1,0 +1,1855 @@
+,Area Code,Area Name,Value,Compared to England value or percentiles,Year
+134,E06000001,Hartlepool,67.2,Worse,2015
+135,E06000002,Middlesbrough,67.6,Worse,2015
+136,E06000003,Redcar and Cleveland,68.7,Worse,2015
+137,E06000004,Stockton-on-Tees,65.8,Similar,2015
+138,E06000005,Darlington,70.3,Worse,2015
+139,E06000006,Halton,69,Worse,2015
+140,E06000007,Warrington,65.2,Worse,2015
+141,E06000008,Blackburn with Darwen,61.3,Similar,2015
+142,E06000009,Blackpool,68.4,Worse,2015
+143,E06000010,Kingston upon Hull,66.7,Worse,2015
+144,E06000011,East Riding of Yorkshire,66.6,Worse,2015
+145,E06000012,North East Lincolnshire,63.7,Similar,2015
+146,E06000013,North Lincolnshire,64.7,Similar,2015
+147,E06000014,York,59.3,Similar,2015
+148,E06000015,Derby,64.9,Worse,2015
+149,E06000016,Leicester,61.5,Similar,2015
+150,E06000017,Rutland,58.2,Similar,2015
+151,E06000018,Nottingham,62.2,Similar,2015
+152,E06000019,Herefordshire,62,Similar,2015
+153,E06000020,Telford and Wrekin,66.8,Worse,2015
+154,E06000021,Stoke-on-Trent,67.2,Worse,2015
+155,E06000022,Bath and North East Somerset,57.7,Better,2015
+156,E06000023,Bristol,56.5,Better,2015
+157,E06000024,North Somerset,65.7,Similar,2015
+158,E06000025,South Gloucestershire,64.9,Worse,2015
+159,E06000026,Plymouth,66.1,Worse,2015
+160,E06000027,Torbay,61.2,Similar,2015
+161,E06000030,Swindon,69,Worse,2015
+162,E06000031,Peterborough,62.2,Similar,2015
+163,E06000032,Luton,65,Worse,2015
+164,E06000033,Southend-on-Sea,57.8,Better,2015
+165,E06000034,Thurrock,66.3,Worse,2015
+166,E06000035,Medway,66.5,Worse,2015
+167,E06000036,Bracknell Forest,58.7,Similar,2015
+168,E06000037,West Berkshire,59.2,Similar,2015
+169,E06000038,Reading,56.4,Better,2015
+170,E06000039,Slough,65.8,Worse,2015
+171,E06000040,Windsor and Maidenhead,53.4,Better,2015
+172,E06000041,Wokingham,50.7,Better,2015
+173,E06000042,Milton Keynes,62.4,Similar,2015
+174,E06000043,Brighton and Hove,51.1,Better,2015
+175,E06000044,Portsmouth,66.9,Worse,2015
+176,E06000045,Southampton,61.3,Similar,2015
+177,E06000046,Isle of Wight,67,Worse,2015
+178,E06000047,County Durham,68.3,Worse,2015
+179,E06000049,Cheshire East,59.5,Similar,2015
+180,E06000050,Cheshire West and Chester,59.9,Similar,2015
+181,E06000051,Shropshire,59.4,Similar,2015
+182,E06000052,Cornwall,60.8,Similar,2015
+183,E06000053,Isles of Scilly,58,Similar,2015
+184,E06000054,Wiltshire,61.9,Similar,2015
+185,E06000055,Bedford,57.7,Similar,2015
+186,E06000056,Central Bedfordshire,59.2,Similar,2015
+187,E06000057,Northumberland,62.9,Similar,2015
+188,E07000008,Cambridge,50.7,Better,2015
+189,E07000009,East Cambridgeshire,65.4,Similar,2015
+190,E07000010,Fenland,72.2,Worse,2015
+191,E07000011,Huntingdonshire,59.9,Similar,2015
+192,E07000012,South Cambridgeshire,60.1,Similar,2015
+193,E07000026,Allerdale,65.6,Similar,2015
+194,E07000027,Barrow-in-Furness,70.7,Worse,2015
+195,E07000028,Carlisle,57.9,Similar,2015
+196,E07000029,Copeland,61.8,Similar,2015
+197,E07000030,Eden,52.3,Better,2015
+198,E07000031,South Lakeland,53.1,Better,2015
+199,E07000032,Amber Valley,66.4,Worse,2015
+200,E07000033,Bolsover,73.9,Worse,2015
+201,E07000034,Chesterfield,67.5,Worse,2015
+202,E07000035,Derbyshire Dales,59.4,Similar,2015
+203,E07000036,Erewash,63.7,Similar,2015
+204,E07000037,High Peak,61.7,Similar,2015
+205,E07000038,North East Derbyshire,62.5,Similar,2015
+206,E07000039,South Derbyshire,69.3,Worse,2015
+207,E07000040,East Devon,62.1,Similar,2015
+208,E07000041,Exeter,61.3,Similar,2015
+209,E07000042,Mid Devon,62.3,Similar,2015
+210,E07000043,North Devon,61.5,Similar,2015
+211,E07000044,South Hams,61.3,Similar,2015
+212,E07000045,Teignbridge,67.3,Worse,2015
+213,E07000046,Torridge,59.6,Similar,2015
+214,E07000047,West Devon,61.7,Similar,2015
+215,E07000061,Eastbourne,53.7,Better,2015
+216,E07000062,Hastings,58.9,Similar,2015
+217,E07000063,Lewes,58.2,Similar,2015
+218,E07000064,Rother,62.3,Similar,2015
+219,E07000065,Wealden,56.5,Better,2015
+220,E07000066,Basildon,67.2,Worse,2015
+221,E07000067,Braintree,57.9,Similar,2015
+222,E07000068,Brentwood,58.2,Similar,2015
+223,E07000069,Castle Point,67.5,Worse,2015
+224,E07000070,Chelmsford,60.8,Similar,2015
+225,E07000071,Colchester,59.9,Similar,2015
+226,E07000072,Epping Forest,59.9,Similar,2015
+227,E07000073,Harlow,68.5,Worse,2015
+228,E07000074,Maldon,58.8,Similar,2015
+229,E07000075,Rochford,54.8,Better,2015
+230,E07000076,Tendring,67.5,Worse,2015
+231,E07000077,Uttlesford,57.8,Similar,2015
+232,E07000078,Cheltenham,54.9,Better,2015
+233,E07000079,Cotswold,53.7,Better,2015
+234,E07000080,Forest of Dean,67.8,Worse,2015
+235,E07000081,Gloucester,67,Worse,2015
+236,E07000082,Stroud,57.3,Similar,2015
+237,E07000083,Tewkesbury,59.2,Similar,2015
+238,E07000084,Basingstoke and Deane,58.6,Similar,2015
+239,E07000085,East Hampshire,60.9,Similar,2015
+240,E07000086,Eastleigh,64.9,Similar,2015
+241,E07000087,Fareham,70.6,Worse,2015
+242,E07000088,Gosport,71.5,Worse,2015
+243,E07000089,Hart,61.7,Similar,2015
+244,E07000090,Havant,65.5,Similar,2015
+245,E07000091,New Forest,63.3,Similar,2015
+246,E07000092,Rushmoor,61.8,Similar,2015
+247,E07000093,Test Valley,60,Similar,2015
+248,E07000094,Winchester,50.5,Better,2015
+249,E07000095,Broxbourne,61.3,Similar,2015
+250,E07000096,Dacorum,56.4,Better,2015
+251,E07000098,Hertsmere,59.9,Similar,2015
+252,E07000099,North Hertfordshire,59.5,Similar,2015
+253,E07000102,Three Rivers,59.6,Similar,2015
+254,E07000103,Watford,61.7,Similar,2015
+255,E07000105,Ashford,64.7,Similar,2015
+256,E07000106,Canterbury,57.9,Similar,2015
+257,E07000107,Dartford,68,Worse,2015
+258,E07000108,Dover,66.2,Worse,2015
+259,E07000109,Gravesham,62.9,Similar,2015
+260,E07000110,Maidstone,56.4,Better,2015
+261,E07000111,Sevenoaks,51.8,Better,2015
+262,E07000112,Folkestone & Hythe,64.6,Similar,2015
+263,E07000113,Swale,58.7,Similar,2015
+264,E07000114,Thanet,67.8,Worse,2015
+265,E07000115,Tonbridge and Malling,59.3,Similar,2015
+266,E07000116,Tunbridge Wells,55.9,Better,2015
+267,E07000117,Burnley,67.9,Worse,2015
+268,E07000118,Chorley,59.5,Similar,2015
+269,E07000119,Fylde,59.1,Similar,2015
+270,E07000120,Hyndburn,62.9,Similar,2015
+271,E07000121,Lancaster,64.4,Similar,2015
+272,E07000122,Pendle,60.5,Similar,2015
+273,E07000123,Preston,65.4,Similar,2015
+274,E07000124,Ribble Valley,60.4,Similar,2015
+275,E07000125,Rossendale,65.5,Similar,2015
+276,E07000126,South Ribble,68.4,Worse,2015
+277,E07000127,West Lancashire,66.7,Worse,2015
+278,E07000128,Wyre,63,Similar,2015
+279,E07000129,Blaby,63.3,Similar,2015
+280,E07000130,Charnwood,55,Better,2015
+281,E07000131,Harborough,56.9,Better,2015
+282,E07000132,Hinckley and Bosworth,63.3,Similar,2015
+283,E07000133,Melton,62.8,Similar,2015
+284,E07000134,North West Leicestershire,70.9,Worse,2015
+285,E07000135,Oadby and Wigston,59.9,Similar,2015
+286,E07000136,Boston,71.4,Worse,2015
+287,E07000137,East Lindsey,61.4,Similar,2015
+288,E07000138,Lincoln,63.9,Similar,2015
+289,E07000139,North Kesteven,66.1,Worse,2015
+290,E07000140,South Holland,66.9,Worse,2015
+291,E07000141,South Kesteven,66.1,Worse,2015
+292,E07000142,West Lindsey,70.8,Worse,2015
+293,E07000143,Breckland,67,Worse,2015
+294,E07000144,Broadland,58.5,Similar,2015
+295,E07000145,Great Yarmouth,65,Similar,2015
+296,E07000146,King's Lynn and West Norfolk,67.1,Worse,2015
+297,E07000147,North Norfolk,65.5,Similar,2015
+298,E07000148,Norwich,55.2,Better,2015
+299,E07000149,South Norfolk,64.2,Similar,2015
+300,E07000163,Craven,57.3,Similar,2015
+301,E07000164,Hambleton,61.8,Similar,2015
+302,E07000165,Harrogate,52.6,Better,2015
+303,E07000166,Richmondshire,68.4,Worse,2015
+304,E07000167,Ryedale,58.9,Similar,2015
+305,E07000168,Scarborough,70.2,Worse,2015
+306,E07000169,Selby,63.6,Similar,2015
+307,E07000170,Ashfield,70.2,Worse,2015
+308,E07000171,Bassetlaw,71.8,Worse,2015
+309,E07000172,Broxtowe,58.2,Similar,2015
+310,E07000173,Gedling,66.1,Worse,2015
+311,E07000174,Mansfield,68.2,Worse,2015
+312,E07000175,Newark and Sherwood,67.4,Worse,2015
+313,E07000176,Rushcliffe,59,Similar,2015
+314,E07000177,Cherwell,60.1,Similar,2015
+315,E07000178,Oxford,54.5,Better,2015
+316,E07000179,South Oxfordshire,56.2,Better,2015
+317,E07000180,Vale of White Horse,55.4,Better,2015
+318,E07000181,West Oxfordshire,48.5,Better,2015
+319,E07000187,Mendip,56.6,Better,2015
+320,E07000188,Sedgemoor,65,Similar,2015
+321,E07000189,South Somerset,55.6,Better,2015
+322,E07000192,Cannock Chase,65.8,Similar,2015
+323,E07000193,East Staffordshire,61.4,Similar,2015
+324,E07000194,Lichfield,63.3,Similar,2015
+325,E07000195,Newcastle-under-Lyme,64.2,Similar,2015
+326,E07000196,South Staffordshire,64.5,Similar,2015
+327,E07000197,Stafford,67.8,Worse,2015
+328,E07000198,Staffordshire Moorlands,67.1,Worse,2015
+329,E07000199,Tamworth,70.6,Worse,2015
+330,E07000200,Babergh,58.2,Similar,2015
+331,E07000202,Ipswich,60.4,Similar,2015
+332,E07000203,Mid Suffolk,65.8,Similar,2015
+333,E07000207,Elmbridge,55.7,Better,2015
+334,E07000208,Epsom and Ewell,48.9,Better,2015
+335,E07000209,Guildford,59.9,Similar,2015
+336,E07000210,Mole Valley,59,Similar,2015
+337,E07000211,Reigate and Banstead,59.2,Similar,2015
+338,E07000212,Runnymede,60.5,Similar,2015
+339,E07000213,Spelthorne,61.5,Similar,2015
+340,E07000214,Surrey Heath,58.7,Similar,2015
+341,E07000215,Tandridge,57.7,Similar,2015
+342,E07000216,Waverley,56.7,Similar,2015
+343,E07000217,Woking,58.8,Similar,2015
+344,E07000218,North Warwickshire,64.3,Similar,2015
+345,E07000219,Nuneaton and Bedworth,67.8,Worse,2015
+346,E07000220,Rugby,56.5,Better,2015
+347,E07000221,Stratford-on-Avon,56.2,Better,2015
+348,E07000222,Warwick,56.3,Better,2015
+349,E07000223,Adur,60.2,Similar,2015
+350,E07000224,Arun,58.8,Similar,2015
+351,E07000225,Chichester,55.8,Better,2015
+352,E07000226,Crawley,65.3,Similar,2015
+353,E07000227,Horsham,60.3,Similar,2015
+354,E07000228,Mid Sussex,62.4,Similar,2015
+355,E07000229,Worthing,62.2,Similar,2015
+356,E07000234,Bromsgrove,60.9,Similar,2015
+357,E07000235,Malvern Hills,58.1,Similar,2015
+358,E07000236,Redditch,69,Worse,2015
+359,E07000237,Worcester,63.7,Similar,2015
+360,E07000238,Wychavon,65.8,Worse,2015
+361,E07000239,Wyre Forest,59.8,Similar,2015
+362,E07000240,St Albans,59.6,Similar,2015
+363,E07000241,Welwyn Hatfield,65.8,Similar,2015
+364,E07000242,East Hertfordshire,56.5,Better,2015
+365,E07000243,Stevenage,63.9,Similar,2015
+366,E07000244,East Suffolk,65.4,Worse,2015
+367,E07000245,West Suffolk,63.9,Similar,2015
+368,E07000246,Somerset West and Taunton,61.3,Similar,2015
+369,E08000001,Bolton,62.9,Similar,2015
+370,E08000002,Bury,66.6,Worse,2015
+371,E08000003,Manchester,61.2,Similar,2015
+372,E08000004,Oldham,65.2,Worse,2015
+373,E08000005,Rochdale,63,Similar,2015
+374,E08000006,Salford,64.5,Similar,2015
+375,E08000007,Stockport,61.6,Similar,2015
+376,E08000008,Tameside,65.7,Worse,2015
+377,E08000009,Trafford,59.6,Similar,2015
+378,E08000010,Wigan,64.5,Worse,2015
+379,E08000011,Knowsley,69.1,Worse,2015
+380,E08000012,Liverpool,65.1,Worse,2015
+381,E08000013,St. Helens,71.3,Worse,2015
+382,E08000014,Sefton,68.4,Worse,2015
+383,E08000015,Wirral,60.3,Similar,2015
+384,E08000016,Barnsley,71.1,Worse,2015
+385,E08000017,Doncaster,71.4,Worse,2015
+386,E08000018,Rotherham,71.7,Worse,2015
+387,E08000019,Sheffield,60.8,Similar,2015
+388,E08000021,Newcastle upon Tyne,64.2,Worse,2015
+389,E08000022,North Tyneside,69.6,Worse,2015
+390,E08000023,South Tyneside,69.9,Worse,2015
+391,E08000024,Sunderland,64.6,Worse,2015
+392,E08000025,Birmingham,62.6,Similar,2015
+393,E08000026,Coventry,63.8,Similar,2015
+394,E08000027,Dudley,66.8,Worse,2015
+395,E08000028,Sandwell,68.9,Worse,2015
+396,E08000029,Solihull,61.6,Similar,2015
+397,E08000030,Walsall,64.3,Similar,2015
+398,E08000031,Wolverhampton,68,Worse,2015
+399,E08000032,Bradford,69.2,Worse,2015
+400,E08000033,Calderdale,60.6,Similar,2015
+401,E08000034,Kirklees,61.6,Similar,2015
+402,E08000035,Leeds,61,Similar,2015
+403,E08000036,Wakefield,66.5,Worse,2015
+404,E08000037,Gateshead,69.4,Worse,2015
+405,E09000001,City of London,43.5,Better,2015
+406,E09000002,Barking and Dagenham,68.3,Worse,2015
+407,E09000003,Barnet,49.4,Better,2015
+408,E09000004,Bexley,60.4,Similar,2015
+409,E09000005,Brent,56.9,Similar,2015
+410,E09000006,Bromley,60.9,Similar,2015
+411,E09000007,Camden,44.1,Better,2015
+412,E09000008,Croydon,63.4,Similar,2015
+413,E09000009,Ealing,56.1,Better,2015
+414,E09000010,Enfield,62.3,Similar,2015
+415,E09000011,Greenwich,64,Similar,2015
+416,E09000012,Hackney,50.7,Better,2015
+417,E09000013,Hammersmith and Fulham,51.3,Better,2015
+418,E09000014,Haringey,52.4,Better,2015
+419,E09000015,Harrow,52,Better,2015
+420,E09000016,Havering,60.7,Similar,2015
+421,E09000017,Hillingdon,55.1,Better,2015
+422,E09000018,Hounslow,59.6,Similar,2015
+423,E09000019,Islington,49.7,Better,2015
+424,E09000020,Kensington and Chelsea,46,Better,2015
+425,E09000021,Kingston upon Thames,51.9,Better,2015
+426,E09000022,Lambeth,51.6,Better,2015
+427,E09000023,Lewisham,57,Similar,2015
+428,E09000024,Merton,54.7,Better,2015
+429,E09000025,Newham,60.4,Similar,2015
+430,E09000026,Redbridge,53.8,Better,2015
+431,E09000027,Richmond upon Thames,52.6,Better,2015
+432,E09000028,Southwark,46.4,Better,2015
+433,E09000029,Sutton,53,Better,2015
+434,E06000058,"Bournemouth, Christchurch and Poole",61.4,Similar,2015
+435,E06000059,Dorset,59.5,Similar,2015
+436,E06000060,Buckinghamshire,59.9,Similar,2015
+437,E06000061,North Northamptonshire,64.4,Worse,2015
+438,E06000062,West Northamptonshire,63.5,Similar,2015
+439,E09000030,Tower Hamlets,55.6,Better,2015
+440,E09000031,Waltham Forest,54.4,Better,2015
+441,E09000032,Wandsworth,53.1,Better,2015
+442,E09000033,Westminster,50.1,Better,2015
+577,E06000001,Hartlepool,71,Worse,2016
+578,E06000002,Middlesbrough,65.9,Similar,2016
+579,E06000003,Redcar and Cleveland,66,Worse,2016
+580,E06000004,Stockton-on-Tees,66.6,Worse,2016
+581,E06000005,Darlington,65.2,Similar,2016
+582,E06000006,Halton,60,Similar,2016
+583,E06000007,Warrington,65.6,Worse,2016
+584,E06000008,Blackburn with Darwen,65.2,Similar,2016
+585,E06000009,Blackpool,62.7,Similar,2016
+586,E06000010,Kingston upon Hull,70.4,Worse,2016
+587,E06000011,East Riding of Yorkshire,67.3,Worse,2016
+588,E06000012,North East Lincolnshire,72.4,Worse,2016
+589,E06000013,North Lincolnshire,72,Worse,2016
+590,E06000014,York,59.4,Similar,2016
+591,E06000015,Derby,64.2,Similar,2016
+592,E06000016,Leicester,56.6,Better,2016
+593,E06000017,Rutland,58.4,Similar,2016
+594,E06000018,Nottingham,63.5,Similar,2016
+595,E06000019,Herefordshire,63.2,Similar,2016
+596,E06000020,Telford and Wrekin,66.1,Worse,2016
+597,E06000021,Stoke-on-Trent,66.4,Worse,2016
+598,E06000022,Bath and North East Somerset,56,Better,2016
+599,E06000023,Bristol,55.6,Better,2016
+600,E06000024,North Somerset,56.4,Better,2016
+601,E06000025,South Gloucestershire,60.8,Similar,2016
+602,E06000026,Plymouth,67.2,Worse,2016
+603,E06000027,Torbay,62.8,Similar,2016
+604,E06000030,Swindon,63.4,Similar,2016
+605,E06000031,Peterborough,62.5,Similar,2016
+606,E06000032,Luton,64.1,Similar,2016
+607,E06000033,Southend-on-Sea,59.8,Similar,2016
+608,E06000034,Thurrock,69.3,Worse,2016
+609,E06000035,Medway,64.3,Similar,2016
+610,E06000036,Bracknell Forest,62,Similar,2016
+611,E06000037,West Berkshire,61.8,Similar,2016
+612,E06000038,Reading,59,Similar,2016
+613,E06000039,Slough,63.1,Similar,2016
+614,E06000040,Windsor and Maidenhead,56.7,Similar,2016
+615,E06000041,Wokingham,55.1,Better,2016
+616,E06000042,Milton Keynes,65.3,Worse,2016
+617,E06000043,Brighton and Hove,48,Better,2016
+618,E06000044,Portsmouth,63.8,Similar,2016
+619,E06000045,Southampton,63.5,Similar,2016
+620,E06000046,Isle of Wight,65.2,Similar,2016
+621,E06000047,County Durham,68,Worse,2016
+622,E06000049,Cheshire East,60.2,Similar,2016
+623,E06000050,Cheshire West and Chester,59,Similar,2016
+624,E06000051,Shropshire,70.4,Worse,2016
+625,E06000052,Cornwall,64.3,Similar,2016
+626,E06000053,Isles of Scilly,64.5,Similar,2016
+627,E06000054,Wiltshire,61.7,Similar,2016
+628,E06000055,Bedford,60.9,Similar,2016
+629,E06000056,Central Bedfordshire,63.1,Similar,2016
+630,E06000057,Northumberland,65.1,Worse,2016
+631,E07000008,Cambridge,50.7,Better,2016
+632,E07000009,East Cambridgeshire,58.5,Similar,2016
+633,E07000010,Fenland,71.5,Worse,2016
+634,E07000011,Huntingdonshire,64.6,Similar,2016
+635,E07000012,South Cambridgeshire,54.9,Better,2016
+636,E07000026,Allerdale,65.2,Similar,2016
+637,E07000027,Barrow-in-Furness,66.3,Worse,2016
+638,E07000028,Carlisle,61.1,Similar,2016
+639,E07000029,Copeland,65.7,Similar,2016
+640,E07000030,Eden,63.9,Similar,2016
+641,E07000031,South Lakeland,55,Better,2016
+642,E07000032,Amber Valley,59.5,Similar,2016
+643,E07000033,Bolsover,68.9,Worse,2016
+644,E07000034,Chesterfield,65.7,Similar,2016
+645,E07000035,Derbyshire Dales,54.2,Better,2016
+646,E07000036,Erewash,67.2,Worse,2016
+647,E07000037,High Peak,54.2,Better,2016
+648,E07000038,North East Derbyshire,66.2,Worse,2016
+649,E07000039,South Derbyshire,66.7,Worse,2016
+650,E07000040,East Devon,61,Similar,2016
+651,E07000041,Exeter,54.7,Better,2016
+652,E07000042,Mid Devon,62.6,Similar,2016
+653,E07000043,North Devon,58.5,Similar,2016
+654,E07000044,South Hams,56.9,Similar,2016
+655,E07000045,Teignbridge,55.7,Better,2016
+656,E07000046,Torridge,57.2,Similar,2016
+657,E07000047,West Devon,54.8,Better,2016
+658,E07000061,Eastbourne,60.7,Similar,2016
+659,E07000062,Hastings,60.4,Similar,2016
+660,E07000063,Lewes,50.1,Better,2016
+661,E07000064,Rother,62.1,Similar,2016
+662,E07000065,Wealden,61.3,Similar,2016
+663,E07000066,Basildon,71.1,Worse,2016
+664,E07000067,Braintree,58.5,Similar,2016
+665,E07000068,Brentwood,58,Similar,2016
+666,E07000069,Castle Point,64.1,Similar,2016
+667,E07000070,Chelmsford,62.8,Similar,2016
+668,E07000071,Colchester,64.3,Similar,2016
+669,E07000072,Epping Forest,59.8,Similar,2016
+670,E07000073,Harlow,68.2,Worse,2016
+671,E07000074,Maldon,60.8,Similar,2016
+672,E07000075,Rochford,59.9,Similar,2016
+673,E07000076,Tendring,66.1,Worse,2016
+674,E07000077,Uttlesford,56,Better,2016
+675,E07000078,Cheltenham,59.4,Similar,2016
+676,E07000079,Cotswold,57.9,Similar,2016
+677,E07000080,Forest of Dean,59.8,Similar,2016
+678,E07000081,Gloucester,64.1,Similar,2016
+679,E07000082,Stroud,57.2,Similar,2016
+680,E07000083,Tewkesbury,61.9,Similar,2016
+681,E07000084,Basingstoke and Deane,61.2,Similar,2016
+682,E07000085,East Hampshire,59.3,Similar,2016
+683,E07000086,Eastleigh,62.8,Similar,2016
+684,E07000087,Fareham,63,Similar,2016
+685,E07000088,Gosport,71.5,Worse,2016
+686,E07000089,Hart,63.5,Similar,2016
+687,E07000090,Havant,58.2,Similar,2016
+688,E07000091,New Forest,59.6,Similar,2016
+689,E07000092,Rushmoor,63.5,Similar,2016
+690,E07000093,Test Valley,65.8,Similar,2016
+691,E07000094,Winchester,54.3,Better,2016
+692,E07000095,Broxbourne,60.6,Similar,2016
+693,E07000096,Dacorum,62.4,Similar,2016
+694,E07000098,Hertsmere,64.9,Similar,2016
+695,E07000099,North Hertfordshire,60.8,Similar,2016
+696,E07000102,Three Rivers,57,Similar,2016
+697,E07000103,Watford,55.8,Better,2016
+698,E07000105,Ashford,62.3,Similar,2016
+699,E07000106,Canterbury,53.5,Better,2016
+700,E07000107,Dartford,65.5,Similar,2016
+701,E07000108,Dover,62.2,Similar,2016
+702,E07000109,Gravesham,66,Similar,2016
+703,E07000110,Maidstone,69.7,Worse,2016
+704,E07000111,Sevenoaks,60.9,Similar,2016
+705,E07000112,Folkestone & Hythe,64.5,Similar,2016
+706,E07000113,Swale,70,Worse,2016
+707,E07000114,Thanet,63.6,Similar,2016
+708,E07000115,Tonbridge and Malling,59.9,Similar,2016
+709,E07000116,Tunbridge Wells,49.1,Better,2016
+710,E07000117,Burnley,66,Similar,2016
+711,E07000118,Chorley,62.5,Similar,2016
+712,E07000119,Fylde,59.8,Similar,2016
+713,E07000120,Hyndburn,67.8,Worse,2016
+714,E07000121,Lancaster,63.4,Similar,2016
+715,E07000122,Pendle,63.4,Similar,2016
+716,E07000123,Preston,57.8,Similar,2016
+717,E07000124,Ribble Valley,63.7,Similar,2016
+718,E07000125,Rossendale,66.6,Worse,2016
+719,E07000126,South Ribble,64,Similar,2016
+720,E07000127,West Lancashire,63.9,Similar,2016
+721,E07000128,Wyre,68.3,Worse,2016
+722,E07000129,Blaby,54.7,Better,2016
+723,E07000130,Charnwood,67.5,Worse,2016
+724,E07000131,Harborough,56.1,Better,2016
+725,E07000132,Hinckley and Bosworth,62.6,Similar,2016
+726,E07000133,Melton,58.6,Similar,2016
+727,E07000134,North West Leicestershire,67.1,Worse,2016
+728,E07000135,Oadby and Wigston,64.2,Similar,2016
+729,E07000136,Boston,64.1,Similar,2016
+730,E07000137,East Lindsey,69.4,Worse,2016
+731,E07000138,Lincoln,63.6,Similar,2016
+732,E07000139,North Kesteven,67.2,Worse,2016
+733,E07000140,South Holland,64.2,Similar,2016
+734,E07000141,South Kesteven,64.9,Similar,2016
+735,E07000142,West Lindsey,62.1,Similar,2016
+736,E07000143,Breckland,57.7,Similar,2016
+737,E07000144,Broadland,60.4,Similar,2016
+738,E07000145,Great Yarmouth,66.2,Worse,2016
+739,E07000146,King's Lynn and West Norfolk,68.9,Worse,2016
+740,E07000147,North Norfolk,59,Similar,2016
+741,E07000148,Norwich,57.5,Better,2016
+742,E07000149,South Norfolk,61,Similar,2016
+743,E07000163,Craven,55.9,Better,2016
+744,E07000164,Hambleton,60.4,Similar,2016
+745,E07000165,Harrogate,58.9,Similar,2016
+746,E07000166,Richmondshire,59.6,Similar,2016
+747,E07000167,Ryedale,64.9,Similar,2016
+748,E07000168,Scarborough,59.9,Similar,2016
+749,E07000169,Selby,65.5,Similar,2016
+750,E07000170,Ashfield,74.8,Worse,2016
+751,E07000171,Bassetlaw,67.5,Worse,2016
+752,E07000172,Broxtowe,60.1,Similar,2016
+753,E07000173,Gedling,60.5,Similar,2016
+754,E07000174,Mansfield,65,Similar,2016
+755,E07000175,Newark and Sherwood,63,Similar,2016
+756,E07000176,Rushcliffe,63.7,Similar,2016
+757,E07000177,Cherwell,61.6,Similar,2016
+758,E07000178,Oxford,52.3,Better,2016
+759,E07000179,South Oxfordshire,52.7,Better,2016
+760,E07000180,Vale of White Horse,55.9,Better,2016
+761,E07000181,West Oxfordshire,54.4,Better,2016
+762,E07000187,Mendip,63,Similar,2016
+763,E07000188,Sedgemoor,66.9,Worse,2016
+764,E07000189,South Somerset,63.3,Similar,2016
+765,E07000192,Cannock Chase,69.6,Worse,2016
+766,E07000193,East Staffordshire,64.2,Similar,2016
+767,E07000194,Lichfield,64.3,Similar,2016
+768,E07000195,Newcastle-under-Lyme,69.8,Worse,2016
+769,E07000196,South Staffordshire,61.6,Similar,2016
+770,E07000197,Stafford,60.5,Similar,2016
+771,E07000198,Staffordshire Moorlands,61.4,Similar,2016
+772,E07000199,Tamworth,61.9,Similar,2016
+773,E07000200,Babergh,58.3,Similar,2016
+774,E07000202,Ipswich,58.4,Similar,2016
+775,E07000203,Mid Suffolk,63.9,Similar,2016
+776,E07000207,Elmbridge,54.7,Better,2016
+777,E07000208,Epsom and Ewell,53.1,Better,2016
+778,E07000209,Guildford,48.6,Better,2016
+779,E07000210,Mole Valley,51,Better,2016
+780,E07000211,Reigate and Banstead,61,Similar,2016
+781,E07000212,Runnymede,55.7,Better,2016
+782,E07000213,Spelthorne,63.4,Similar,2016
+783,E07000214,Surrey Heath,64,Similar,2016
+784,E07000215,Tandridge,54.4,Better,2016
+785,E07000216,Waverley,51.1,Better,2016
+786,E07000217,Woking,57.4,Similar,2016
+787,E07000218,North Warwickshire,65.9,Worse,2016
+788,E07000219,Nuneaton and Bedworth,65,Similar,2016
+789,E07000220,Rugby,57.3,Similar,2016
+790,E07000221,Stratford-on-Avon,51.8,Better,2016
+791,E07000222,Warwick,55.7,Better,2016
+792,E07000223,Adur,61.9,Similar,2016
+793,E07000224,Arun,60.9,Similar,2016
+794,E07000225,Chichester,56.5,Better,2016
+795,E07000226,Crawley,56.2,Better,2016
+796,E07000227,Horsham,63,Similar,2016
+797,E07000228,Mid Sussex,63.9,Similar,2016
+798,E07000229,Worthing,59.9,Similar,2016
+799,E07000234,Bromsgrove,63.8,Similar,2016
+800,E07000235,Malvern Hills,59.2,Similar,2016
+801,E07000236,Redditch,63.5,Similar,2016
+802,E07000237,Worcester,58.1,Similar,2016
+803,E07000238,Wychavon,63,Similar,2016
+804,E07000239,Wyre Forest,60.2,Similar,2016
+805,E07000240,St Albans,50.8,Better,2016
+806,E07000241,Welwyn Hatfield,63.1,Similar,2016
+807,E07000242,East Hertfordshire,59.9,Similar,2016
+808,E07000243,Stevenage,65.6,Similar,2016
+809,E07000244,East Suffolk,63.6,Similar,2016
+810,E07000245,West Suffolk,58.1,Better,2016
+811,E07000246,Somerset West and Taunton,59.4,Similar,2016
+812,E08000001,Bolton,60.5,Similar,2016
+813,E08000002,Bury,63.4,Similar,2016
+814,E08000003,Manchester,63,Similar,2016
+815,E08000004,Oldham,66.6,Worse,2016
+816,E08000005,Rochdale,68.3,Worse,2016
+817,E08000006,Salford,64.4,Similar,2016
+818,E08000007,Stockport,60.6,Similar,2016
+819,E08000008,Tameside,65.1,Worse,2016
+820,E08000009,Trafford,55.9,Better,2016
+821,E08000010,Wigan,71.3,Worse,2016
+822,E08000011,Knowsley,74.1,Worse,2016
+823,E08000012,Liverpool,62.8,Similar,2016
+824,E08000013,St. Helens,69.2,Worse,2016
+825,E08000014,Sefton,62.7,Similar,2016
+826,E08000015,Wirral,64.2,Similar,2016
+827,E08000016,Barnsley,73.8,Worse,2016
+828,E08000017,Doncaster,70,Worse,2016
+829,E08000018,Rotherham,71.8,Worse,2016
+830,E08000019,Sheffield,61.8,Similar,2016
+831,E08000021,Newcastle upon Tyne,64,Worse,2016
+832,E08000022,North Tyneside,60.3,Similar,2016
+833,E08000023,South Tyneside,69.6,Worse,2016
+834,E08000024,Sunderland,66.3,Worse,2016
+835,E08000025,Birmingham,62.2,Similar,2016
+836,E08000026,Coventry,64.4,Similar,2016
+837,E08000027,Dudley,67.5,Worse,2016
+838,E08000028,Sandwell,70.5,Worse,2016
+839,E08000029,Solihull,64,Similar,2016
+840,E08000030,Walsall,67.3,Worse,2016
+841,E08000031,Wolverhampton,67.3,Worse,2016
+842,E08000032,Bradford,64.3,Similar,2016
+843,E08000033,Calderdale,58.5,Similar,2016
+844,E08000034,Kirklees,65.1,Worse,2016
+845,E08000035,Leeds,65,Worse,2016
+846,E08000036,Wakefield,67.4,Worse,2016
+847,E08000037,Gateshead,69.2,Worse,2016
+848,E09000001,City of London,38.5,Better,2016
+849,E09000002,Barking and Dagenham,62.6,Similar,2016
+850,E09000003,Barnet,52.9,Better,2016
+851,E09000004,Bexley,62.9,Similar,2016
+852,E09000005,Brent,57.3,Similar,2016
+853,E09000006,Bromley,56,Better,2016
+854,E09000007,Camden,45.1,Better,2016
+855,E09000008,Croydon,60.7,Similar,2016
+856,E09000009,Ealing,56.8,Similar,2016
+857,E09000010,Enfield,60.7,Similar,2016
+858,E09000011,Greenwich,59.4,Similar,2016
+859,E09000012,Hackney,55.2,Better,2016
+860,E09000013,Hammersmith and Fulham,51.2,Better,2016
+861,E09000014,Haringey,48.3,Better,2016
+862,E09000015,Harrow,58.6,Similar,2016
+863,E09000016,Havering,58.3,Similar,2016
+864,E09000017,Hillingdon,55.6,Better,2016
+865,E09000018,Hounslow,55.5,Better,2016
+866,E09000019,Islington,53.2,Better,2016
+867,E09000020,Kensington and Chelsea,40.7,Better,2016
+868,E09000021,Kingston upon Thames,51.8,Better,2016
+869,E09000022,Lambeth,51.1,Better,2016
+870,E09000023,Lewisham,56.9,Similar,2016
+871,E09000024,Merton,58.1,Similar,2016
+872,E09000025,Newham,61.1,Similar,2016
+873,E09000026,Redbridge,60,Similar,2016
+874,E09000027,Richmond upon Thames,50.7,Better,2016
+875,E09000028,Southwark,56.6,Similar,2016
+876,E09000029,Sutton,58.2,Similar,2016
+877,E06000058,"Bournemouth, Christchurch and Poole",59.5,Similar,2016
+878,E06000059,Dorset,62.7,Similar,2016
+879,E06000060,Buckinghamshire,57.5,Better,2016
+880,E06000061,North Northamptonshire,67.9,Worse,2016
+881,E06000062,West Northamptonshire,63.4,Similar,2016
+882,E09000030,Tower Hamlets,48.8,Better,2016
+883,E09000031,Waltham Forest,53.3,Better,2016
+884,E09000032,Wandsworth,48.1,Better,2016
+885,E09000033,Westminster,46.8,Better,2016
+1020,E06000001,Hartlepool,71,Worse,2017
+1021,E06000002,Middlesbrough,65.1,Similar,2017
+1022,E06000003,Redcar and Cleveland,71.7,Worse,2017
+1023,E06000004,Stockton-on-Tees,66,Similar,2017
+1024,E06000005,Darlington,67.6,Worse,2017
+1025,E06000006,Halton,73.3,Worse,2017
+1026,E06000007,Warrington,64.7,Similar,2017
+1027,E06000008,Blackburn with Darwen,65.9,Similar,2017
+1028,E06000009,Blackpool,68,Worse,2017
+1029,E06000010,Kingston upon Hull,72.3,Worse,2017
+1030,E06000011,East Riding of Yorkshire,57.6,Similar,2017
+1031,E06000012,North East Lincolnshire,72.4,Worse,2017
+1032,E06000013,North Lincolnshire,72.3,Worse,2017
+1033,E06000014,York,56.7,Better,2017
+1034,E06000015,Derby,65.9,Similar,2017
+1035,E06000016,Leicester,54.9,Better,2017
+1036,E06000017,Rutland,56.9,Better,2017
+1037,E06000018,Nottingham,64.7,Worse,2017
+1038,E06000019,Herefordshire,64,Similar,2017
+1039,E06000020,Telford and Wrekin,65.5,Similar,2017
+1040,E06000021,Stoke-on-Trent,72,Worse,2017
+1041,E06000022,Bath and North East Somerset,58.3,Similar,2017
+1042,E06000023,Bristol,55.9,Better,2017
+1043,E06000024,North Somerset,67.2,Worse,2017
+1044,E06000025,South Gloucestershire,61,Similar,2017
+1045,E06000026,Plymouth,67.8,Worse,2017
+1046,E06000027,Torbay,60.5,Similar,2017
+1047,E06000030,Swindon,62.1,Similar,2017
+1048,E06000031,Peterborough,68.2,Worse,2017
+1049,E06000032,Luton,61.2,Similar,2017
+1050,E06000033,Southend-on-Sea,66.6,Worse,2017
+1051,E06000034,Thurrock,67.4,Worse,2017
+1052,E06000035,Medway,68.7,Worse,2017
+1053,E06000036,Bracknell Forest,60.3,Similar,2017
+1054,E06000037,West Berkshire,58.5,Similar,2017
+1055,E06000038,Reading,56.8,Better,2017
+1056,E06000039,Slough,66.2,Similar,2017
+1057,E06000040,Windsor and Maidenhead,58.2,Similar,2017
+1058,E06000041,Wokingham,53.4,Better,2017
+1059,E06000042,Milton Keynes,64.9,Similar,2017
+1060,E06000043,Brighton and Hove,51.1,Better,2017
+1061,E06000044,Portsmouth,64,Similar,2017
+1062,E06000045,Southampton,64.7,Similar,2017
+1063,E06000046,Isle of Wight,60.3,Similar,2017
+1064,E06000047,County Durham,66.9,Worse,2017
+1065,E06000049,Cheshire East,63.3,Similar,2017
+1066,E06000050,Cheshire West and Chester,63.7,Similar,2017
+1067,E06000051,Shropshire,72.1,Worse,2017
+1068,E06000052,Cornwall,55,Better,2017
+1069,E06000053,Isles of Scilly,64.7,Similar,2017
+1070,E06000054,Wiltshire,59,Similar,2017
+1071,E06000055,Bedford,62,Similar,2017
+1072,E06000056,Central Bedfordshire,59.9,Similar,2017
+1073,E06000057,Northumberland,62.3,Similar,2017
+1074,E07000008,Cambridge,42.8,Better,2017
+1075,E07000009,East Cambridgeshire,60.1,Similar,2017
+1076,E07000010,Fenland,67.1,Worse,2017
+1077,E07000011,Huntingdonshire,65,Similar,2017
+1078,E07000012,South Cambridgeshire,58.7,Similar,2017
+1079,E07000026,Allerdale,62.6,Similar,2017
+1080,E07000027,Barrow-in-Furness,65.6,Similar,2017
+1081,E07000028,Carlisle,63,Similar,2017
+1082,E07000029,Copeland,71.2,Worse,2017
+1083,E07000030,Eden,62.2,Similar,2017
+1084,E07000031,South Lakeland,52.9,Better,2017
+1085,E07000032,Amber Valley,61.3,Similar,2017
+1086,E07000033,Bolsover,69.4,Worse,2017
+1087,E07000034,Chesterfield,70.7,Worse,2017
+1088,E07000035,Derbyshire Dales,58,Similar,2017
+1089,E07000036,Erewash,65.9,Similar,2017
+1090,E07000037,High Peak,57.9,Similar,2017
+1091,E07000038,North East Derbyshire,68.6,Worse,2017
+1092,E07000039,South Derbyshire,66.5,Similar,2017
+1093,E07000040,East Devon,57.5,Similar,2017
+1094,E07000041,Exeter,56.2,Better,2017
+1095,E07000042,Mid Devon,61.9,Similar,2017
+1096,E07000043,North Devon,65,Similar,2017
+1097,E07000044,South Hams,61.3,Similar,2017
+1098,E07000045,Teignbridge,63.3,Similar,2017
+1099,E07000046,Torridge,65.5,Similar,2017
+1100,E07000047,West Devon,58.4,Similar,2017
+1101,E07000061,Eastbourne,61.2,Similar,2017
+1102,E07000062,Hastings,58.4,Similar,2017
+1103,E07000063,Lewes,58.7,Similar,2017
+1104,E07000064,Rother,56.3,Better,2017
+1105,E07000065,Wealden,64.2,Similar,2017
+1106,E07000066,Basildon,71.2,Worse,2017
+1107,E07000067,Braintree,61,Similar,2017
+1108,E07000068,Brentwood,60,Similar,2017
+1109,E07000069,Castle Point,65.9,Similar,2017
+1110,E07000070,Chelmsford,57.1,Better,2017
+1111,E07000071,Colchester,58.6,Similar,2017
+1112,E07000072,Epping Forest,58.4,Similar,2017
+1113,E07000073,Harlow,69.7,Worse,2017
+1114,E07000074,Maldon,65.6,Similar,2017
+1115,E07000075,Rochford,58.2,Similar,2017
+1116,E07000076,Tendring,70,Worse,2017
+1117,E07000077,Uttlesford,56.4,Better,2017
+1118,E07000078,Cheltenham,57,Better,2017
+1119,E07000079,Cotswold,58.4,Similar,2017
+1120,E07000080,Forest of Dean,65.7,Similar,2017
+1121,E07000081,Gloucester,65.1,Similar,2017
+1122,E07000082,Stroud,58.4,Similar,2017
+1123,E07000083,Tewkesbury,60.8,Similar,2017
+1124,E07000084,Basingstoke and Deane,61.9,Similar,2017
+1125,E07000085,East Hampshire,62.8,Similar,2017
+1126,E07000086,Eastleigh,61,Similar,2017
+1127,E07000087,Fareham,67,Worse,2017
+1128,E07000088,Gosport,66.8,Worse,2017
+1129,E07000089,Hart,53.8,Better,2017
+1130,E07000090,Havant,66.7,Worse,2017
+1131,E07000091,New Forest,65.3,Similar,2017
+1132,E07000092,Rushmoor,68.2,Worse,2017
+1133,E07000093,Test Valley,63.7,Similar,2017
+1134,E07000094,Winchester,57,Better,2017
+1135,E07000095,Broxbourne,69.6,Worse,2017
+1136,E07000096,Dacorum,60.7,Similar,2017
+1137,E07000098,Hertsmere,62.3,Similar,2017
+1138,E07000099,North Hertfordshire,61.9,Similar,2017
+1139,E07000102,Three Rivers,58.5,Similar,2017
+1140,E07000103,Watford,67.5,Worse,2017
+1141,E07000105,Ashford,65.4,Similar,2017
+1142,E07000106,Canterbury,56.2,Better,2017
+1143,E07000107,Dartford,65.1,Similar,2017
+1144,E07000108,Dover,71,Worse,2017
+1145,E07000109,Gravesham,68.4,Worse,2017
+1146,E07000110,Maidstone,60.2,Similar,2017
+1147,E07000111,Sevenoaks,56.8,Better,2017
+1148,E07000112,Folkestone & Hythe,62.6,Similar,2017
+1149,E07000113,Swale,61.6,Similar,2017
+1150,E07000114,Thanet,69.2,Worse,2017
+1151,E07000115,Tonbridge and Malling,58,Similar,2017
+1152,E07000116,Tunbridge Wells,58.7,Similar,2017
+1153,E07000117,Burnley,63.4,Similar,2017
+1154,E07000118,Chorley,65.7,Similar,2017
+1155,E07000119,Fylde,68,Worse,2017
+1156,E07000120,Hyndburn,76.9,Worse,2017
+1157,E07000121,Lancaster,55.7,Better,2017
+1158,E07000122,Pendle,62.8,Similar,2017
+1159,E07000123,Preston,60,Similar,2017
+1160,E07000124,Ribble Valley,59.4,Similar,2017
+1161,E07000125,Rossendale,65.8,Similar,2017
+1162,E07000126,South Ribble,63.7,Similar,2017
+1163,E07000127,West Lancashire,69.5,Worse,2017
+1164,E07000128,Wyre,64.8,Similar,2017
+1165,E07000129,Blaby,62.5,Similar,2017
+1166,E07000130,Charnwood,57.1,Better,2017
+1167,E07000131,Harborough,57.6,Similar,2017
+1168,E07000132,Hinckley and Bosworth,63.8,Similar,2017
+1169,E07000133,Melton,65.5,Similar,2017
+1170,E07000134,North West Leicestershire,66.9,Worse,2017
+1171,E07000135,Oadby and Wigston,58.2,Similar,2017
+1172,E07000136,Boston,71.4,Worse,2017
+1173,E07000137,East Lindsey,63.3,Similar,2017
+1174,E07000138,Lincoln,61,Similar,2017
+1175,E07000139,North Kesteven,67.5,Worse,2017
+1176,E07000140,South Holland,64.4,Similar,2017
+1177,E07000141,South Kesteven,66.9,Worse,2017
+1178,E07000142,West Lindsey,64.5,Similar,2017
+1179,E07000143,Breckland,65.5,Similar,2017
+1180,E07000144,Broadland,55.1,Better,2017
+1181,E07000145,Great Yarmouth,66,Similar,2017
+1182,E07000146,King's Lynn and West Norfolk,60.8,Similar,2017
+1183,E07000147,North Norfolk,61.9,Similar,2017
+1184,E07000148,Norwich,56.7,Better,2017
+1185,E07000149,South Norfolk,56.6,Better,2017
+1186,E07000163,Craven,57.2,Better,2017
+1187,E07000164,Hambleton,62.6,Similar,2017
+1188,E07000165,Harrogate,57.3,Better,2017
+1189,E07000166,Richmondshire,61.4,Similar,2017
+1190,E07000167,Ryedale,57.8,Similar,2017
+1191,E07000168,Scarborough,62.8,Similar,2017
+1192,E07000169,Selby,70.6,Worse,2017
+1193,E07000170,Ashfield,69.9,Worse,2017
+1194,E07000171,Bassetlaw,72.1,Worse,2017
+1195,E07000172,Broxtowe,66,Similar,2017
+1196,E07000173,Gedling,64.6,Similar,2017
+1197,E07000174,Mansfield,68.3,Worse,2017
+1198,E07000175,Newark and Sherwood,70.7,Worse,2017
+1199,E07000176,Rushcliffe,59.7,Similar,2017
+1200,E07000177,Cherwell,62.4,Similar,2017
+1201,E07000178,Oxford,54.4,Better,2017
+1202,E07000179,South Oxfordshire,57.2,Better,2017
+1203,E07000180,Vale of White Horse,58.6,Similar,2017
+1204,E07000181,West Oxfordshire,60.4,Similar,2017
+1205,E07000187,Mendip,65,Similar,2017
+1206,E07000188,Sedgemoor,67.7,Worse,2017
+1207,E07000189,South Somerset,70.5,Worse,2017
+1208,E07000192,Cannock Chase,74.7,Worse,2017
+1209,E07000193,East Staffordshire,67,Worse,2017
+1210,E07000194,Lichfield,63.2,Similar,2017
+1211,E07000195,Newcastle-under-Lyme,66.1,Similar,2017
+1212,E07000196,South Staffordshire,63.3,Similar,2017
+1213,E07000197,Stafford,61.2,Similar,2017
+1214,E07000198,Staffordshire Moorlands,64,Similar,2017
+1215,E07000199,Tamworth,63.6,Similar,2017
+1216,E07000200,Babergh,62.7,Similar,2017
+1217,E07000202,Ipswich,65.8,Similar,2017
+1218,E07000203,Mid Suffolk,68,Worse,2017
+1219,E07000207,Elmbridge,55.1,Better,2017
+1220,E07000208,Epsom and Ewell,52.6,Better,2017
+1221,E07000209,Guildford,58.8,Similar,2017
+1222,E07000210,Mole Valley,52.6,Better,2017
+1223,E07000211,Reigate and Banstead,54.4,Better,2017
+1224,E07000212,Runnymede,60.6,Similar,2017
+1225,E07000213,Spelthorne,57.9,Similar,2017
+1226,E07000214,Surrey Heath,60.7,Similar,2017
+1227,E07000215,Tandridge,54.3,Better,2017
+1228,E07000216,Waverley,51.6,Better,2017
+1229,E07000217,Woking,50.8,Better,2017
+1230,E07000218,North Warwickshire,67,Worse,2017
+1231,E07000219,Nuneaton and Bedworth,71.4,Worse,2017
+1232,E07000220,Rugby,66.7,Worse,2017
+1233,E07000221,Stratford-on-Avon,56.4,Better,2017
+1234,E07000222,Warwick,53.6,Better,2017
+1235,E07000223,Adur,62.5,Similar,2017
+1236,E07000224,Arun,68.6,Worse,2017
+1237,E07000225,Chichester,59.4,Similar,2017
+1238,E07000226,Crawley,66.4,Similar,2017
+1239,E07000227,Horsham,61.4,Similar,2017
+1240,E07000228,Mid Sussex,56.5,Better,2017
+1241,E07000229,Worthing,55.9,Better,2017
+1242,E07000234,Bromsgrove,65.8,Similar,2017
+1243,E07000235,Malvern Hills,61.5,Similar,2017
+1244,E07000236,Redditch,75.5,Worse,2017
+1245,E07000237,Worcester,65,Similar,2017
+1246,E07000238,Wychavon,61.5,Similar,2017
+1247,E07000239,Wyre Forest,62.5,Similar,2017
+1248,E07000240,St Albans,49.4,Better,2017
+1249,E07000241,Welwyn Hatfield,63.8,Similar,2017
+1250,E07000242,East Hertfordshire,54.2,Better,2017
+1251,E07000243,Stevenage,63.6,Similar,2017
+1252,E07000244,East Suffolk,62.3,Similar,2017
+1253,E07000245,West Suffolk,61.2,Similar,2017
+1254,E07000246,Somerset West and Taunton,65.5,Worse,2017
+1255,E08000001,Bolton,63.2,Similar,2017
+1256,E08000002,Bury,64,Similar,2017
+1257,E08000003,Manchester,64.3,Similar,2017
+1258,E08000004,Oldham,66.7,Worse,2017
+1259,E08000005,Rochdale,64.3,Similar,2017
+1260,E08000006,Salford,66.8,Worse,2017
+1261,E08000007,Stockport,60,Similar,2017
+1262,E08000008,Tameside,65.7,Worse,2017
+1263,E08000009,Trafford,57.4,Better,2017
+1264,E08000010,Wigan,67.9,Worse,2017
+1265,E08000011,Knowsley,72.4,Worse,2017
+1266,E08000012,Liverpool,64.3,Similar,2017
+1267,E08000013,St. Helens,73.1,Worse,2017
+1268,E08000014,Sefton,70.8,Worse,2017
+1269,E08000015,Wirral,62.2,Similar,2017
+1270,E08000016,Barnsley,69.7,Worse,2017
+1271,E08000017,Doncaster,71.3,Worse,2017
+1272,E08000018,Rotherham,61.6,Similar,2017
+1273,E08000019,Sheffield,62.9,Similar,2017
+1274,E08000021,Newcastle upon Tyne,62.4,Similar,2017
+1275,E08000022,North Tyneside,63.3,Similar,2017
+1276,E08000023,South Tyneside,70.2,Worse,2017
+1277,E08000024,Sunderland,68.6,Worse,2017
+1278,E08000025,Birmingham,64.8,Worse,2017
+1279,E08000026,Coventry,65,Similar,2017
+1280,E08000027,Dudley,65,Similar,2017
+1281,E08000028,Sandwell,70.5,Worse,2017
+1282,E08000029,Solihull,54.6,Better,2017
+1283,E08000030,Walsall,65.7,Similar,2017
+1284,E08000031,Wolverhampton,67.1,Worse,2017
+1285,E08000032,Bradford,60.6,Similar,2017
+1286,E08000033,Calderdale,68.7,Worse,2017
+1287,E08000034,Kirklees,61.7,Similar,2017
+1288,E08000035,Leeds,62.8,Similar,2017
+1289,E08000036,Wakefield,68,Worse,2017
+1290,E08000037,Gateshead,69.1,Worse,2017
+1291,E09000001,City of London,42.5,Better,2017
+1292,E09000002,Barking and Dagenham,62.5,Similar,2017
+1293,E09000003,Barnet,54.5,Better,2017
+1294,E09000004,Bexley,62.7,Similar,2017
+1295,E09000005,Brent,55.5,Better,2017
+1296,E09000006,Bromley,51.7,Better,2017
+1297,E09000007,Camden,47.4,Better,2017
+1298,E09000008,Croydon,62.1,Similar,2017
+1299,E09000009,Ealing,60.7,Similar,2017
+1300,E09000010,Enfield,57.8,Similar,2017
+1301,E09000011,Greenwich,58.7,Similar,2017
+1302,E09000012,Hackney,49.2,Better,2017
+1303,E09000013,Hammersmith and Fulham,51.3,Better,2017
+1304,E09000014,Haringey,52.5,Better,2017
+1305,E09000015,Harrow,52.3,Better,2017
+1306,E09000016,Havering,69.4,Worse,2017
+1307,E09000017,Hillingdon,61.8,Similar,2017
+1308,E09000018,Hounslow,60.3,Similar,2017
+1309,E09000019,Islington,47.4,Better,2017
+1310,E09000020,Kensington and Chelsea,49.3,Better,2017
+1311,E09000021,Kingston upon Thames,52.3,Better,2017
+1312,E09000022,Lambeth,52.5,Better,2017
+1313,E09000023,Lewisham,53.9,Better,2017
+1314,E09000024,Merton,59.4,Similar,2017
+1315,E09000025,Newham,61.5,Similar,2017
+1316,E09000026,Redbridge,55.5,Better,2017
+1317,E09000027,Richmond upon Thames,46.6,Better,2017
+1318,E09000028,Southwark,51.7,Better,2017
+1319,E09000029,Sutton,57.5,Similar,2017
+1320,E06000058,"Bournemouth, Christchurch and Poole",61,Similar,2017
+1321,E06000059,Dorset,62.6,Similar,2017
+1322,E06000060,Buckinghamshire,54.7,Better,2017
+1323,E06000061,North Northamptonshire,69.5,Worse,2017
+1324,E06000062,West Northamptonshire,65.8,Worse,2017
+1325,E09000030,Tower Hamlets,50.9,Better,2017
+1326,E09000031,Waltham Forest,56.6,Better,2017
+1327,E09000032,Wandsworth,54.5,Better,2017
+1328,E09000033,Westminster,46.3,Better,2017
+1463,E06000001,Hartlepool,75.2,Worse,2018
+1464,E06000002,Middlesbrough,67.9,Worse,2018
+1465,E06000003,Redcar and Cleveland,68.6,Worse,2018
+1466,E06000004,Stockton-on-Tees,63.9,Similar,2018
+1467,E06000005,Darlington,60.5,Similar,2018
+1468,E06000006,Halton,71.3,Worse,2018
+1469,E06000007,Warrington,65.4,Similar,2018
+1470,E06000008,Blackburn with Darwen,64.2,Similar,2018
+1471,E06000009,Blackpool,65.7,Similar,2018
+1472,E06000010,Kingston upon Hull,71.5,Worse,2018
+1473,E06000011,East Riding of Yorkshire,59.7,Similar,2018
+1474,E06000012,North East Lincolnshire,70.5,Worse,2018
+1475,E06000013,North Lincolnshire,64.7,Similar,2018
+1476,E06000014,York,57.6,Similar,2018
+1477,E06000015,Derby,63.7,Similar,2018
+1478,E06000016,Leicester,58.5,Similar,2018
+1479,E06000017,Rutland,59.9,Similar,2018
+1480,E06000018,Nottingham,59.4,Better,2018
+1481,E06000019,Herefordshire,66.5,Similar,2018
+1482,E06000020,Telford and Wrekin,72.8,Worse,2018
+1483,E06000021,Stoke-on-Trent,66,Similar,2018
+1484,E06000022,Bath and North East Somerset,51.8,Better,2018
+1485,E06000023,Bristol,55,Better,2018
+1486,E06000024,North Somerset,60.9,Similar,2018
+1487,E06000025,South Gloucestershire,60.5,Similar,2018
+1488,E06000026,Plymouth,67.6,Worse,2018
+1489,E06000027,Torbay,61.3,Similar,2018
+1490,E06000030,Swindon,64.7,Similar,2018
+1491,E06000031,Peterborough,67.9,Worse,2018
+1492,E06000032,Luton,67,Worse,2018
+1493,E06000033,Southend-on-Sea,59,Similar,2018
+1494,E06000034,Thurrock,75.8,Worse,2018
+1495,E06000035,Medway,69.6,Worse,2018
+1496,E06000036,Bracknell Forest,59.7,Similar,2018
+1497,E06000037,West Berkshire,57.9,Similar,2018
+1498,E06000038,Reading,58.5,Similar,2018
+1499,E06000039,Slough,65.9,Similar,2018
+1500,E06000040,Windsor and Maidenhead,54.5,Better,2018
+1501,E06000041,Wokingham,59.7,Similar,2018
+1502,E06000042,Milton Keynes,63.6,Similar,2018
+1503,E06000043,Brighton and Hove,50.8,Better,2018
+1504,E06000044,Portsmouth,68.1,Worse,2018
+1505,E06000045,Southampton,64.2,Similar,2018
+1506,E06000046,Isle of Wight,62.1,Similar,2018
+1507,E06000047,County Durham,62.4,Similar,2018
+1508,E06000049,Cheshire East,65.8,Similar,2018
+1509,E06000050,Cheshire West and Chester,65.4,Similar,2018
+1510,E06000051,Shropshire,68.5,Worse,2018
+1511,E06000052,Cornwall,62.7,Similar,2018
+1512,E06000053,Isles of Scilly,58.9,Similar,2018
+1513,E06000054,Wiltshire,60.1,Similar,2018
+1514,E06000055,Bedford,65.1,Similar,2018
+1515,E06000056,Central Bedfordshire,64.3,Similar,2018
+1516,E06000057,Northumberland,63.4,Similar,2018
+1517,E07000008,Cambridge,52.5,Better,2018
+1518,E07000009,East Cambridgeshire,60.7,Similar,2018
+1519,E07000010,Fenland,71.4,Worse,2018
+1520,E07000011,Huntingdonshire,66.4,Similar,2018
+1521,E07000012,South Cambridgeshire,57.5,Better,2018
+1522,E07000026,Allerdale,59.5,Similar,2018
+1523,E07000027,Barrow-in-Furness,69.4,Worse,2018
+1524,E07000028,Carlisle,66.6,Worse,2018
+1525,E07000029,Copeland,69.5,Worse,2018
+1526,E07000030,Eden,51.6,Better,2018
+1527,E07000031,South Lakeland,50.8,Better,2018
+1528,E07000032,Amber Valley,64.5,Similar,2018
+1529,E07000033,Bolsover,71.9,Worse,2018
+1530,E07000034,Chesterfield,67.4,Worse,2018
+1531,E07000035,Derbyshire Dales,53.2,Better,2018
+1532,E07000036,Erewash,68.4,Worse,2018
+1533,E07000037,High Peak,60.2,Similar,2018
+1534,E07000038,North East Derbyshire,65,Similar,2018
+1535,E07000039,South Derbyshire,67.3,Worse,2018
+1536,E07000040,East Devon,54.5,Better,2018
+1537,E07000041,Exeter,59.8,Similar,2018
+1538,E07000042,Mid Devon,68.3,Worse,2018
+1539,E07000043,North Devon,67.3,Worse,2018
+1540,E07000044,South Hams,58.8,Similar,2018
+1541,E07000045,Teignbridge,58.2,Similar,2018
+1542,E07000046,Torridge,61.8,Similar,2018
+1543,E07000047,West Devon,57.7,Similar,2018
+1544,E07000061,Eastbourne,65.7,Similar,2018
+1545,E07000062,Hastings,63.1,Similar,2018
+1546,E07000063,Lewes,58.5,Similar,2018
+1547,E07000064,Rother,66.3,Similar,2018
+1548,E07000065,Wealden,59,Similar,2018
+1549,E07000066,Basildon,60.6,Similar,2018
+1550,E07000067,Braintree,62.8,Similar,2018
+1551,E07000068,Brentwood,52.1,Better,2018
+1552,E07000069,Castle Point,64.9,Similar,2018
+1553,E07000070,Chelmsford,60.6,Similar,2018
+1554,E07000071,Colchester,59.9,Similar,2018
+1555,E07000072,Epping Forest,62.2,Similar,2018
+1556,E07000073,Harlow,66.3,Similar,2018
+1557,E07000074,Maldon,67.3,Worse,2018
+1558,E07000075,Rochford,63.8,Similar,2018
+1559,E07000076,Tendring,64.9,Similar,2018
+1560,E07000077,Uttlesford,56.8,Better,2018
+1561,E07000078,Cheltenham,57.5,Similar,2018
+1562,E07000079,Cotswold,62,Similar,2018
+1563,E07000080,Forest of Dean,64,Similar,2018
+1564,E07000081,Gloucester,60.7,Similar,2018
+1565,E07000082,Stroud,58.1,Similar,2018
+1566,E07000083,Tewkesbury,58.5,Similar,2018
+1567,E07000084,Basingstoke and Deane,61,Similar,2018
+1568,E07000085,East Hampshire,64.4,Similar,2018
+1569,E07000086,Eastleigh,53.9,Better,2018
+1570,E07000087,Fareham,62.1,Similar,2018
+1571,E07000088,Gosport,70.3,Worse,2018
+1572,E07000089,Hart,56.6,Better,2018
+1573,E07000090,Havant,67.2,Worse,2018
+1574,E07000091,New Forest,58.5,Similar,2018
+1575,E07000092,Rushmoor,69,Worse,2018
+1576,E07000093,Test Valley,55.3,Better,2018
+1577,E07000094,Winchester,57.6,Similar,2018
+1578,E07000095,Broxbourne,59.8,Similar,2018
+1579,E07000096,Dacorum,58.3,Similar,2018
+1580,E07000098,Hertsmere,56.8,Better,2018
+1581,E07000099,North Hertfordshire,56,Better,2018
+1582,E07000102,Three Rivers,60.1,Similar,2018
+1583,E07000103,Watford,59.2,Similar,2018
+1584,E07000105,Ashford,63.6,Similar,2018
+1585,E07000106,Canterbury,62.1,Similar,2018
+1586,E07000107,Dartford,72.7,Worse,2018
+1587,E07000108,Dover,70.9,Worse,2018
+1588,E07000109,Gravesham,64.9,Similar,2018
+1589,E07000110,Maidstone,60.9,Similar,2018
+1590,E07000111,Sevenoaks,61.1,Similar,2018
+1591,E07000112,Folkestone & Hythe,68.1,Worse,2018
+1592,E07000113,Swale,65,Similar,2018
+1593,E07000114,Thanet,66.9,Worse,2018
+1594,E07000115,Tonbridge and Malling,60.1,Similar,2018
+1595,E07000116,Tunbridge Wells,59,Similar,2018
+1596,E07000117,Burnley,69.9,Worse,2018
+1597,E07000118,Chorley,59.2,Similar,2018
+1598,E07000119,Fylde,62.2,Similar,2018
+1599,E07000120,Hyndburn,68,Worse,2018
+1600,E07000121,Lancaster,63.1,Similar,2018
+1601,E07000122,Pendle,62.2,Similar,2018
+1602,E07000123,Preston,62.3,Similar,2018
+1603,E07000124,Ribble Valley,59.7,Similar,2018
+1604,E07000125,Rossendale,66.9,Worse,2018
+1605,E07000126,South Ribble,65.7,Similar,2018
+1606,E07000127,West Lancashire,63.4,Similar,2018
+1607,E07000128,Wyre,67.2,Worse,2018
+1608,E07000129,Blaby,62.7,Similar,2018
+1609,E07000130,Charnwood,65.8,Similar,2018
+1610,E07000131,Harborough,61.5,Similar,2018
+1611,E07000132,Hinckley and Bosworth,62.1,Similar,2018
+1612,E07000133,Melton,62,Similar,2018
+1613,E07000134,North West Leicestershire,69,Worse,2018
+1614,E07000135,Oadby and Wigston,64.1,Similar,2018
+1615,E07000136,Boston,71.3,Worse,2018
+1616,E07000137,East Lindsey,61,Similar,2018
+1617,E07000138,Lincoln,66.4,Similar,2018
+1618,E07000139,North Kesteven,67.5,Worse,2018
+1619,E07000140,South Holland,67.8,Worse,2018
+1620,E07000141,South Kesteven,63.2,Similar,2018
+1621,E07000142,West Lindsey,65.1,Similar,2018
+1622,E07000143,Breckland,68.4,Worse,2018
+1623,E07000144,Broadland,58.4,Similar,2018
+1624,E07000145,Great Yarmouth,67.2,Worse,2018
+1625,E07000146,King's Lynn and West Norfolk,64.7,Similar,2018
+1626,E07000147,North Norfolk,63.4,Similar,2018
+1627,E07000148,Norwich,59.2,Similar,2018
+1628,E07000149,South Norfolk,60.7,Similar,2018
+1629,E07000163,Craven,60.7,Similar,2018
+1630,E07000164,Hambleton,63,Similar,2018
+1631,E07000165,Harrogate,58.2,Similar,2018
+1632,E07000166,Richmondshire,59.6,Similar,2018
+1633,E07000167,Ryedale,56.5,Better,2018
+1634,E07000168,Scarborough,66.2,Similar,2018
+1635,E07000169,Selby,72.8,Worse,2018
+1636,E07000170,Ashfield,70.1,Worse,2018
+1637,E07000171,Bassetlaw,70.2,Worse,2018
+1638,E07000172,Broxtowe,63.9,Similar,2018
+1639,E07000173,Gedling,66.7,Similar,2018
+1640,E07000174,Mansfield,66.8,Worse,2018
+1641,E07000175,Newark and Sherwood,69.3,Worse,2018
+1642,E07000176,Rushcliffe,59,Similar,2018
+1643,E07000177,Cherwell,59.3,Similar,2018
+1644,E07000178,Oxford,49.6,Better,2018
+1645,E07000179,South Oxfordshire,50,Better,2018
+1646,E07000180,Vale of White Horse,57.3,Better,2018
+1647,E07000181,West Oxfordshire,63.2,Similar,2018
+1648,E07000187,Mendip,62.5,Similar,2018
+1649,E07000188,Sedgemoor,66.3,Similar,2018
+1650,E07000189,South Somerset,61,Similar,2018
+1651,E07000192,Cannock Chase,71.3,Worse,2018
+1652,E07000193,East Staffordshire,63.2,Similar,2018
+1653,E07000194,Lichfield,68.6,Worse,2018
+1654,E07000195,Newcastle-under-Lyme,60.8,Similar,2018
+1655,E07000196,South Staffordshire,60.8,Similar,2018
+1656,E07000197,Stafford,60,Similar,2018
+1657,E07000198,Staffordshire Moorlands,62.2,Similar,2018
+1658,E07000199,Tamworth,68.6,Worse,2018
+1659,E07000200,Babergh,67,Worse,2018
+1660,E07000202,Ipswich,68.2,Worse,2018
+1661,E07000203,Mid Suffolk,64.9,Similar,2018
+1662,E07000207,Elmbridge,54.5,Better,2018
+1663,E07000208,Epsom and Ewell,60.3,Similar,2018
+1664,E07000209,Guildford,56.8,Better,2018
+1665,E07000210,Mole Valley,59.8,Similar,2018
+1666,E07000211,Reigate and Banstead,59.5,Similar,2018
+1667,E07000212,Runnymede,55.3,Better,2018
+1668,E07000213,Spelthorne,54.3,Better,2018
+1669,E07000214,Surrey Heath,58.4,Similar,2018
+1670,E07000215,Tandridge,57.6,Similar,2018
+1671,E07000216,Waverley,54.8,Better,2018
+1672,E07000217,Woking,62,Similar,2018
+1673,E07000218,North Warwickshire,66.2,Similar,2018
+1674,E07000219,Nuneaton and Bedworth,68,Worse,2018
+1675,E07000220,Rugby,66.2,Similar,2018
+1676,E07000221,Stratford-on-Avon,61.5,Similar,2018
+1677,E07000222,Warwick,60.3,Similar,2018
+1678,E07000223,Adur,67.3,Worse,2018
+1679,E07000224,Arun,65.3,Similar,2018
+1680,E07000225,Chichester,62.2,Similar,2018
+1681,E07000226,Crawley,60.4,Similar,2018
+1682,E07000227,Horsham,58.7,Similar,2018
+1683,E07000228,Mid Sussex,63.1,Similar,2018
+1684,E07000229,Worthing,55.4,Better,2018
+1685,E07000234,Bromsgrove,61.6,Similar,2018
+1686,E07000235,Malvern Hills,63,Similar,2018
+1687,E07000236,Redditch,66.1,Similar,2018
+1688,E07000237,Worcester,69.3,Worse,2018
+1689,E07000238,Wychavon,61.2,Similar,2018
+1690,E07000239,Wyre Forest,67.3,Worse,2018
+1691,E07000240,St Albans,51.1,Better,2018
+1692,E07000241,Welwyn Hatfield,65.4,Similar,2018
+1693,E07000242,East Hertfordshire,61,Similar,2018
+1694,E07000243,Stevenage,65.4,Similar,2018
+1695,E07000244,East Suffolk,62.2,Similar,2018
+1696,E07000245,West Suffolk,68.3,Worse,2018
+1697,E07000246,Somerset West and Taunton,65.8,Worse,2018
+1698,E08000001,Bolton,67.1,Worse,2018
+1699,E08000002,Bury,59.6,Similar,2018
+1700,E08000003,Manchester,60.9,Similar,2018
+1701,E08000004,Oldham,63.8,Similar,2018
+1702,E08000005,Rochdale,65.4,Worse,2018
+1703,E08000006,Salford,63.7,Similar,2018
+1704,E08000007,Stockport,60.1,Similar,2018
+1705,E08000008,Tameside,69.6,Worse,2018
+1706,E08000009,Trafford,60,Similar,2018
+1707,E08000010,Wigan,69.1,Worse,2018
+1708,E08000011,Knowsley,72.3,Worse,2018
+1709,E08000012,Liverpool,67.3,Worse,2018
+1710,E08000013,St. Helens,68.6,Worse,2018
+1711,E08000014,Sefton,64,Similar,2018
+1712,E08000015,Wirral,65.5,Similar,2018
+1713,E08000016,Barnsley,64.6,Similar,2018
+1714,E08000017,Doncaster,69.7,Worse,2018
+1715,E08000018,Rotherham,73.8,Worse,2018
+1716,E08000019,Sheffield,64.1,Similar,2018
+1717,E08000021,Newcastle upon Tyne,61.1,Similar,2018
+1718,E08000022,North Tyneside,64.5,Similar,2018
+1719,E08000023,South Tyneside,69.7,Worse,2018
+1720,E08000024,Sunderland,65.5,Similar,2018
+1721,E08000025,Birmingham,61.4,Similar,2018
+1722,E08000026,Coventry,65.7,Similar,2018
+1723,E08000027,Dudley,70.3,Worse,2018
+1724,E08000028,Sandwell,71,Worse,2018
+1725,E08000029,Solihull,60.3,Similar,2018
+1726,E08000030,Walsall,73.7,Worse,2018
+1727,E08000031,Wolverhampton,66,Similar,2018
+1728,E08000032,Bradford,65.4,Worse,2018
+1729,E08000033,Calderdale,62.8,Similar,2018
+1730,E08000034,Kirklees,68.6,Worse,2018
+1731,E08000035,Leeds,62.3,Similar,2018
+1732,E08000036,Wakefield,64.8,Similar,2018
+1733,E08000037,Gateshead,64.7,Similar,2018
+1734,E09000001,City of London,44.8,Better,2018
+1735,E09000002,Barking and Dagenham,69.9,Worse,2018
+1736,E09000003,Barnet,55.2,Better,2018
+1737,E09000004,Bexley,64.3,Similar,2018
+1738,E09000005,Brent,51.8,Better,2018
+1739,E09000006,Bromley,64.1,Similar,2018
+1740,E09000007,Camden,41.5,Better,2018
+1741,E09000008,Croydon,60.7,Similar,2018
+1742,E09000009,Ealing,61.6,Similar,2018
+1743,E09000010,Enfield,66.3,Similar,2018
+1744,E09000011,Greenwich,57.5,Similar,2018
+1745,E09000012,Hackney,53.4,Better,2018
+1746,E09000013,Hammersmith and Fulham,48.7,Better,2018
+1747,E09000014,Haringey,50.2,Better,2018
+1748,E09000015,Harrow,57,Better,2018
+1749,E09000016,Havering,63.2,Similar,2018
+1750,E09000017,Hillingdon,59.2,Similar,2018
+1751,E09000018,Hounslow,57.2,Better,2018
+1752,E09000019,Islington,56.5,Better,2018
+1753,E09000020,Kensington and Chelsea,51.7,Better,2018
+1754,E09000021,Kingston upon Thames,58.3,Similar,2018
+1755,E09000022,Lambeth,50.4,Better,2018
+1756,E09000023,Lewisham,58.4,Similar,2018
+1757,E09000024,Merton,57,Better,2018
+1758,E09000025,Newham,56.2,Better,2018
+1759,E09000026,Redbridge,58.7,Similar,2018
+1760,E09000027,Richmond upon Thames,54.3,Better,2018
+1761,E09000028,Southwark,52,Better,2018
+1762,E09000029,Sutton,61,Similar,2018
+1763,E06000058,"Bournemouth, Christchurch and Poole",61,Similar,2018
+1764,E06000059,Dorset,59.7,Better,2018
+1765,E06000060,Buckinghamshire,60.4,Similar,2018
+1766,E06000061,North Northamptonshire,65.8,Worse,2018
+1767,E06000062,West Northamptonshire,61.7,Similar,2018
+1768,E09000030,Tower Hamlets,57.4,Similar,2018
+1769,E09000031,Waltham Forest,55.3,Better,2018
+1770,E09000032,Wandsworth,50.9,Better,2018
+1771,E09000033,Westminster,48.5,Better,2018
+1906,E06000001,Hartlepool,72.5,Worse,2019
+1907,E06000002,Middlesbrough,70,Worse,2019
+1908,E06000003,Redcar and Cleveland,72.5,Worse,2019
+1909,E06000004,Stockton-on-Tees,66.7,Similar,2019
+1910,E06000005,Darlington,65.4,Similar,2019
+1911,E06000006,Halton,76.9,Worse,2019
+1912,E06000007,Warrington,63.1,Similar,2019
+1913,E06000008,Blackburn with Darwen,65.3,Similar,2019
+1914,E06000009,Blackpool,71.9,Worse,2019
+1915,E06000010,Kingston upon Hull,64.1,Similar,2019
+1916,E06000011,East Riding of Yorkshire,64,Similar,2019
+1917,E06000012,North East Lincolnshire,73.6,Worse,2019
+1918,E06000013,North Lincolnshire,70.8,Worse,2019
+1919,E06000014,York,62.3,Similar,2019
+1920,E06000015,Derby,62.6,Similar,2019
+1921,E06000016,Leicester,66,Similar,2019
+1922,E06000017,Rutland,66.5,Similar,2019
+1923,E06000018,Nottingham,66.9,Worse,2019
+1924,E06000019,Herefordshire,60.6,Similar,2019
+1925,E06000020,Telford and Wrekin,71.8,Worse,2019
+1926,E06000021,Stoke-on-Trent,76.5,Worse,2019
+1927,E06000022,Bath and North East Somerset,56.9,Better,2019
+1928,E06000023,Bristol,57.4,Better,2019
+1929,E06000024,North Somerset,62.2,Similar,2019
+1930,E06000025,South Gloucestershire,67.9,Worse,2019
+1931,E06000026,Plymouth,67.5,Worse,2019
+1932,E06000027,Torbay,65.5,Similar,2019
+1933,E06000030,Swindon,66.3,Similar,2019
+1934,E06000031,Peterborough,59.5,Similar,2019
+1935,E06000032,Luton,71.3,Worse,2019
+1936,E06000033,Southend-on-Sea,63.9,Similar,2019
+1937,E06000034,Thurrock,69.2,Worse,2019
+1938,E06000035,Medway,69.2,Worse,2019
+1939,E06000036,Bracknell Forest,65.3,Similar,2019
+1940,E06000037,West Berkshire,57.8,Better,2019
+1941,E06000038,Reading,61.6,Similar,2019
+1942,E06000039,Slough,58.7,Similar,2019
+1943,E06000040,Windsor and Maidenhead,62.3,Similar,2019
+1944,E06000041,Wokingham,58,Better,2019
+1945,E06000042,Milton Keynes,63.4,Similar,2019
+1946,E06000043,Brighton and Hove,49.9,Better,2019
+1947,E06000044,Portsmouth,66.9,Similar,2019
+1948,E06000045,Southampton,57.9,Better,2019
+1949,E06000046,Isle of Wight,62.7,Similar,2019
+1950,E06000047,County Durham,63.4,Similar,2019
+1951,E06000049,Cheshire East,68.8,Worse,2019
+1952,E06000050,Cheshire West and Chester,69.8,Worse,2019
+1953,E06000051,Shropshire,65.1,Similar,2019
+1954,E06000052,Cornwall,63.4,Similar,2019
+1955,E06000053,Isles of Scilly,54.2,Better,2019
+1956,E06000054,Wiltshire,63.4,Similar,2019
+1957,E06000055,Bedford,62.2,Similar,2019
+1958,E06000056,Central Bedfordshire,58,Better,2019
+1959,E06000057,Northumberland,70.6,Worse,2019
+1960,E07000008,Cambridge,47.7,Better,2019
+1961,E07000009,East Cambridgeshire,57,Better,2019
+1962,E07000010,Fenland,74.6,Worse,2019
+1963,E07000011,Huntingdonshire,64.3,Similar,2019
+1964,E07000012,South Cambridgeshire,58.6,Similar,2019
+1965,E07000026,Allerdale,60.1,Similar,2019
+1966,E07000027,Barrow-in-Furness,72.2,Worse,2019
+1967,E07000028,Carlisle,61.6,Similar,2019
+1968,E07000029,Copeland,64.9,Similar,2019
+1969,E07000030,Eden,58.4,Similar,2019
+1970,E07000031,South Lakeland,52.3,Better,2019
+1971,E07000032,Amber Valley,64.9,Similar,2019
+1972,E07000033,Bolsover,76.5,Worse,2019
+1973,E07000034,Chesterfield,67.8,Worse,2019
+1974,E07000035,Derbyshire Dales,55.7,Better,2019
+1975,E07000036,Erewash,63.2,Similar,2019
+1976,E07000037,High Peak,62.7,Similar,2019
+1977,E07000038,North East Derbyshire,71.1,Worse,2019
+1978,E07000039,South Derbyshire,69.7,Worse,2019
+1979,E07000040,East Devon,57,Better,2019
+1980,E07000041,Exeter,57.7,Better,2019
+1981,E07000042,Mid Devon,67.7,Worse,2019
+1982,E07000043,North Devon,67.3,Worse,2019
+1983,E07000044,South Hams,53,Better,2019
+1984,E07000045,Teignbridge,61.8,Similar,2019
+1985,E07000046,Torridge,63.8,Similar,2019
+1986,E07000047,West Devon,55.8,Better,2019
+1987,E07000061,Eastbourne,64.3,Similar,2019
+1988,E07000062,Hastings,65.6,Similar,2019
+1989,E07000063,Lewes,60.7,Similar,2019
+1990,E07000064,Rother,65.7,Similar,2019
+1991,E07000065,Wealden,62.3,Similar,2019
+1992,E07000066,Basildon,66.8,Similar,2019
+1993,E07000067,Braintree,60.5,Similar,2019
+1994,E07000068,Brentwood,61.2,Similar,2019
+1995,E07000069,Castle Point,73.3,Worse,2019
+1996,E07000070,Chelmsford,59.4,Similar,2019
+1997,E07000071,Colchester,63.2,Similar,2019
+1998,E07000072,Epping Forest,61.8,Similar,2019
+1999,E07000073,Harlow,62.8,Similar,2019
+2000,E07000074,Maldon,59.1,Similar,2019
+2001,E07000075,Rochford,62.9,Similar,2019
+2002,E07000076,Tendring,69.3,Worse,2019
+2003,E07000077,Uttlesford,62.7,Similar,2019
+2004,E07000078,Cheltenham,56.1,Better,2019
+2005,E07000079,Cotswold,58.9,Similar,2019
+2006,E07000080,Forest of Dean,67.2,Similar,2019
+2007,E07000081,Gloucester,65.4,Similar,2019
+2008,E07000082,Stroud,60.3,Similar,2019
+2009,E07000083,Tewkesbury,59.1,Similar,2019
+2010,E07000084,Basingstoke and Deane,65.2,Similar,2019
+2011,E07000085,East Hampshire,58.7,Similar,2019
+2012,E07000086,Eastleigh,65.1,Similar,2019
+2013,E07000087,Fareham,63.7,Similar,2019
+2014,E07000088,Gosport,68.1,Worse,2019
+2015,E07000089,Hart,57.3,Better,2019
+2016,E07000090,Havant,66.8,Similar,2019
+2017,E07000091,New Forest,65.4,Similar,2019
+2018,E07000092,Rushmoor,63.5,Similar,2019
+2019,E07000093,Test Valley,60.6,Similar,2019
+2020,E07000094,Winchester,58.6,Similar,2019
+2021,E07000095,Broxbourne,59.7,Similar,2019
+2022,E07000096,Dacorum,59.6,Similar,2019
+2023,E07000098,Hertsmere,60,Similar,2019
+2024,E07000099,North Hertfordshire,57.7,Better,2019
+2025,E07000102,Three Rivers,55.9,Better,2019
+2026,E07000103,Watford,59.8,Similar,2019
+2027,E07000105,Ashford,65.4,Similar,2019
+2028,E07000106,Canterbury,63.4,Similar,2019
+2029,E07000107,Dartford,63.8,Similar,2019
+2030,E07000108,Dover,64.6,Similar,2019
+2031,E07000109,Gravesham,70.2,Worse,2019
+2032,E07000110,Maidstone,64.9,Similar,2019
+2033,E07000111,Sevenoaks,63.5,Similar,2019
+2034,E07000112,Folkestone & Hythe,69.4,Worse,2019
+2035,E07000113,Swale,62.1,Similar,2019
+2036,E07000114,Thanet,67.9,Worse,2019
+2037,E07000115,Tonbridge and Malling,61.6,Similar,2019
+2038,E07000116,Tunbridge Wells,57,Better,2019
+2039,E07000117,Burnley,69.6,Worse,2019
+2040,E07000118,Chorley,68.4,Worse,2019
+2041,E07000119,Fylde,67.4,Worse,2019
+2042,E07000120,Hyndburn,67.7,Worse,2019
+2043,E07000121,Lancaster,64,Similar,2019
+2044,E07000122,Pendle,65.3,Similar,2019
+2045,E07000123,Preston,61,Similar,2019
+2046,E07000124,Ribble Valley,60.7,Similar,2019
+2047,E07000125,Rossendale,73.3,Worse,2019
+2048,E07000126,South Ribble,68.4,Worse,2019
+2049,E07000127,West Lancashire,68.9,Worse,2019
+2050,E07000128,Wyre,62.5,Similar,2019
+2051,E07000129,Blaby,64.6,Similar,2019
+2052,E07000130,Charnwood,59.8,Similar,2019
+2053,E07000131,Harborough,62.3,Similar,2019
+2054,E07000132,Hinckley and Bosworth,61.8,Similar,2019
+2055,E07000133,Melton,62,Similar,2019
+2056,E07000134,North West Leicestershire,72,Worse,2019
+2057,E07000135,Oadby and Wigston,55.8,Better,2019
+2058,E07000136,Boston,72.9,Worse,2019
+2059,E07000137,East Lindsey,74.6,Worse,2019
+2060,E07000138,Lincoln,59.5,Similar,2019
+2061,E07000139,North Kesteven,65.6,Similar,2019
+2062,E07000140,South Holland,66.1,Similar,2019
+2063,E07000141,South Kesteven,65.8,Similar,2019
+2064,E07000142,West Lindsey,60.3,Similar,2019
+2065,E07000143,Breckland,65.2,Similar,2019
+2066,E07000144,Broadland,65.6,Similar,2019
+2067,E07000145,Great Yarmouth,64.1,Similar,2019
+2068,E07000146,King's Lynn and West Norfolk,62.6,Similar,2019
+2069,E07000147,North Norfolk,62.2,Similar,2019
+2070,E07000148,Norwich,56.1,Better,2019
+2071,E07000149,South Norfolk,56.8,Better,2019
+2072,E07000163,Craven,53.7,Better,2019
+2073,E07000164,Hambleton,63.8,Similar,2019
+2074,E07000165,Harrogate,54.9,Better,2019
+2075,E07000166,Richmondshire,61.9,Similar,2019
+2076,E07000167,Ryedale,63.1,Similar,2019
+2077,E07000168,Scarborough,70.8,Worse,2019
+2078,E07000169,Selby,61,Similar,2019
+2079,E07000170,Ashfield,68.6,Worse,2019
+2080,E07000171,Bassetlaw,68.2,Worse,2019
+2081,E07000172,Broxtowe,65.2,Similar,2019
+2082,E07000173,Gedling,62.9,Similar,2019
+2083,E07000174,Mansfield,73.1,Worse,2019
+2084,E07000175,Newark and Sherwood,62.3,Similar,2019
+2085,E07000176,Rushcliffe,55.4,Better,2019
+2086,E07000177,Cherwell,63.4,Similar,2019
+2087,E07000178,Oxford,48.9,Better,2019
+2088,E07000179,South Oxfordshire,53.8,Better,2019
+2089,E07000180,Vale of White Horse,58.8,Similar,2019
+2090,E07000181,West Oxfordshire,63.3,Similar,2019
+2091,E07000187,Mendip,58.1,Better,2019
+2092,E07000188,Sedgemoor,70.1,Worse,2019
+2093,E07000189,South Somerset,58.6,Similar,2019
+2094,E07000192,Cannock Chase,70.1,Worse,2019
+2095,E07000193,East Staffordshire,63,Similar,2019
+2096,E07000194,Lichfield,68.5,Worse,2019
+2097,E07000195,Newcastle-under-Lyme,61.7,Similar,2019
+2098,E07000196,South Staffordshire,65.2,Similar,2019
+2099,E07000197,Stafford,68,Worse,2019
+2100,E07000198,Staffordshire Moorlands,66.7,Similar,2019
+2101,E07000199,Tamworth,70.4,Worse,2019
+2102,E07000200,Babergh,69.7,Worse,2019
+2103,E07000202,Ipswich,63.2,Similar,2019
+2104,E07000203,Mid Suffolk,61.6,Similar,2019
+2105,E07000207,Elmbridge,49.4,Better,2019
+2106,E07000208,Epsom and Ewell,59.5,Similar,2019
+2107,E07000209,Guildford,58,Better,2019
+2108,E07000210,Mole Valley,56.8,Better,2019
+2109,E07000211,Reigate and Banstead,58.5,Similar,2019
+2110,E07000212,Runnymede,63.8,Similar,2019
+2111,E07000213,Spelthorne,66.2,Similar,2019
+2112,E07000214,Surrey Heath,64.9,Similar,2019
+2113,E07000215,Tandridge,60,Similar,2019
+2114,E07000216,Waverley,49.4,Better,2019
+2115,E07000217,Woking,60.7,Similar,2019
+2116,E07000218,North Warwickshire,68.7,Worse,2019
+2117,E07000219,Nuneaton and Bedworth,72.2,Worse,2019
+2118,E07000220,Rugby,60.4,Similar,2019
+2119,E07000221,Stratford-on-Avon,58.3,Similar,2019
+2120,E07000222,Warwick,58.9,Similar,2019
+2121,E07000223,Adur,60.7,Similar,2019
+2122,E07000224,Arun,71.2,Worse,2019
+2123,E07000225,Chichester,65.7,Similar,2019
+2124,E07000226,Crawley,65.9,Similar,2019
+2125,E07000227,Horsham,56.8,Better,2019
+2126,E07000228,Mid Sussex,57.3,Better,2019
+2127,E07000229,Worthing,55.7,Better,2019
+2128,E07000234,Bromsgrove,63.4,Similar,2019
+2129,E07000235,Malvern Hills,62.7,Similar,2019
+2130,E07000236,Redditch,67.2,Similar,2019
+2131,E07000237,Worcester,61.2,Similar,2019
+2132,E07000238,Wychavon,65.4,Similar,2019
+2133,E07000239,Wyre Forest,68.5,Worse,2019
+2134,E07000240,St Albans,52.1,Better,2019
+2135,E07000241,Welwyn Hatfield,61,Similar,2019
+2136,E07000242,East Hertfordshire,62.6,Similar,2019
+2137,E07000243,Stevenage,70.1,Worse,2019
+2138,E07000244,East Suffolk,62.2,Similar,2019
+2139,E07000245,West Suffolk,58.9,Similar,2019
+2140,E07000246,Somerset West and Taunton,63.7,Similar,2019
+2141,E08000001,Bolton,67.8,Worse,2019
+2142,E08000002,Bury,62.7,Similar,2019
+2143,E08000003,Manchester,61,Similar,2019
+2144,E08000004,Oldham,69.1,Worse,2019
+2145,E08000005,Rochdale,70.2,Worse,2019
+2146,E08000006,Salford,65.3,Similar,2019
+2147,E08000007,Stockport,64.5,Similar,2019
+2148,E08000008,Tameside,71.5,Worse,2019
+2149,E08000009,Trafford,59.3,Better,2019
+2150,E08000010,Wigan,72.5,Worse,2019
+2151,E08000011,Knowsley,64.9,Similar,2019
+2152,E08000012,Liverpool,64.4,Similar,2019
+2153,E08000013,St. Helens,65,Similar,2019
+2154,E08000014,Sefton,66.3,Similar,2019
+2155,E08000015,Wirral,67.7,Worse,2019
+2156,E08000016,Barnsley,73.6,Worse,2019
+2157,E08000017,Doncaster,69.2,Worse,2019
+2158,E08000018,Rotherham,73.6,Worse,2019
+2159,E08000019,Sheffield,61.8,Similar,2019
+2160,E08000021,Newcastle upon Tyne,60.2,Better,2019
+2161,E08000022,North Tyneside,66,Similar,2019
+2162,E08000023,South Tyneside,71.6,Worse,2019
+2163,E08000024,Sunderland,72.5,Worse,2019
+2164,E08000025,Birmingham,65.8,Worse,2019
+2165,E08000026,Coventry,65.7,Similar,2019
+2166,E08000027,Dudley,73.2,Worse,2019
+2167,E08000028,Sandwell,77.7,Worse,2019
+2168,E08000029,Solihull,69.3,Worse,2019
+2169,E08000030,Walsall,67.5,Worse,2019
+2170,E08000031,Wolverhampton,67.7,Worse,2019
+2171,E08000032,Bradford,66.1,Worse,2019
+2172,E08000033,Calderdale,65.4,Similar,2019
+2173,E08000034,Kirklees,67.7,Worse,2019
+2174,E08000035,Leeds,59.9,Better,2019
+2175,E08000036,Wakefield,63,Similar,2019
+2176,E08000037,Gateshead,69,Worse,2019
+2177,E09000001,City of London,54.4,Better,2019
+2178,E09000002,Barking and Dagenham,62.7,Similar,2019
+2179,E09000003,Barnet,57.7,Better,2019
+2180,E09000004,Bexley,68.6,Worse,2019
+2181,E09000005,Brent,62.1,Similar,2019
+2182,E09000006,Bromley,57,Better,2019
+2183,E09000007,Camden,49.2,Better,2019
+2184,E09000008,Croydon,58.2,Similar,2019
+2185,E09000009,Ealing,60.6,Similar,2019
+2186,E09000010,Enfield,57.6,Better,2019
+2187,E09000011,Greenwich,55.7,Better,2019
+2188,E09000012,Hackney,52.6,Better,2019
+2189,E09000013,Hammersmith and Fulham,42,Better,2019
+2190,E09000014,Haringey,50.4,Better,2019
+2191,E09000015,Harrow,58.1,Similar,2019
+2192,E09000016,Havering,67.1,Similar,2019
+2193,E09000017,Hillingdon,65.3,Similar,2019
+2194,E09000018,Hounslow,61.3,Similar,2019
+2195,E09000019,Islington,47.6,Better,2019
+2196,E09000020,Kensington and Chelsea,45.1,Better,2019
+2197,E09000021,Kingston upon Thames,49.3,Better,2019
+2198,E09000022,Lambeth,47.5,Better,2019
+2199,E09000023,Lewisham,53.7,Better,2019
+2200,E09000024,Merton,52.3,Better,2019
+2201,E09000025,Newham,68.1,Worse,2019
+2202,E09000026,Redbridge,60.9,Similar,2019
+2203,E09000027,Richmond upon Thames,52,Better,2019
+2204,E09000028,Southwark,49.1,Better,2019
+2205,E09000029,Sutton,59.7,Similar,2019
+2206,E06000058,"Bournemouth, Christchurch and Poole",60.2,Similar,2019
+2207,E06000059,Dorset,66.3,Similar,2019
+2208,E06000060,Buckinghamshire,62.7,Similar,2019
+2209,E06000061,North Northamptonshire,68.3,Worse,2019
+2210,E06000062,West Northamptonshire,63.7,Similar,2019
+2211,E09000030,Tower Hamlets,52,Better,2019
+2212,E09000031,Waltham Forest,56.8,Better,2019
+2213,E09000032,Wandsworth,48.1,Better,2019
+2214,E09000033,Westminster,44.7,Better,2019
+2349,E06000001,Hartlepool,74.6,Worse,2020
+2350,E06000002,Middlesbrough,70.8,Worse,2020
+2351,E06000003,Redcar and Cleveland,68.5,Worse,2020
+2352,E06000004,Stockton-on-Tees,75.8,Worse,2020
+2353,E06000005,Darlington,72.5,Worse,2020
+2354,E06000006,Halton,65,Similar,2020
+2355,E06000007,Warrington,64.2,Similar,2020
+2356,E06000008,Blackburn with Darwen,63.6,Similar,2020
+2357,E06000009,Blackpool,70.5,Worse,2020
+2358,E06000010,Kingston upon Hull,70.7,Worse,2020
+2359,E06000011,East Riding of Yorkshire,67.6,Similar,2020
+2360,E06000012,North East Lincolnshire,67.6,Similar,2020
+2361,E06000013,North Lincolnshire,67.6,Similar,2020
+2362,E06000014,York,63.6,Similar,2020
+2363,E06000015,Derby,65.4,Similar,2020
+2364,E06000016,Leicester,60.2,Similar,2020
+2365,E06000017,Rutland,59.5,Similar,2020
+2366,E06000018,Nottingham,66.9,Worse,2020
+2367,E06000019,Herefordshire,67,Similar,2020
+2368,E06000020,Telford and Wrekin,70.6,Worse,2020
+2369,E06000021,Stoke-on-Trent,68.7,Worse,2020
+2370,E06000022,Bath and North East Somerset,56.3,Better,2020
+2371,E06000023,Bristol,55.7,Better,2020
+2372,E06000024,North Somerset,64.2,Similar,2020
+2373,E06000025,South Gloucestershire,62.6,Similar,2020
+2374,E06000026,Plymouth,68.8,Worse,2020
+2375,E06000027,Torbay,59.4,Similar,2020
+2376,E06000030,Swindon,65,Similar,2020
+2377,E06000031,Peterborough,60.7,Similar,2020
+2378,E06000032,Luton,67.5,Similar,2020
+2379,E06000033,Southend-on-Sea,68.8,Worse,2020
+2380,E06000034,Thurrock,76.3,Worse,2020
+2381,E06000035,Medway,69.4,Worse,2020
+2382,E06000036,Bracknell Forest,63.5,Similar,2020
+2383,E06000037,West Berkshire,61.5,Similar,2020
+2384,E06000038,Reading,63.5,Similar,2020
+2385,E06000039,Slough,61.9,Similar,2020
+2386,E06000040,Windsor and Maidenhead,57,Better,2020
+2387,E06000041,Wokingham,60.2,Similar,2020
+2388,E06000042,Milton Keynes,69.3,Worse,2020
+2389,E06000043,Brighton and Hove,58.8,Better,2020
+2390,E06000044,Portsmouth,65.4,Similar,2020
+2391,E06000045,Southampton,65,Similar,2020
+2392,E06000046,Isle of Wight,61.7,Similar,2020
+2393,E06000047,County Durham,70.8,Worse,2020
+2394,E06000049,Cheshire East,68.3,Worse,2020
+2395,E06000050,Cheshire West and Chester,60.2,Similar,2020
+2396,E06000051,Shropshire,68,Worse,2020
+2397,E06000052,Cornwall,62.7,Similar,2020
+2398,E06000053,Isles of Scilly,57.3,Similar,2020
+2399,E06000054,Wiltshire,61.8,Similar,2020
+2400,E06000055,Bedford,63.3,Similar,2020
+2401,E06000056,Central Bedfordshire,65.8,Similar,2020
+2402,E06000057,Northumberland,65.9,Similar,2020
+2403,E07000008,Cambridge,49.6,Better,2020
+2404,E07000009,East Cambridgeshire,63.4,Similar,2020
+2405,E07000010,Fenland,67.1,Similar,2020
+2406,E07000011,Huntingdonshire,65.3,Similar,2020
+2407,E07000012,South Cambridgeshire,58.3,Better,2020
+2408,E07000026,Allerdale,57.8,Better,2020
+2409,E07000027,Barrow-in-Furness,63.9,Similar,2020
+2410,E07000028,Carlisle,70.3,Worse,2020
+2411,E07000029,Copeland,65.6,Similar,2020
+2412,E07000030,Eden,66.8,Similar,2020
+2413,E07000031,South Lakeland,57.5,Better,2020
+2414,E07000032,Amber Valley,62.6,Similar,2020
+2415,E07000033,Bolsover,68.9,Worse,2020
+2416,E07000034,Chesterfield,70.1,Worse,2020
+2417,E07000035,Derbyshire Dales,59.6,Similar,2020
+2418,E07000036,Erewash,72.2,Worse,2020
+2419,E07000037,High Peak,67,Similar,2020
+2420,E07000038,North East Derbyshire,73.8,Worse,2020
+2421,E07000039,South Derbyshire,70.4,Worse,2020
+2422,E07000040,East Devon,65.2,Similar,2020
+2423,E07000041,Exeter,61.3,Similar,2020
+2424,E07000042,Mid Devon,63.1,Similar,2020
+2425,E07000043,North Devon,64.1,Similar,2020
+2426,E07000044,South Hams,50.8,Better,2020
+2427,E07000045,Teignbridge,64.3,Similar,2020
+2428,E07000046,Torridge,65.7,Similar,2020
+2429,E07000047,West Devon,63,Similar,2020
+2430,E07000061,Eastbourne,60.9,Similar,2020
+2431,E07000062,Hastings,63.7,Similar,2020
+2432,E07000063,Lewes,61.6,Similar,2020
+2433,E07000064,Rother,66.8,Similar,2020
+2434,E07000065,Wealden,68.7,Worse,2020
+2435,E07000066,Basildon,69.7,Worse,2020
+2436,E07000067,Braintree,68.3,Worse,2020
+2437,E07000068,Brentwood,61.3,Similar,2020
+2438,E07000069,Castle Point,70.5,Worse,2020
+2439,E07000070,Chelmsford,58.1,Better,2020
+2440,E07000071,Colchester,66.2,Similar,2020
+2441,E07000072,Epping Forest,57.5,Better,2020
+2442,E07000073,Harlow,73.5,Worse,2020
+2443,E07000074,Maldon,69.1,Worse,2020
+2444,E07000075,Rochford,67.2,Similar,2020
+2445,E07000076,Tendring,67.8,Worse,2020
+2446,E07000077,Uttlesford,64.3,Similar,2020
+2447,E07000078,Cheltenham,59,Similar,2020
+2448,E07000079,Cotswold,60.7,Similar,2020
+2449,E07000080,Forest of Dean,70.3,Worse,2020
+2450,E07000081,Gloucester,72.1,Worse,2020
+2451,E07000082,Stroud,62.2,Similar,2020
+2452,E07000083,Tewkesbury,67.6,Similar,2020
+2453,E07000084,Basingstoke and Deane,60,Similar,2020
+2454,E07000085,East Hampshire,60.7,Similar,2020
+2455,E07000086,Eastleigh,65.9,Similar,2020
+2456,E07000087,Fareham,62.5,Similar,2020
+2457,E07000088,Gosport,71,Worse,2020
+2458,E07000089,Hart,63.1,Similar,2020
+2459,E07000090,Havant,63.9,Similar,2020
+2460,E07000091,New Forest,65.5,Similar,2020
+2461,E07000092,Rushmoor,64.7,Similar,2020
+2462,E07000093,Test Valley,62.5,Similar,2020
+2463,E07000094,Winchester,57.3,Better,2020
+2464,E07000095,Broxbourne,66.2,Similar,2020
+2465,E07000096,Dacorum,61.8,Similar,2020
+2466,E07000098,Hertsmere,62.8,Similar,2020
+2467,E07000099,North Hertfordshire,55.5,Better,2020
+2468,E07000102,Three Rivers,62.9,Similar,2020
+2469,E07000103,Watford,67.3,Similar,2020
+2470,E07000105,Ashford,63.5,Similar,2020
+2471,E07000106,Canterbury,59.2,Similar,2020
+2472,E07000107,Dartford,70.4,Worse,2020
+2473,E07000108,Dover,64.3,Similar,2020
+2474,E07000109,Gravesham,65.2,Similar,2020
+2475,E07000110,Maidstone,61,Similar,2020
+2476,E07000111,Sevenoaks,55.3,Better,2020
+2477,E07000112,Folkestone & Hythe,66.7,Similar,2020
+2478,E07000113,Swale,70.6,Worse,2020
+2479,E07000114,Thanet,65.1,Similar,2020
+2480,E07000115,Tonbridge and Malling,57.4,Better,2020
+2481,E07000116,Tunbridge Wells,58.7,Better,2020
+2482,E07000117,Burnley,73.4,Worse,2020
+2483,E07000118,Chorley,65.8,Similar,2020
+2484,E07000119,Fylde,67.8,Similar,2020
+2485,E07000120,Hyndburn,71.1,Worse,2020
+2486,E07000121,Lancaster,66.1,Similar,2020
+2487,E07000122,Pendle,68.7,Worse,2020
+2488,E07000123,Preston,62.8,Similar,2020
+2489,E07000124,Ribble Valley,60.7,Similar,2020
+2490,E07000125,Rossendale,67.9,Similar,2020
+2491,E07000126,South Ribble,61.5,Similar,2020
+2492,E07000127,West Lancashire,65.1,Similar,2020
+2493,E07000128,Wyre,64.2,Similar,2020
+2494,E07000129,Blaby,71.4,Worse,2020
+2495,E07000130,Charnwood,62.6,Similar,2020
+2496,E07000131,Harborough,59.7,Similar,2020
+2497,E07000132,Hinckley and Bosworth,68.5,Worse,2020
+2498,E07000133,Melton,58.4,Better,2020
+2499,E07000134,North West Leicestershire,70.9,Worse,2020
+2500,E07000135,Oadby and Wigston,66.3,Similar,2020
+2501,E07000136,Boston,73.4,Worse,2020
+2502,E07000137,East Lindsey,62.4,Similar,2020
+2503,E07000138,Lincoln,67.5,Similar,2020
+2504,E07000139,North Kesteven,63.3,Similar,2020
+2505,E07000140,South Holland,72.9,Worse,2020
+2506,E07000141,South Kesteven,68.9,Worse,2020
+2507,E07000142,West Lindsey,67.3,Similar,2020
+2508,E07000143,Breckland,62,Similar,2020
+2509,E07000144,Broadland,61.2,Similar,2020
+2510,E07000145,Great Yarmouth,68.7,Worse,2020
+2511,E07000146,King's Lynn and West Norfolk,68.3,Worse,2020
+2512,E07000147,North Norfolk,69.3,Worse,2020
+2513,E07000148,Norwich,61.8,Similar,2020
+2514,E07000149,South Norfolk,59.8,Similar,2020
+2515,E07000163,Craven,55,Better,2020
+2516,E07000164,Hambleton,64.1,Similar,2020
+2517,E07000165,Harrogate,59.4,Similar,2020
+2518,E07000166,Richmondshire,64.4,Similar,2020
+2519,E07000167,Ryedale,62.3,Similar,2020
+2520,E07000168,Scarborough,59.3,Similar,2020
+2521,E07000169,Selby,66.3,Similar,2020
+2522,E07000170,Ashfield,71,Worse,2020
+2523,E07000171,Bassetlaw,67.4,Similar,2020
+2524,E07000172,Broxtowe,63.5,Similar,2020
+2525,E07000173,Gedling,62.9,Similar,2020
+2526,E07000174,Mansfield,67.6,Similar,2020
+2527,E07000175,Newark and Sherwood,66.9,Similar,2020
+2528,E07000176,Rushcliffe,56.4,Better,2020
+2529,E07000177,Cherwell,65.8,Similar,2020
+2530,E07000178,Oxford,48.4,Better,2020
+2531,E07000179,South Oxfordshire,59.8,Similar,2020
+2532,E07000180,Vale of White Horse,57.3,Better,2020
+2533,E07000181,West Oxfordshire,61,Similar,2020
+2534,E07000187,Mendip,63.2,Similar,2020
+2535,E07000188,Sedgemoor,62.7,Similar,2020
+2536,E07000189,South Somerset,60.5,Similar,2020
+2537,E07000192,Cannock Chase,73.7,Worse,2020
+2538,E07000193,East Staffordshire,70.6,Worse,2020
+2539,E07000194,Lichfield,64.9,Similar,2020
+2540,E07000195,Newcastle-under-Lyme,69.2,Worse,2020
+2541,E07000196,South Staffordshire,68.4,Worse,2020
+2542,E07000197,Stafford,61.7,Similar,2020
+2543,E07000198,Staffordshire Moorlands,68.8,Worse,2020
+2544,E07000199,Tamworth,74.9,Worse,2020
+2545,E07000200,Babergh,63.8,Similar,2020
+2546,E07000202,Ipswich,68.2,Worse,2020
+2547,E07000203,Mid Suffolk,60.4,Similar,2020
+2548,E07000207,Elmbridge,50.8,Better,2020
+2549,E07000208,Epsom and Ewell,58.6,Better,2020
+2550,E07000209,Guildford,59.8,Similar,2020
+2551,E07000210,Mole Valley,54.5,Better,2020
+2552,E07000211,Reigate and Banstead,61,Similar,2020
+2553,E07000212,Runnymede,62.1,Similar,2020
+2554,E07000213,Spelthorne,64.4,Similar,2020
+2555,E07000214,Surrey Heath,62.3,Similar,2020
+2556,E07000215,Tandridge,56.7,Better,2020
+2557,E07000216,Waverley,56.7,Better,2020
+2558,E07000217,Woking,56.7,Better,2020
+2559,E07000218,North Warwickshire,69.4,Worse,2020
+2560,E07000219,Nuneaton and Bedworth,69.1,Worse,2020
+2561,E07000220,Rugby,68.5,Worse,2020
+2562,E07000221,Stratford-on-Avon,64.2,Similar,2020
+2563,E07000222,Warwick,62.3,Similar,2020
+2564,E07000223,Adur,69.9,Worse,2020
+2565,E07000224,Arun,66.7,Similar,2020
+2566,E07000225,Chichester,59.4,Similar,2020
+2567,E07000226,Crawley,66.5,Similar,2020
+2568,E07000227,Horsham,63.2,Similar,2020
+2569,E07000228,Mid Sussex,65.3,Similar,2020
+2570,E07000229,Worthing,58.6,Better,2020
+2571,E07000234,Bromsgrove,59,Similar,2020
+2572,E07000235,Malvern Hills,60,Similar,2020
+2573,E07000236,Redditch,67.4,Similar,2020
+2574,E07000237,Worcester,63.2,Similar,2020
+2575,E07000238,Wychavon,65.7,Similar,2020
+2576,E07000239,Wyre Forest,68.9,Worse,2020
+2577,E07000240,St Albans,51,Better,2020
+2578,E07000241,Welwyn Hatfield,64.5,Similar,2020
+2579,E07000242,East Hertfordshire,63.4,Similar,2020
+2580,E07000243,Stevenage,68.5,Worse,2020
+2581,E07000244,East Suffolk,61.9,Similar,2020
+2582,E07000245,West Suffolk,60.7,Similar,2020
+2583,E07000246,Somerset West and Taunton,62.6,Similar,2020
+2584,E08000001,Bolton,63.8,Similar,2020
+2585,E08000002,Bury,61.6,Similar,2020
+2586,E08000003,Manchester,61.7,Similar,2020
+2587,E08000004,Oldham,70.4,Worse,2020
+2588,E08000005,Rochdale,69.7,Worse,2020
+2589,E08000006,Salford,66.7,Worse,2020
+2590,E08000007,Stockport,63.1,Similar,2020
+2591,E08000008,Tameside,70.3,Worse,2020
+2592,E08000009,Trafford,60.7,Similar,2020
+2593,E08000010,Wigan,73.7,Worse,2020
+2594,E08000011,Knowsley,74,Worse,2020
+2595,E08000012,Liverpool,65.9,Worse,2020
+2596,E08000013,St. Helens,67.6,Similar,2020
+2597,E08000014,Sefton,71.5,Worse,2020
+2598,E08000015,Wirral,71.8,Worse,2020
+2599,E08000016,Barnsley,70.6,Worse,2020
+2600,E08000017,Doncaster,71,Worse,2020
+2601,E08000018,Rotherham,68.3,Worse,2020
+2602,E08000019,Sheffield,63.9,Similar,2020
+2603,E08000021,Newcastle upon Tyne,66.6,Worse,2020
+2604,E08000022,North Tyneside,65.9,Similar,2020
+2605,E08000023,South Tyneside,65.9,Similar,2020
+2606,E08000024,Sunderland,69.1,Worse,2020
+2607,E08000025,Birmingham,63.5,Similar,2020
+2608,E08000026,Coventry,68.4,Worse,2020
+2609,E08000027,Dudley,66.8,Similar,2020
+2610,E08000028,Sandwell,70.8,Worse,2020
+2611,E08000029,Solihull,62.8,Similar,2020
+2612,E08000030,Walsall,71.5,Worse,2020
+2613,E08000031,Wolverhampton,68.5,Worse,2020
+2614,E08000032,Bradford,63.2,Similar,2020
+2615,E08000033,Calderdale,63.7,Similar,2020
+2616,E08000034,Kirklees,69.7,Worse,2020
+2617,E08000035,Leeds,63.6,Similar,2020
+2618,E08000036,Wakefield,71.6,Worse,2020
+2619,E08000037,Gateshead,73.3,Worse,2020
+2620,E09000001,City of London,51.3,Better,2020
+2621,E09000002,Barking and Dagenham,64.5,Similar,2020
+2622,E09000003,Barnet,61.1,Similar,2020
+2623,E09000004,Bexley,64.6,Similar,2020
+2624,E09000005,Brent,55.9,Better,2020
+2625,E09000006,Bromley,58,Better,2020
+2626,E09000007,Camden,50.5,Better,2020
+2627,E09000008,Croydon,61.8,Similar,2020
+2628,E09000009,Ealing,53,Better,2020
+2629,E09000010,Enfield,60.9,Similar,2020
+2630,E09000011,Greenwich,62.2,Similar,2020
+2631,E09000012,Hackney,52.4,Better,2020
+2632,E09000013,Hammersmith and Fulham,46.4,Better,2020
+2633,E09000014,Haringey,49.5,Better,2020
+2634,E09000015,Harrow,53,Better,2020
+2635,E09000016,Havering,68.8,Worse,2020
+2636,E09000017,Hillingdon,55.7,Better,2020
+2637,E09000018,Hounslow,63.2,Similar,2020
+2638,E09000019,Islington,44,Better,2020
+2639,E09000020,Kensington and Chelsea,46.4,Better,2020
+2640,E09000021,Kingston upon Thames,57.6,Better,2020
+2641,E09000022,Lambeth,57.8,Better,2020
+2642,E09000023,Lewisham,51,Better,2020
+2643,E09000024,Merton,50.4,Better,2020
+2644,E09000025,Newham,61.2,Similar,2020
+2645,E09000026,Redbridge,57.4,Better,2020
+2646,E09000027,Richmond upon Thames,45.5,Better,2020
+2647,E09000028,Southwark,47.9,Better,2020
+2648,E09000029,Sutton,62.8,Similar,2020
+2649,E06000058,"Bournemouth, Christchurch and Poole",63.9,Similar,2020
+2650,E06000059,Dorset,59,Similar,2020
+2651,E06000060,Buckinghamshire,61,Similar,2020
+2652,E06000061,North Northamptonshire,69.6,Worse,2020
+2653,E06000062,West Northamptonshire,68.9,Worse,2020
+2654,E09000030,Tower Hamlets,53.5,Better,2020
+2655,E09000031,Waltham Forest,54.7,Better,2020
+2656,E09000032,Wandsworth,49.7,Better,2020
+2657,E09000033,Westminster,45.3,Better,2020
