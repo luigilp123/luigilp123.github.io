@@ -1,0 +1,3295 @@
+,Date,Value,Series
+0,1992 APR,10.1,North West
+1,1992 MAY,10.2,North West
+2,1992 JUN,10.5,North West
+3,1992 JUL,10.2,North West
+4,1992 AUG,9.9,North West
+5,1992 SEP,10.2,North West
+6,1992 OCT,10.2,North West
+7,1992 NOV,10.6,North West
+8,1992 DEC,10.9,North West
+9,1993 JAN,11.1,North West
+10,1993 FEB,11.2,North West
+11,1993 MAR,11.0,North West
+12,1993 APR,10.9,North West
+13,1993 MAY,10.5,North West
+14,1993 JUN,10.4,North West
+15,1993 JUL,10.2,North West
+16,1993 AUG,10.2,North West
+17,1993 SEP,10.4,North West
+18,1993 OCT,10.4,North West
+19,1993 NOV,10.5,North West
+20,1993 DEC,10.7,North West
+21,1994 JAN,10.7,North West
+22,1994 FEB,10.6,North West
+23,1994 MAR,10.5,North West
+24,1994 APR,10.3,North West
+25,1994 MAY,10.2,North West
+26,1994 JUN,10.0,North West
+27,1994 JUL,10.3,North West
+28,1994 AUG,10.1,North West
+29,1994 SEP,10.2,North West
+30,1994 OCT,9.5,North West
+31,1994 NOV,9.4,North West
+32,1994 DEC,9.3,North West
+33,1995 JAN,9.1,North West
+34,1995 FEB,9.0,North West
+35,1995 MAR,9.2,North West
+36,1995 APR,9.0,North West
+37,1995 MAY,9.1,North West
+38,1995 JUN,9.0,North West
+39,1995 JUL,9.0,North West
+40,1995 AUG,9.1,North West
+41,1995 SEP,8.9,North West
+42,1995 OCT,9.1,North West
+43,1995 NOV,8.4,North West
+44,1995 DEC,8.5,North West
+45,1996 JAN,8.4,North West
+46,1996 FEB,8.4,North West
+47,1996 MAR,8.4,North West
+48,1996 APR,8.5,North West
+49,1996 MAY,8.4,North West
+50,1996 JUN,8.3,North West
+51,1996 JUL,7.9,North West
+52,1996 AUG,7.8,North West
+53,1996 SEP,7.7,North West
+54,1996 OCT,7.6,North West
+55,1996 NOV,7.6,North West
+56,1996 DEC,7.5,North West
+57,1997 JAN,7.4,North West
+58,1997 FEB,6.9,North West
+59,1997 MAR,7.1,North West
+60,1997 APR,6.9,North West
+61,1997 MAY,7.1,North West
+62,1997 JUN,7.4,North West
+63,1997 JUL,7.5,North West
+64,1997 AUG,7.2,North West
+65,1997 SEP,7.3,North West
+66,1997 OCT,7.1,North West
+67,1997 NOV,6.9,North West
+68,1997 DEC,6.7,North West
+69,1998 JAN,6.5,North West
+70,1998 FEB,6.7,North West
+71,1998 MAR,6.4,North West
+72,1998 APR,6.7,North West
+73,1998 MAY,6.9,North West
+74,1998 JUN,6.8,North West
+75,1998 JUL,6.9,North West
+76,1998 AUG,6.7,North West
+77,1998 SEP,6.7,North West
+78,1998 OCT,6.8,North West
+79,1998 NOV,7.1,North West
+80,1998 DEC,7.2,North West
+81,1999 JAN,6.9,North West
+82,1999 FEB,6.6,North West
+83,1999 MAR,6.6,North West
+84,1999 APR,6.4,North West
+85,1999 MAY,6.3,North West
+86,1999 JUN,6.3,North West
+87,1999 JUL,6.2,North West
+88,1999 AUG,6.2,North West
+89,1999 SEP,6.1,North West
+90,1999 OCT,6.0,North West
+91,1999 NOV,6.0,North West
+92,1999 DEC,6.3,North West
+93,2000 JAN,6.4,North West
+94,2000 FEB,6.0,North West
+95,2000 MAR,5.8,North West
+96,2000 APR,5.5,North West
+97,2000 MAY,5.3,North West
+98,2000 JUN,4.9,North West
+99,2000 JUL,5.1,North West
+100,2000 AUG,5.4,North West
+101,2000 SEP,5.6,North West
+102,2000 OCT,5.4,North West
+103,2000 NOV,5.3,North West
+104,2000 DEC,5.3,North West
+105,2001 JAN,5.4,North West
+106,2001 FEB,5.2,North West
+107,2001 MAR,5.2,North West
+108,2001 APR,5.3,North West
+109,2001 MAY,5.3,North West
+110,2001 JUN,5.4,North West
+111,2001 JUL,5.4,North West
+112,2001 AUG,5.2,North West
+113,2001 SEP,5.2,North West
+114,2001 OCT,5.4,North West
+115,2001 NOV,5.4,North West
+116,2001 DEC,5.3,North West
+117,2002 JAN,5.1,North West
+118,2002 FEB,5.4,North West
+119,2002 MAR,5.7,North West
+120,2002 APR,5.6,North West
+121,2002 MAY,5.6,North West
+122,2002 JUN,5.4,North West
+123,2002 JUL,5.5,North West
+124,2002 AUG,5.6,North West
+125,2002 SEP,5.3,North West
+126,2002 OCT,5.1,North West
+127,2002 NOV,5.0,North West
+128,2002 DEC,4.8,North West
+129,2003 JAN,5.0,North West
+130,2003 FEB,4.9,North West
+131,2003 MAR,5.0,North West
+132,2003 APR,5.0,North West
+133,2003 MAY,5.0,North West
+134,2003 JUN,5.0,North West
+135,2003 JUL,4.9,North West
+136,2003 AUG,5.0,North West
+137,2003 SEP,4.8,North West
+138,2003 OCT,4.9,North West
+139,2003 NOV,4.8,North West
+140,2003 DEC,4.9,North West
+141,2004 JAN,4.6,North West
+142,2004 FEB,4.5,North West
+143,2004 MAR,4.5,North West
+144,2004 APR,4.5,North West
+145,2004 MAY,4.5,North West
+146,2004 JUN,4.6,North West
+147,2004 JUL,4.3,North West
+148,2004 AUG,4.4,North West
+149,2004 SEP,4.5,North West
+150,2004 OCT,4.6,North West
+151,2004 NOV,4.7,North West
+152,2004 DEC,4.6,North West
+153,2005 JAN,4.7,North West
+154,2005 FEB,4.7,North West
+155,2005 MAR,4.7,North West
+156,2005 APR,4.4,North West
+157,2005 MAY,4.4,North West
+158,2005 JUN,4.4,North West
+159,2005 JUL,4.5,North West
+160,2005 AUG,4.4,North West
+161,2005 SEP,4.5,North West
+162,2005 OCT,4.7,North West
+163,2005 NOV,5.0,North West
+164,2005 DEC,5.0,North West
+165,2006 JAN,4.9,North West
+166,2006 FEB,4.9,North West
+167,2006 MAR,4.9,North West
+168,2006 APR,5.1,North West
+169,2006 MAY,5.2,North West
+170,2006 JUN,5.3,North West
+171,2006 JUL,5.4,North West
+172,2006 AUG,5.5,North West
+173,2006 SEP,5.6,North West
+174,2006 OCT,5.1,North West
+175,2006 NOV,5.4,North West
+176,2006 DEC,5.6,North West
+177,2007 JAN,5.7,North West
+178,2007 FEB,5.8,North West
+179,2007 MAR,5.8,North West
+180,2007 APR,5.8,North West
+181,2007 MAY,5.8,North West
+182,2007 JUN,5.9,North West
+183,2007 JUL,5.8,North West
+184,2007 AUG,6.0,North West
+185,2007 SEP,5.8,North West
+186,2007 OCT,5.9,North West
+187,2007 NOV,5.8,North West
+188,2007 DEC,5.9,North West
+189,2008 JAN,5.9,North West
+190,2008 FEB,6.0,North West
+191,2008 MAR,6.1,North West
+192,2008 APR,6.1,North West
+193,2008 MAY,6.3,North West
+194,2008 JUN,6.5,North West
+195,2008 JUL,6.4,North West
+196,2008 AUG,6.8,North West
+197,2008 SEP,7.1,North West
+198,2008 OCT,7.5,North West
+199,2008 NOV,7.8,North West
+200,2008 DEC,7.7,North West
+201,2009 JAN,7.8,North West
+202,2009 FEB,7.9,North West
+203,2009 MAR,8.1,North West
+204,2009 APR,8.2,North West
+205,2009 MAY,8.4,North West
+206,2009 JUN,8.6,North West
+207,2009 JUL,8.6,North West
+208,2009 AUG,8.7,North West
+209,2009 SEP,8.3,North West
+210,2009 OCT,8.2,North West
+211,2009 NOV,8.5,North West
+212,2009 DEC,8.5,North West
+213,2010 JAN,8.5,North West
+214,2010 FEB,8.6,North West
+215,2010 MAR,8.5,North West
+216,2010 APR,8.2,North West
+217,2010 MAY,7.9,North West
+218,2010 JUN,8.1,North West
+219,2010 JUL,8.1,North West
+220,2010 AUG,8.2,North West
+221,2010 SEP,8.0,North West
+222,2010 OCT,7.6,North West
+223,2010 NOV,7.6,North West
+224,2010 DEC,7.6,North West
+225,2011 JAN,7.8,North West
+226,2011 FEB,7.7,North West
+227,2011 MAR,8.0,North West
+228,2011 APR,8.5,North West
+229,2011 MAY,8.7,North West
+230,2011 JUN,8.3,North West
+231,2011 JUL,8.3,North West
+232,2011 AUG,8.6,North West
+233,2011 SEP,8.8,North West
+234,2011 OCT,8.9,North West
+235,2011 NOV,9.1,North West
+236,2011 DEC,9.1,North West
+237,2012 JAN,9.4,North West
+238,2012 FEB,9.5,North West
+239,2012 MAR,9.4,North West
+240,2012 APR,9.5,North West
+241,2012 MAY,8.9,North West
+242,2012 JUN,8.9,North West
+243,2012 JUL,8.4,North West
+244,2012 AUG,8.4,North West
+245,2012 SEP,8.5,North West
+246,2012 OCT,8.4,North West
+247,2012 NOV,8.3,North West
+248,2012 DEC,8.5,North West
+249,2013 JAN,8.2,North West
+250,2013 FEB,8.0,North West
+251,2013 MAR,7.9,North West
+252,2013 APR,7.9,North West
+253,2013 MAY,8.2,North West
+254,2013 JUN,8.3,North West
+255,2013 JUL,8.6,North West
+256,2013 AUG,8.2,North West
+257,2013 SEP,7.4,North West
+258,2013 OCT,7.7,North West
+259,2013 NOV,7.9,North West
+260,2013 DEC,8.1,North West
+261,2014 JAN,7.5,North West
+262,2014 FEB,7.6,North West
+263,2014 MAR,7.6,North West
+264,2014 APR,7.2,North West
+265,2014 MAY,7.0,North West
+266,2014 JUN,6.8,North West
+267,2014 JUL,6.5,North West
+268,2014 AUG,6.1,North West
+269,2014 SEP,6.1,North West
+270,2014 OCT,6.5,North West
+271,2014 NOV,6.5,North West
+272,2014 DEC,6.3,North West
+273,2015 JAN,5.9,North West
+274,2015 FEB,5.7,North West
+275,2015 MAR,5.8,North West
+276,2015 APR,6.0,North West
+277,2015 MAY,6.1,North West
+278,2015 JUN,5.5,North West
+279,2015 JUL,5.5,North West
+280,2015 AUG,5.3,North West
+281,2015 SEP,5.0,North West
+282,2015 OCT,4.9,North West
+283,2015 NOV,4.9,North West
+284,2015 DEC,5.0,North West
+285,2016 JAN,5.0,North West
+286,2016 FEB,5.0,North West
+287,2016 MAR,5.0,North West
+288,2016 APR,5.0,North West
+289,2016 MAY,5.0,North West
+290,2016 JUN,5.1,North West
+291,2016 JUL,5.1,North West
+292,2016 AUG,5.2,North West
+293,2016 SEP,5.2,North West
+294,2016 OCT,5.2,North West
+295,2016 NOV,5.1,North West
+296,2016 DEC,4.8,North West
+297,2017 JAN,4.4,North West
+298,2017 FEB,4.2,North West
+299,2017 MAR,4.2,North West
+300,2017 APR,4.3,North West
+301,2017 MAY,4.1,North West
+302,2017 JUN,4.1,North West
+303,2017 JUL,4.4,North West
+304,2017 AUG,4.3,North West
+305,2017 SEP,4.2,North West
+306,2017 OCT,4.1,North West
+307,2017 NOV,4.2,North West
+308,2017 DEC,4.2,North West
+309,2018 JAN,4.1,North West
+310,2018 FEB,4.3,North West
+311,2018 MAR,4.1,North West
+312,2018 APR,4.0,North West
+313,2018 MAY,4.1,North West
+314,2018 JUN,4.5,North West
+315,2018 JUL,4.3,North West
+316,2018 AUG,4.1,North West
+317,2018 SEP,4.1,North West
+318,2018 OCT,4.0,North West
+319,2018 NOV,3.9,North West
+320,2018 DEC,3.6,North West
+321,2019 JAN,3.9,North West
+322,2019 FEB,3.8,North West
+323,2019 MAR,3.7,North West
+324,2019 APR,4.1,North West
+325,2019 MAY,4.3,North West
+326,2019 JUN,4.3,North West
+327,2019 JUL,4.1,North West
+328,2019 AUG,4.2,North West
+329,2019 SEP,4.0,North West
+330,2019 OCT,4.2,North West
+331,2019 NOV,4.2,North West
+332,2019 DEC,4.4,North West
+333,2020 JAN,4.3,North West
+334,2020 FEB,4.1,North West
+335,2020 MAR,4.2,North West
+336,2020 APR,4.0,North West
+337,2020 MAY,3.7,North West
+338,2020 JUN,3.8,North West
+339,2020 JUL,4.5,North West
+340,2020 AUG,4.8,North West
+341,2020 SEP,4.8,North West
+342,2020 OCT,4.6,North West
+343,2020 NOV,4.9,North West
+344,2020 DEC,5.3,North West
+345,2021 JAN,5.3,North West
+346,2021 FEB,5.0,North West
+347,2021 MAR,4.9,North West
+348,2021 APR,4.9,North West
+349,2021 MAY,4.7,North West
+350,2021 JUN,4.7,North West
+351,2021 JUL,4.1,North West
+352,2021 AUG,4.2,North West
+353,2021 SEP,4.4,North West
+354,2021 OCT,4.7,North West
+355,2021 NOV,4.6,North West
+356,2021 DEC,4.6,North West
+357,2022 JAN,4.3,North West
+358,2022 FEB,4.3,North West
+359,2022 MAR,4.3,North West
+360,2022 APR,4.4,North West
+361,2022 MAY,4.1,North West
+362,2022 JUN,3.5,North West
+363,2022 JUL,3.5,North West
+364,2022 AUG,4.0,North West
+365,2022 SEP,4.2,North West
+0,1992 APR,12.2,North East
+1,1992 MAY,12.2,North East
+2,1992 JUN,12.8,North East
+3,1992 JUL,12.6,North East
+4,1992 AUG,12.9,North East
+5,1992 SEP,12.3,North East
+6,1992 OCT,13.1,North East
+7,1992 NOV,13.0,North East
+8,1992 DEC,13.0,North East
+9,1993 JAN,12.8,North East
+10,1993 FEB,12.5,North East
+11,1993 MAR,12.5,North East
+12,1993 APR,12.3,North East
+13,1993 MAY,12.5,North East
+14,1993 JUN,12.9,North East
+15,1993 JUL,13.6,North East
+16,1993 AUG,13.5,North East
+17,1993 SEP,13.3,North East
+18,1993 OCT,13.2,North East
+19,1993 NOV,12.5,North East
+20,1993 DEC,12.6,North East
+21,1994 JAN,12.2,North East
+22,1994 FEB,12.7,North East
+23,1994 MAR,12.5,North East
+24,1994 APR,12.6,North East
+25,1994 MAY,12.7,North East
+26,1994 JUN,12.5,North East
+27,1994 JUL,11.9,North East
+28,1994 AUG,11.8,North East
+29,1994 SEP,11.8,North East
+30,1994 OCT,12.3,North East
+31,1994 NOV,12.9,North East
+32,1994 DEC,12.8,North East
+33,1995 JAN,12.1,North East
+34,1995 FEB,11.7,North East
+35,1995 MAR,11.6,North East
+36,1995 APR,11.5,North East
+37,1995 MAY,11.5,North East
+38,1995 JUN,11.3,North East
+39,1995 JUL,11.4,North East
+40,1995 AUG,11.2,North East
+41,1995 SEP,11.3,North East
+42,1995 OCT,11.6,North East
+43,1995 NOV,11.1,North East
+44,1995 DEC,11.0,North East
+45,1996 JAN,11.1,North East
+46,1996 FEB,10.8,North East
+47,1996 MAR,10.6,North East
+48,1996 APR,10.8,North East
+49,1996 MAY,10.4,North East
+50,1996 JUN,10.6,North East
+51,1996 JUL,10.5,North East
+52,1996 AUG,10.9,North East
+53,1996 SEP,10.7,North East
+54,1996 OCT,9.8,North East
+55,1996 NOV,9.7,North East
+56,1996 DEC,9.6,North East
+57,1997 JAN,9.6,North East
+58,1997 FEB,9.8,North East
+59,1997 MAR,10.1,North East
+60,1997 APR,9.7,North East
+61,1997 MAY,9.9,North East
+62,1997 JUN,9.7,North East
+63,1997 JUL,9.5,North East
+64,1997 AUG,8.9,North East
+65,1997 SEP,8.7,North East
+66,1997 OCT,8.7,North East
+67,1997 NOV,8.3,North East
+68,1997 DEC,8.0,North East
+69,1998 JAN,8.6,North East
+70,1998 FEB,8.5,North East
+71,1998 MAR,8.3,North East
+72,1998 APR,8.0,North East
+73,1998 MAY,8.4,North East
+74,1998 JUN,8.7,North East
+75,1998 JUL,8.5,North East
+76,1998 AUG,8.5,North East
+77,1998 SEP,8.7,North East
+78,1998 OCT,8.9,North East
+79,1998 NOV,9.4,North East
+80,1998 DEC,9.6,North East
+81,1999 JAN,9.7,North East
+82,1999 FEB,9.6,North East
+83,1999 MAR,10.0,North East
+84,1999 APR,9.9,North East
+85,1999 MAY,9.7,North East
+86,1999 JUN,9.3,North East
+87,1999 JUL,9.5,North East
+88,1999 AUG,9.8,North East
+89,1999 SEP,9.3,North East
+90,1999 OCT,8.8,North East
+91,1999 NOV,8.2,North East
+92,1999 DEC,8.4,North East
+93,2000 JAN,8.4,North East
+94,2000 FEB,9.0,North East
+95,2000 MAR,8.6,North East
+96,2000 APR,9.0,North East
+97,2000 MAY,9.0,North East
+98,2000 JUN,9.1,North East
+99,2000 JUL,9.3,North East
+100,2000 AUG,9.0,North East
+101,2000 SEP,8.5,North East
+102,2000 OCT,7.5,North East
+103,2000 NOV,7.5,North East
+104,2000 DEC,7.5,North East
+105,2001 JAN,7.7,North East
+106,2001 FEB,7.9,North East
+107,2001 MAR,7.8,North East
+108,2001 APR,7.4,North East
+109,2001 MAY,7.5,North East
+110,2001 JUN,7.4,North East
+111,2001 JUL,7.3,North East
+112,2001 AUG,7.1,North East
+113,2001 SEP,7.0,North East
+114,2001 OCT,7.0,North East
+115,2001 NOV,6.9,North East
+116,2001 DEC,7.1,North East
+117,2002 JAN,7.4,North East
+118,2002 FEB,7.5,North East
+119,2002 MAR,7.0,North East
+120,2002 APR,6.8,North East
+121,2002 MAY,6.5,North East
+122,2002 JUN,6.5,North East
+123,2002 JUL,6.3,North East
+124,2002 AUG,6.3,North East
+125,2002 SEP,6.0,North East
+126,2002 OCT,6.7,North East
+127,2002 NOV,7.1,North East
+128,2002 DEC,6.4,North East
+129,2003 JAN,6.7,North East
+130,2003 FEB,6.8,North East
+131,2003 MAR,6.9,North East
+132,2003 APR,6.5,North East
+133,2003 MAY,6.0,North East
+134,2003 JUN,6.3,North East
+135,2003 JUL,6.2,North East
+136,2003 AUG,6.6,North East
+137,2003 SEP,6.6,North East
+138,2003 OCT,6.2,North East
+139,2003 NOV,6.2,North East
+140,2003 DEC,6.1,North East
+141,2004 JAN,5.9,North East
+142,2004 FEB,5.6,North East
+143,2004 MAR,5.5,North East
+144,2004 APR,5.5,North East
+145,2004 MAY,5.4,North East
+146,2004 JUN,5.3,North East
+147,2004 JUL,5.8,North East
+148,2004 AUG,5.9,North East
+149,2004 SEP,6.0,North East
+150,2004 OCT,6.5,North East
+151,2004 NOV,6.3,North East
+152,2004 DEC,5.5,North East
+153,2005 JAN,5.3,North East
+154,2005 FEB,5.6,North East
+155,2005 MAR,5.9,North East
+156,2005 APR,6.4,North East
+157,2005 MAY,6.8,North East
+158,2005 JUN,6.6,North East
+159,2005 JUL,6.6,North East
+160,2005 AUG,6.6,North East
+161,2005 SEP,6.6,North East
+162,2005 OCT,6.2,North East
+163,2005 NOV,6.5,North East
+164,2005 DEC,6.6,North East
+165,2006 JAN,6.9,North East
+166,2006 FEB,6.5,North East
+167,2006 MAR,6.1,North East
+168,2006 APR,5.8,North East
+169,2006 MAY,6.0,North East
+170,2006 JUN,6.5,North East
+171,2006 JUL,6.6,North East
+172,2006 AUG,6.7,North East
+173,2006 SEP,6.7,North East
+174,2006 OCT,6.7,North East
+175,2006 NOV,6.6,North East
+176,2006 DEC,6.1,North East
+177,2007 JAN,6.6,North East
+178,2007 FEB,6.7,North East
+179,2007 MAR,6.6,North East
+180,2007 APR,6.2,North East
+181,2007 MAY,6.3,North East
+182,2007 JUN,6.4,North East
+183,2007 JUL,5.8,North East
+184,2007 AUG,6.2,North East
+185,2007 SEP,5.7,North East
+186,2007 OCT,5.9,North East
+187,2007 NOV,5.6,North East
+188,2007 DEC,5.6,North East
+189,2008 JAN,5.9,North East
+190,2008 FEB,6.4,North East
+191,2008 MAR,7.2,North East
+192,2008 APR,7.2,North East
+193,2008 MAY,7.5,North East
+194,2008 JUN,7.1,North East
+195,2008 JUL,7.6,North East
+196,2008 AUG,8.1,North East
+197,2008 SEP,8.2,North East
+198,2008 OCT,8.3,North East
+199,2008 NOV,8.2,North East
+200,2008 DEC,8.2,North East
+201,2009 JAN,8.0,North East
+202,2009 FEB,8.1,North East
+203,2009 MAR,8.3,North East
+204,2009 APR,9.1,North East
+205,2009 MAY,9.8,North East
+206,2009 JUN,9.5,North East
+207,2009 JUL,9.5,North East
+208,2009 AUG,9.7,North East
+209,2009 SEP,10.1,North East
+210,2009 OCT,10.0,North East
+211,2009 NOV,9.4,North East
+212,2009 DEC,9.4,North East
+213,2010 JAN,9.4,North East
+214,2010 FEB,9.5,North East
+215,2010 MAR,9.6,North East
+216,2010 APR,9.6,North East
+217,2010 MAY,9.5,North East
+218,2010 JUN,9.1,North East
+219,2010 JUL,9.0,North East
+220,2010 AUG,9.0,North East
+221,2010 SEP,9.8,North East
+222,2010 OCT,9.5,North East
+223,2010 NOV,10.0,North East
+224,2010 DEC,9.9,North East
+225,2011 JAN,10.2,North East
+226,2011 FEB,10.2,North East
+227,2011 MAR,9.2,North East
+228,2011 APR,9.7,North East
+229,2011 MAY,10.0,North East
+230,2011 JUN,10.7,North East
+231,2011 JUL,11.1,North East
+232,2011 AUG,11.6,North East
+233,2011 SEP,11.6,North East
+234,2011 OCT,12.0,North East
+235,2011 NOV,11.2,North East
+236,2011 DEC,10.7,North East
+237,2012 JAN,11.0,North East
+238,2012 FEB,11.2,North East
+239,2012 MAR,11.1,North East
+240,2012 APR,10.7,North East
+241,2012 MAY,10.3,North East
+242,2012 JUN,10.2,North East
+243,2012 JUL,9.7,North East
+244,2012 AUG,9.5,North East
+245,2012 SEP,9.3,North East
+246,2012 OCT,9.1,North East
+247,2012 NOV,9.7,North East
+248,2012 DEC,9.8,North East
+249,2013 JAN,10.0,North East
+250,2013 FEB,9.7,North East
+251,2013 MAR,10.0,North East
+252,2013 APR,10.3,North East
+253,2013 MAY,10.2,North East
+254,2013 JUN,10.1,North East
+255,2013 JUL,10.1,North East
+256,2013 AUG,10.0,North East
+257,2013 SEP,9.9,North East
+258,2013 OCT,10.2,North East
+259,2013 NOV,10.0,North East
+260,2013 DEC,9.5,North East
+261,2014 JAN,9.3,North East
+262,2014 FEB,10.1,North East
+263,2014 MAR,9.9,North East
+264,2014 APR,9.7,North East
+265,2014 MAY,9.3,North East
+266,2014 JUN,9.8,North East
+267,2014 JUL,9.3,North East
+268,2014 AUG,9.1,North East
+269,2014 SEP,8.9,North East
+270,2014 OCT,8.5,North East
+271,2014 NOV,8.0,North East
+272,2014 DEC,7.8,North East
+273,2015 JAN,7.8,North East
+274,2015 FEB,7.6,North East
+275,2015 MAR,7.6,North East
+276,2015 APR,7.8,North East
+277,2015 MAY,8.2,North East
+278,2015 JUN,8.6,North East
+279,2015 JUL,8.7,North East
+280,2015 AUG,8.6,North East
+281,2015 SEP,8.7,North East
+282,2015 OCT,8.0,North East
+283,2015 NOV,8.0,North East
+284,2015 DEC,7.8,North East
+285,2016 JAN,8.0,North East
+286,2016 FEB,7.9,North East
+287,2016 MAR,7.3,North East
+288,2016 APR,7.5,North East
+289,2016 MAY,7.6,North East
+290,2016 JUN,7.4,North East
+291,2016 JUL,6.7,North East
+292,2016 AUG,6.1,North East
+293,2016 SEP,6.4,North East
+294,2016 OCT,6.8,North East
+295,2016 NOV,6.9,North East
+296,2016 DEC,6.8,North East
+297,2017 JAN,6.5,North East
+298,2017 FEB,5.8,North East
+299,2017 MAR,5.4,North East
+300,2017 APR,6.0,North East
+301,2017 MAY,6.0,North East
+302,2017 JUN,6.0,North East
+303,2017 JUL,5.8,North East
+304,2017 AUG,5.4,North East
+305,2017 SEP,5.7,North East
+306,2017 OCT,5.2,North East
+307,2017 NOV,5.2,North East
+308,2017 DEC,5.2,North East
+309,2018 JAN,4.8,North East
+310,2018 FEB,4.8,North East
+311,2018 MAR,4.6,North East
+312,2018 APR,4.9,North East
+313,2018 MAY,4.4,North East
+314,2018 JUN,4.5,North East
+315,2018 JUL,4.4,North East
+316,2018 AUG,4.9,North East
+317,2018 SEP,5.4,North East
+318,2018 OCT,5.5,North East
+319,2018 NOV,5.4,North East
+320,2018 DEC,5.1,North East
+321,2019 JAN,5.6,North East
+322,2019 FEB,5.4,North East
+323,2019 MAR,5.7,North East
+324,2019 APR,5.6,North East
+325,2019 MAY,5.3,North East
+326,2019 JUN,5.0,North East
+327,2019 JUL,5.8,North East
+328,2019 AUG,5.9,North East
+329,2019 SEP,6.1,North East
+330,2019 OCT,6.2,North East
+331,2019 NOV,6.1,North East
+332,2019 DEC,6.2,North East
+333,2020 JAN,5.6,North East
+334,2020 FEB,5.5,North East
+335,2020 MAR,5.3,North East
+336,2020 APR,5.2,North East
+337,2020 MAY,5.4,North East
+338,2020 JUN,5.5,North East
+339,2020 JUL,6.6,North East
+340,2020 AUG,6.6,North East
+341,2020 SEP,6.5,North East
+342,2020 OCT,6.2,North East
+343,2020 NOV,6.4,North East
+344,2020 DEC,6.1,North East
+345,2021 JAN,5.8,North East
+346,2021 FEB,5.8,North East
+347,2021 MAR,6.3,North East
+348,2021 APR,5.9,North East
+349,2021 MAY,5.8,North East
+350,2021 JUN,5.2,North East
+351,2021 JUL,5.2,North East
+352,2021 AUG,5.1,North East
+353,2021 SEP,5.3,North East
+354,2021 OCT,5.7,North East
+355,2021 NOV,5.6,North East
+356,2021 DEC,5.5,North East
+357,2022 JAN,5.3,North East
+358,2022 FEB,5.0,North East
+359,2022 MAR,5.2,North East
+360,2022 APR,5.1,North East
+361,2022 MAY,5.1,North East
+362,2022 JUN,4.7,North East
+363,2022 JUL,4.4,North East
+364,2022 AUG,4.2,North East
+365,2022 SEP,4.7,North East
+0,1992 APR,8.0,South East
+1,1992 MAY,8.0,South East
+2,1992 JUN,8.0,South East
+3,1992 JUL,8.1,South East
+4,1992 AUG,8.1,South East
+5,1992 SEP,8.1,South East
+6,1992 OCT,8.5,South East
+7,1992 NOV,8.5,South East
+8,1992 DEC,8.5,South East
+9,1993 JAN,8.5,South East
+10,1993 FEB,8.3,South East
+11,1993 MAR,8.4,South East
+12,1993 APR,8.2,South East
+13,1993 MAY,8.1,South East
+14,1993 JUN,8.2,South East
+15,1993 JUL,8.4,South East
+16,1993 AUG,8.3,South East
+17,1993 SEP,8.1,South East
+18,1993 OCT,7.9,South East
+19,1993 NOV,7.9,South East
+20,1993 DEC,7.9,South East
+21,1994 JAN,7.6,South East
+22,1994 FEB,7.4,South East
+23,1994 MAR,7.2,South East
+24,1994 APR,7.3,South East
+25,1994 MAY,7.3,South East
+26,1994 JUN,7.3,South East
+27,1994 JUL,7.2,South East
+28,1994 AUG,7.1,South East
+29,1994 SEP,7.1,South East
+30,1994 OCT,6.9,South East
+31,1994 NOV,6.8,South East
+32,1994 DEC,6.7,South East
+33,1995 JAN,7.1,South East
+34,1995 FEB,6.9,South East
+35,1995 MAR,6.8,South East
+36,1995 APR,6.5,South East
+37,1995 MAY,6.4,South East
+38,1995 JUN,6.4,South East
+39,1995 JUL,6.6,South East
+40,1995 AUG,6.6,South East
+41,1995 SEP,6.6,South East
+42,1995 OCT,6.3,South East
+43,1995 NOV,6.1,South East
+44,1995 DEC,6.5,South East
+45,1996 JAN,6.4,South East
+46,1996 FEB,6.5,South East
+47,1996 MAR,6.3,South East
+48,1996 APR,6.1,South East
+49,1996 MAY,6.1,South East
+50,1996 JUN,6.2,South East
+51,1996 JUL,6.0,South East
+52,1996 AUG,5.9,South East
+53,1996 SEP,5.7,South East
+54,1996 OCT,5.7,South East
+55,1996 NOV,5.4,South East
+56,1996 DEC,5.2,South East
+57,1997 JAN,5.1,South East
+58,1997 FEB,5.3,South East
+59,1997 MAR,5.2,South East
+60,1997 APR,5.3,South East
+61,1997 MAY,5.3,South East
+62,1997 JUN,5.4,South East
+63,1997 JUL,5.1,South East
+64,1997 AUG,4.8,South East
+65,1997 SEP,4.5,South East
+66,1997 OCT,4.5,South East
+67,1997 NOV,4.4,South East
+68,1997 DEC,4.3,South East
+69,1998 JAN,4.4,South East
+70,1998 FEB,4.4,South East
+71,1998 MAR,4.6,South East
+72,1998 APR,4.4,South East
+73,1998 MAY,4.3,South East
+74,1998 JUN,4.4,South East
+75,1998 JUL,4.5,South East
+76,1998 AUG,4.5,South East
+77,1998 SEP,4.3,South East
+78,1998 OCT,4.2,South East
+79,1998 NOV,3.8,South East
+80,1998 DEC,4.0,South East
+81,1999 JAN,3.9,South East
+82,1999 FEB,4.0,South East
+83,1999 MAR,3.7,South East
+84,1999 APR,3.7,South East
+85,1999 MAY,3.9,South East
+86,1999 JUN,3.9,South East
+87,1999 JUL,4.0,South East
+88,1999 AUG,3.9,South East
+89,1999 SEP,4.0,South East
+90,1999 OCT,4.0,South East
+91,1999 NOV,4.0,South East
+92,1999 DEC,3.9,South East
+93,2000 JAN,3.7,South East
+94,2000 FEB,3.6,South East
+95,2000 MAR,3.5,South East
+96,2000 APR,3.4,South East
+97,2000 MAY,3.2,South East
+98,2000 JUN,3.3,South East
+99,2000 JUL,3.1,South East
+100,2000 AUG,3.1,South East
+101,2000 SEP,3.3,South East
+102,2000 OCT,3.3,South East
+103,2000 NOV,3.3,South East
+104,2000 DEC,3.2,South East
+105,2001 JAN,3.5,South East
+106,2001 FEB,3.4,South East
+107,2001 MAR,3.3,South East
+108,2001 APR,3.1,South East
+109,2001 MAY,3.1,South East
+110,2001 JUN,3.1,South East
+111,2001 JUL,3.3,South East
+112,2001 AUG,3.4,South East
+113,2001 SEP,3.3,South East
+114,2001 OCT,3.5,South East
+115,2001 NOV,3.4,South East
+116,2001 DEC,3.4,South East
+117,2002 JAN,3.5,South East
+118,2002 FEB,3.6,South East
+119,2002 MAR,3.8,South East
+120,2002 APR,4.0,South East
+121,2002 MAY,3.8,South East
+122,2002 JUN,3.9,South East
+123,2002 JUL,3.9,South East
+124,2002 AUG,4.0,South East
+125,2002 SEP,3.9,South East
+126,2002 OCT,4.0,South East
+127,2002 NOV,3.9,South East
+128,2002 DEC,3.9,South East
+129,2003 JAN,3.9,South East
+130,2003 FEB,3.9,South East
+131,2003 MAR,3.8,South East
+132,2003 APR,3.8,South East
+133,2003 MAY,3.9,South East
+134,2003 JUN,4.2,South East
+135,2003 JUL,4.0,South East
+136,2003 AUG,3.9,South East
+137,2003 SEP,3.8,South East
+138,2003 OCT,3.7,South East
+139,2003 NOV,3.8,South East
+140,2003 DEC,3.7,South East
+141,2004 JAN,3.9,South East
+142,2004 FEB,3.9,South East
+143,2004 MAR,3.9,South East
+144,2004 APR,3.8,South East
+145,2004 MAY,3.7,South East
+146,2004 JUN,3.7,South East
+147,2004 JUL,3.7,South East
+148,2004 AUG,3.7,South East
+149,2004 SEP,3.5,South East
+150,2004 OCT,3.5,South East
+151,2004 NOV,3.5,South East
+152,2004 DEC,3.8,South East
+153,2005 JAN,4.0,South East
+154,2005 FEB,3.7,South East
+155,2005 MAR,3.7,South East
+156,2005 APR,3.7,South East
+157,2005 MAY,3.8,South East
+158,2005 JUN,3.7,South East
+159,2005 JUL,3.8,South East
+160,2005 AUG,4.0,South East
+161,2005 SEP,4.2,South East
+162,2005 OCT,4.1,South East
+163,2005 NOV,4.2,South East
+164,2005 DEC,4.0,South East
+165,2006 JAN,4.3,South East
+166,2006 FEB,4.5,South East
+167,2006 MAR,4.7,South East
+168,2006 APR,4.5,South East
+169,2006 MAY,4.7,South East
+170,2006 JUN,4.8,South East
+171,2006 JUL,4.8,South East
+172,2006 AUG,4.5,South East
+173,2006 SEP,4.2,South East
+174,2006 OCT,4.2,South East
+175,2006 NOV,4.2,South East
+176,2006 DEC,4.5,South East
+177,2007 JAN,4.5,South East
+178,2007 FEB,4.6,South East
+179,2007 MAR,4.4,South East
+180,2007 APR,4.2,South East
+181,2007 MAY,4.2,South East
+182,2007 JUN,4.4,South East
+183,2007 JUL,4.6,South East
+184,2007 AUG,4.5,South East
+185,2007 SEP,4.6,South East
+186,2007 OCT,4.5,South East
+187,2007 NOV,4.4,South East
+188,2007 DEC,4.4,South East
+189,2008 JAN,4.0,South East
+190,2008 FEB,3.9,South East
+191,2008 MAR,3.8,South East
+192,2008 APR,3.8,South East
+193,2008 MAY,4.1,South East
+194,2008 JUN,4.4,South East
+195,2008 JUL,4.6,South East
+196,2008 AUG,4.6,South East
+197,2008 SEP,4.6,South East
+198,2008 OCT,4.7,South East
+199,2008 NOV,4.9,South East
+200,2008 DEC,4.8,South East
+201,2009 JAN,5.0,South East
+202,2009 FEB,5.3,South East
+203,2009 MAR,5.4,South East
+204,2009 APR,5.9,South East
+205,2009 MAY,5.8,South East
+206,2009 JUN,6.0,South East
+207,2009 JUL,6.2,South East
+208,2009 AUG,6.1,South East
+209,2009 SEP,6.3,South East
+210,2009 OCT,6.2,South East
+211,2009 NOV,6.2,South East
+212,2009 DEC,6.0,South East
+213,2010 JAN,6.2,South East
+214,2010 FEB,6.3,South East
+215,2010 MAR,6.3,South East
+216,2010 APR,6.1,South East
+217,2010 MAY,6.1,South East
+218,2010 JUN,6.1,South East
+219,2010 JUL,6.4,South East
+220,2010 AUG,6.2,South East
+221,2010 SEP,6.2,South East
+222,2010 OCT,6.1,South East
+223,2010 NOV,6.1,South East
+224,2010 DEC,6.2,South East
+225,2011 JAN,5.8,South East
+226,2011 FEB,5.8,South East
+227,2011 MAR,5.7,South East
+228,2011 APR,5.7,South East
+229,2011 MAY,5.9,South East
+230,2011 JUN,5.8,South East
+231,2011 JUL,5.7,South East
+232,2011 AUG,6.2,South East
+233,2011 SEP,6.2,South East
+234,2011 OCT,6.5,South East
+235,2011 NOV,6.3,South East
+236,2011 DEC,6.4,South East
+237,2012 JAN,6.4,South East
+238,2012 FEB,6.3,South East
+239,2012 MAR,6.5,South East
+240,2012 APR,6.3,South East
+241,2012 MAY,6.3,South East
+242,2012 JUN,6.2,South East
+243,2012 JUL,6.1,South East
+244,2012 AUG,6.4,South East
+245,2012 SEP,6.3,South East
+246,2012 OCT,6.6,South East
+247,2012 NOV,6.6,South East
+248,2012 DEC,6.6,South East
+249,2013 JAN,6.9,South East
+250,2013 FEB,6.7,South East
+251,2013 MAR,6.6,South East
+252,2013 APR,6.3,South East
+253,2013 MAY,6.0,South East
+254,2013 JUN,5.7,South East
+255,2013 JUL,5.8,South East
+256,2013 AUG,5.9,South East
+257,2013 SEP,5.8,South East
+258,2013 OCT,5.4,South East
+259,2013 NOV,5.1,South East
+260,2013 DEC,5.3,South East
+261,2014 JAN,5.2,South East
+262,2014 FEB,5.0,South East
+263,2014 MAR,4.9,South East
+264,2014 APR,4.5,South East
+265,2014 MAY,4.4,South East
+266,2014 JUN,4.3,South East
+267,2014 JUL,4.6,South East
+268,2014 AUG,4.6,South East
+269,2014 SEP,4.6,South East
+270,2014 OCT,4.6,South East
+271,2014 NOV,4.7,South East
+272,2014 DEC,4.6,South East
+273,2015 JAN,4.3,South East
+274,2015 FEB,4.3,South East
+275,2015 MAR,4.1,South East
+276,2015 APR,4.4,South East
+277,2015 MAY,4.5,South East
+278,2015 JUN,4.4,South East
+279,2015 JUL,4.0,South East
+280,2015 AUG,3.9,South East
+281,2015 SEP,3.7,South East
+282,2015 OCT,3.8,South East
+283,2015 NOV,3.9,South East
+284,2015 DEC,3.9,South East
+285,2016 JAN,3.9,South East
+286,2016 FEB,3.8,South East
+287,2016 MAR,3.9,South East
+288,2016 APR,3.8,South East
+289,2016 MAY,3.7,South East
+290,2016 JUN,3.4,South East
+291,2016 JUL,3.6,South East
+292,2016 AUG,3.6,South East
+293,2016 SEP,3.5,South East
+294,2016 OCT,3.4,South East
+295,2016 NOV,3.4,South East
+296,2016 DEC,3.6,South East
+297,2017 JAN,3.5,South East
+298,2017 FEB,3.5,South East
+299,2017 MAR,3.5,South East
+300,2017 APR,3.4,South East
+301,2017 MAY,3.2,South East
+302,2017 JUN,3.1,South East
+303,2017 JUL,3.2,South East
+304,2017 AUG,3.2,South East
+305,2017 SEP,3.0,South East
+306,2017 OCT,3.0,South East
+307,2017 NOV,3.1,South East
+308,2017 DEC,3.5,South East
+309,2018 JAN,3.5,South East
+310,2018 FEB,3.6,South East
+311,2018 MAR,3.5,South East
+312,2018 APR,3.6,South East
+313,2018 MAY,3.7,South East
+314,2018 JUN,3.7,South East
+315,2018 JUL,3.8,South East
+316,2018 AUG,3.6,South East
+317,2018 SEP,3.4,South East
+318,2018 OCT,3.2,South East
+319,2018 NOV,3.1,South East
+320,2018 DEC,3.1,South East
+321,2019 JAN,3.3,South East
+322,2019 FEB,3.2,South East
+323,2019 MAR,3.0,South East
+324,2019 APR,2.8,South East
+325,2019 MAY,2.9,South East
+326,2019 JUN,2.8,South East
+327,2019 JUL,3.1,South East
+328,2019 AUG,3.2,South East
+329,2019 SEP,3.1,South East
+330,2019 OCT,3.3,South East
+331,2019 NOV,3.1,South East
+332,2019 DEC,3.2,South East
+333,2020 JAN,3.0,South East
+334,2020 FEB,3.0,South East
+335,2020 MAR,3.1,South East
+336,2020 APR,3.1,South East
+337,2020 MAY,3.4,South East
+338,2020 JUN,3.7,South East
+339,2020 JUL,4.2,South East
+340,2020 AUG,4.3,South East
+341,2020 SEP,4.0,South East
+342,2020 OCT,3.7,South East
+343,2020 NOV,3.6,South East
+344,2020 DEC,3.4,South East
+345,2021 JAN,3.4,South East
+346,2021 FEB,3.5,South East
+347,2021 MAR,3.9,South East
+348,2021 APR,4.2,South East
+349,2021 MAY,4.4,South East
+350,2021 JUN,4.1,South East
+351,2021 JUL,4.1,South East
+352,2021 AUG,3.8,South East
+353,2021 SEP,4.0,South East
+354,2021 OCT,4.1,South East
+355,2021 NOV,3.9,South East
+356,2021 DEC,3.8,South East
+357,2022 JAN,3.4,South East
+358,2022 FEB,3.2,South East
+359,2022 MAR,3.1,South East
+360,2022 APR,2.9,South East
+361,2022 MAY,3.6,South East
+362,2022 JUN,3.5,South East
+363,2022 JUL,3.2,South East
+364,2022 AUG,3.0,South East
+365,2022 SEP,3.5,South East
+0,1992 APR,9.3,South West
+1,1992 MAY,9.0,South West
+2,1992 JUN,8.8,South West
+3,1992 JUL,9.0,South West
+4,1992 AUG,8.9,South West
+5,1992 SEP,9.1,South West
+6,1992 OCT,9.0,South West
+7,1992 NOV,9.3,South West
+8,1992 DEC,9.4,South West
+9,1993 JAN,9.6,South West
+10,1993 FEB,9.7,South West
+11,1993 MAR,9.4,South West
+12,1993 APR,9.4,South West
+13,1993 MAY,9.2,South West
+14,1993 JUN,9.1,South West
+15,1993 JUL,8.4,South West
+16,1993 AUG,8.4,South West
+17,1993 SEP,8.2,South West
+18,1993 OCT,8.4,South West
+19,1993 NOV,8.4,South West
+20,1993 DEC,8.5,South West
+21,1994 JAN,8.1,South West
+22,1994 FEB,7.8,South West
+23,1994 MAR,7.7,South West
+24,1994 APR,7.7,South West
+25,1994 MAY,7.7,South West
+26,1994 JUN,7.8,South West
+27,1994 JUL,8.1,South West
+28,1994 AUG,8.1,South West
+29,1994 SEP,7.8,South West
+30,1994 OCT,7.7,South West
+31,1994 NOV,7.3,South West
+32,1994 DEC,7.3,South West
+33,1995 JAN,7.5,South West
+34,1995 FEB,7.8,South West
+35,1995 MAR,7.8,South West
+36,1995 APR,8.0,South West
+37,1995 MAY,7.8,South West
+38,1995 JUN,7.6,South West
+39,1995 JUL,7.2,South West
+40,1995 AUG,7.3,South West
+41,1995 SEP,7.5,South West
+42,1995 OCT,7.3,South West
+43,1995 NOV,7.1,South West
+44,1995 DEC,7.3,South West
+45,1996 JAN,7.0,South West
+46,1996 FEB,6.8,South West
+47,1996 MAR,6.6,South West
+48,1996 APR,6.5,South West
+49,1996 MAY,6.2,South West
+50,1996 JUN,6.2,South West
+51,1996 JUL,6.3,South West
+52,1996 AUG,6.4,South West
+53,1996 SEP,6.3,South West
+54,1996 OCT,6.5,South West
+55,1996 NOV,6.5,South West
+56,1996 DEC,6.2,South West
+57,1997 JAN,5.9,South West
+58,1997 FEB,5.7,South West
+59,1997 MAR,5.3,South West
+60,1997 APR,5.4,South West
+61,1997 MAY,5.8,South West
+62,1997 JUN,6.1,South West
+63,1997 JUL,5.7,South West
+64,1997 AUG,5.1,South West
+65,1997 SEP,4.8,South West
+66,1997 OCT,4.9,South West
+67,1997 NOV,5.1,South West
+68,1997 DEC,5.1,South West
+69,1998 JAN,4.9,South West
+70,1998 FEB,4.6,South West
+71,1998 MAR,4.6,South West
+72,1998 APR,4.6,South West
+73,1998 MAY,4.8,South West
+74,1998 JUN,4.7,South West
+75,1998 JUL,4.8,South West
+76,1998 AUG,4.9,South West
+77,1998 SEP,4.9,South West
+78,1998 OCT,4.7,South West
+79,1998 NOV,4.5,South West
+80,1998 DEC,4.6,South West
+81,1999 JAN,4.8,South West
+82,1999 FEB,4.9,South West
+83,1999 MAR,4.9,South West
+84,1999 APR,4.9,South West
+85,1999 MAY,4.5,South West
+86,1999 JUN,4.3,South West
+87,1999 JUL,4.3,South West
+88,1999 AUG,4.3,South West
+89,1999 SEP,4.3,South West
+90,1999 OCT,4.1,South West
+91,1999 NOV,4.2,South West
+92,1999 DEC,4.3,South West
+93,2000 JAN,4.2,South West
+94,2000 FEB,4.2,South West
+95,2000 MAR,4.3,South West
+96,2000 APR,4.2,South West
+97,2000 MAY,4.3,South West
+98,2000 JUN,4.0,South West
+99,2000 JUL,4.0,South West
+100,2000 AUG,4.0,South West
+101,2000 SEP,4.1,South West
+102,2000 OCT,4.0,South West
+103,2000 NOV,3.9,South West
+104,2000 DEC,3.8,South West
+105,2001 JAN,4.0,South West
+106,2001 FEB,3.9,South West
+107,2001 MAR,3.8,South West
+108,2001 APR,3.6,South West
+109,2001 MAY,3.5,South West
+110,2001 JUN,3.7,South West
+111,2001 JUL,3.7,South West
+112,2001 AUG,3.6,South West
+113,2001 SEP,3.4,South West
+114,2001 OCT,3.4,South West
+115,2001 NOV,3.5,South West
+116,2001 DEC,3.8,South West
+117,2002 JAN,3.6,South West
+118,2002 FEB,3.4,South West
+119,2002 MAR,3.3,South West
+120,2002 APR,3.6,South West
+121,2002 MAY,3.7,South West
+122,2002 JUN,3.8,South West
+123,2002 JUL,3.8,South West
+124,2002 AUG,4.0,South West
+125,2002 SEP,4.0,South West
+126,2002 OCT,4.1,South West
+127,2002 NOV,4.0,South West
+128,2002 DEC,3.8,South West
+129,2003 JAN,3.6,South West
+130,2003 FEB,3.8,South West
+131,2003 MAR,3.7,South West
+132,2003 APR,3.8,South West
+133,2003 MAY,3.4,South West
+134,2003 JUN,3.4,South West
+135,2003 JUL,3.4,South West
+136,2003 AUG,3.2,South West
+137,2003 SEP,3.2,South West
+138,2003 OCT,2.8,South West
+139,2003 NOV,3.1,South West
+140,2003 DEC,2.8,South West
+141,2004 JAN,3.1,South West
+142,2004 FEB,3.0,South West
+143,2004 MAR,3.2,South West
+144,2004 APR,3.4,South West
+145,2004 MAY,3.7,South West
+146,2004 JUN,3.5,South West
+147,2004 JUL,3.4,South West
+148,2004 AUG,3.2,South West
+149,2004 SEP,3.2,South West
+150,2004 OCT,3.1,South West
+151,2004 NOV,3.3,South West
+152,2004 DEC,3.6,South West
+153,2005 JAN,3.5,South West
+154,2005 FEB,3.6,South West
+155,2005 MAR,3.4,South West
+156,2005 APR,3.4,South West
+157,2005 MAY,3.2,South West
+158,2005 JUN,3.5,South West
+159,2005 JUL,3.6,South West
+160,2005 AUG,3.6,South West
+161,2005 SEP,3.4,South West
+162,2005 OCT,4.0,South West
+163,2005 NOV,4.0,South West
+164,2005 DEC,4.0,South West
+165,2006 JAN,3.6,South West
+166,2006 FEB,3.6,South West
+167,2006 MAR,3.8,South West
+168,2006 APR,3.8,South West
+169,2006 MAY,3.7,South West
+170,2006 JUN,3.4,South West
+171,2006 JUL,3.2,South West
+172,2006 AUG,3.7,South West
+173,2006 SEP,4.1,South West
+174,2006 OCT,3.9,South West
+175,2006 NOV,3.9,South West
+176,2006 DEC,4.1,South West
+177,2007 JAN,4.1,South West
+178,2007 FEB,4.0,South West
+179,2007 MAR,3.8,South West
+180,2007 APR,3.8,South West
+181,2007 MAY,4.0,South West
+182,2007 JUN,3.6,South West
+183,2007 JUL,3.8,South West
+184,2007 AUG,3.9,South West
+185,2007 SEP,3.9,South West
+186,2007 OCT,3.6,South West
+187,2007 NOV,3.6,South West
+188,2007 DEC,3.6,South West
+189,2008 JAN,3.6,South West
+190,2008 FEB,3.6,South West
+191,2008 MAR,4.0,South West
+192,2008 APR,3.8,South West
+193,2008 MAY,3.8,South West
+194,2008 JUN,3.8,South West
+195,2008 JUL,3.9,South West
+196,2008 AUG,4.2,South West
+197,2008 SEP,4.3,South West
+198,2008 OCT,4.7,South West
+199,2008 NOV,4.7,South West
+200,2008 DEC,5.2,South West
+201,2009 JAN,5.3,South West
+202,2009 FEB,5.8,South West
+203,2009 MAR,5.8,South West
+204,2009 APR,6.1,South West
+205,2009 MAY,6.3,South West
+206,2009 JUN,6.6,South West
+207,2009 JUL,6.5,South West
+208,2009 AUG,6.5,South West
+209,2009 SEP,6.6,South West
+210,2009 OCT,6.3,South West
+211,2009 NOV,6.3,South West
+212,2009 DEC,6.1,South West
+213,2010 JAN,6.3,South West
+214,2010 FEB,6.1,South West
+215,2010 MAR,6.0,South West
+216,2010 APR,6.2,South West
+217,2010 MAY,6.1,South West
+218,2010 JUN,5.9,South West
+219,2010 JUL,5.7,South West
+220,2010 AUG,5.4,South West
+221,2010 SEP,5.6,South West
+222,2010 OCT,5.9,South West
+223,2010 NOV,6.2,South West
+224,2010 DEC,6.3,South West
+225,2011 JAN,6.0,South West
+226,2011 FEB,6.4,South West
+227,2011 MAR,6.4,South West
+228,2011 APR,6.4,South West
+229,2011 MAY,6.6,South West
+230,2011 JUN,6.6,South West
+231,2011 JUL,6.5,South West
+232,2011 AUG,6.5,South West
+233,2011 SEP,6.3,South West
+234,2011 OCT,6.3,South West
+235,2011 NOV,6.1,South West
+236,2011 DEC,6.3,South West
+237,2012 JAN,6.6,South West
+238,2012 FEB,6.5,South West
+239,2012 MAR,6.1,South West
+240,2012 APR,5.9,South West
+241,2012 MAY,5.8,South West
+242,2012 JUN,5.6,South West
+243,2012 JUL,5.7,South West
+244,2012 AUG,5.6,South West
+245,2012 SEP,5.4,South West
+246,2012 OCT,5.3,South West
+247,2012 NOV,5.6,South West
+248,2012 DEC,5.8,South West
+249,2013 JAN,6.2,South West
+250,2013 FEB,6.3,South West
+251,2013 MAR,6.3,South West
+252,2013 APR,5.8,South West
+253,2013 MAY,6.0,South West
+254,2013 JUN,6.2,South West
+255,2013 JUL,6.3,South West
+256,2013 AUG,6.3,South West
+257,2013 SEP,6.1,South West
+258,2013 OCT,6.7,South West
+259,2013 NOV,6.4,South West
+260,2013 DEC,5.9,South West
+261,2014 JAN,4.9,South West
+262,2014 FEB,4.9,South West
+263,2014 MAR,4.9,South West
+264,2014 APR,4.9,South West
+265,2014 MAY,5.1,South West
+266,2014 JUN,4.9,South West
+267,2014 JUL,4.7,South West
+268,2014 AUG,4.7,South West
+269,2014 SEP,4.6,South West
+270,2014 OCT,4.3,South West
+271,2014 NOV,4.5,South West
+272,2014 DEC,4.5,South West
+273,2015 JAN,4.7,South West
+274,2015 FEB,4.3,South West
+275,2015 MAR,4.2,South West
+276,2015 APR,4.5,South West
+277,2015 MAY,4.4,South West
+278,2015 JUN,4.1,South West
+279,2015 JUL,4.0,South West
+280,2015 AUG,3.9,South West
+281,2015 SEP,3.8,South West
+282,2015 OCT,3.8,South West
+283,2015 NOV,3.8,South West
+284,2015 DEC,3.8,South West
+285,2016 JAN,3.8,South West
+286,2016 FEB,4.2,South West
+287,2016 MAR,4.1,South West
+288,2016 APR,4.0,South West
+289,2016 MAY,4.0,South West
+290,2016 JUN,4.3,South West
+291,2016 JUL,4.2,South West
+292,2016 AUG,3.9,South West
+293,2016 SEP,3.6,South West
+294,2016 OCT,3.6,South West
+295,2016 NOV,3.5,South West
+296,2016 DEC,3.5,South West
+297,2017 JAN,3.5,South West
+298,2017 FEB,3.5,South West
+299,2017 MAR,3.4,South West
+300,2017 APR,3.6,South West
+301,2017 MAY,3.7,South West
+302,2017 JUN,4.0,South West
+303,2017 JUL,3.7,South West
+304,2017 AUG,3.7,South West
+305,2017 SEP,3.6,South West
+306,2017 OCT,3.5,South West
+307,2017 NOV,3.6,South West
+308,2017 DEC,3.6,South West
+309,2018 JAN,3.4,South West
+310,2018 FEB,3.5,South West
+311,2018 MAR,3.3,South West
+312,2018 APR,3.3,South West
+313,2018 MAY,3.0,South West
+314,2018 JUN,2.7,South West
+315,2018 JUL,2.7,South West
+316,2018 AUG,2.9,South West
+317,2018 SEP,2.9,South West
+318,2018 OCT,3.0,South West
+319,2018 NOV,3.0,South West
+320,2018 DEC,2.9,South West
+321,2019 JAN,2.6,South West
+322,2019 FEB,2.4,South West
+323,2019 MAR,2.7,South West
+324,2019 APR,2.6,South West
+325,2019 MAY,2.7,South West
+326,2019 JUN,2.4,South West
+327,2019 JUL,2.4,South West
+328,2019 AUG,2.6,South West
+329,2019 SEP,2.6,South West
+330,2019 OCT,2.8,South West
+331,2019 NOV,2.8,South West
+332,2019 DEC,3.0,South West
+333,2020 JAN,3.1,South West
+334,2020 FEB,3.2,South West
+335,2020 MAR,3.2,South West
+336,2020 APR,3.5,South West
+337,2020 MAY,3.8,South West
+338,2020 JUN,4.1,South West
+339,2020 JUL,4.2,South West
+340,2020 AUG,4.2,South West
+341,2020 SEP,4.5,South West
+342,2020 OCT,4.1,South West
+343,2020 NOV,4.4,South West
+344,2020 DEC,4.3,South West
+345,2021 JAN,4.1,South West
+346,2021 FEB,3.8,South West
+347,2021 MAR,3.6,South West
+348,2021 APR,3.6,South West
+349,2021 MAY,3.5,South West
+350,2021 JUN,3.3,South West
+351,2021 JUL,3.4,South West
+352,2021 AUG,3.3,South West
+353,2021 SEP,3.0,South West
+354,2021 OCT,2.9,South West
+355,2021 NOV,2.8,South West
+356,2021 DEC,2.8,South West
+357,2022 JAN,2.8,South West
+358,2022 FEB,2.9,South West
+359,2022 MAR,2.9,South West
+360,2022 APR,2.7,South West
+361,2022 MAY,2.8,South West
+362,2022 JUN,2.7,South West
+363,2022 JUL,2.7,South West
+364,2022 AUG,2.5,South West
+365,2022 SEP,2.0,South West
+0,1992 APR,7.9,East
+1,1992 MAY,8.2,East
+2,1992 JUN,8.1,East
+3,1992 JUL,8.4,East
+4,1992 AUG,8.4,East
+5,1992 SEP,8.7,East
+6,1992 OCT,9.0,East
+7,1992 NOV,9.2,East
+8,1992 DEC,9.2,East
+9,1993 JAN,9.1,East
+10,1993 FEB,9.1,East
+11,1993 MAR,9.5,East
+12,1993 APR,9.4,East
+13,1993 MAY,9.3,East
+14,1993 JUN,9.2,East
+15,1993 JUL,9.1,East
+16,1993 AUG,9.0,East
+17,1993 SEP,8.9,East
+18,1993 OCT,8.9,East
+19,1993 NOV,8.8,East
+20,1993 DEC,9.1,East
+21,1994 JAN,8.8,East
+22,1994 FEB,8.9,East
+23,1994 MAR,8.4,East
+24,1994 APR,8.4,East
+25,1994 MAY,8.1,East
+26,1994 JUN,8.1,East
+27,1994 JUL,8.0,East
+28,1994 AUG,8.0,East
+29,1994 SEP,7.8,East
+30,1994 OCT,7.6,East
+31,1994 NOV,7.5,East
+32,1994 DEC,7.2,East
+33,1995 JAN,7.7,East
+34,1995 FEB,7.8,East
+35,1995 MAR,7.7,East
+36,1995 APR,7.7,East
+37,1995 MAY,7.5,East
+38,1995 JUN,7.6,East
+39,1995 JUL,7.4,East
+40,1995 AUG,7.5,East
+41,1995 SEP,7.5,East
+42,1995 OCT,7.4,East
+43,1995 NOV,7.0,East
+44,1995 DEC,7.1,East
+45,1996 JAN,6.8,East
+46,1996 FEB,6.5,East
+47,1996 MAR,6.6,East
+48,1996 APR,6.3,East
+49,1996 MAY,6.4,East
+50,1996 JUN,6.5,East
+51,1996 JUL,6.8,East
+52,1996 AUG,6.7,East
+53,1996 SEP,6.8,East
+54,1996 OCT,6.6,East
+55,1996 NOV,6.6,East
+56,1996 DEC,6.5,East
+57,1997 JAN,6.3,East
+58,1997 FEB,6.1,East
+59,1997 MAR,6.0,East
+60,1997 APR,6.0,East
+61,1997 MAY,6.4,East
+62,1997 JUN,6.4,East
+63,1997 JUL,6.1,East
+64,1997 AUG,5.5,East
+65,1997 SEP,5.2,East
+66,1997 OCT,5.2,East
+67,1997 NOV,5.3,East
+68,1997 DEC,5.1,East
+69,1998 JAN,5.3,East
+70,1998 FEB,5.4,East
+71,1998 MAR,5.1,East
+72,1998 APR,5.1,East
+73,1998 MAY,4.9,East
+74,1998 JUN,4.7,East
+75,1998 JUL,4.4,East
+76,1998 AUG,4.5,East
+77,1998 SEP,4.5,East
+78,1998 OCT,4.5,East
+79,1998 NOV,4.3,East
+80,1998 DEC,4.5,East
+81,1999 JAN,4.5,East
+82,1999 FEB,4.2,East
+83,1999 MAR,4.3,East
+84,1999 APR,4.3,East
+85,1999 MAY,4.3,East
+86,1999 JUN,4.2,East
+87,1999 JUL,3.7,East
+88,1999 AUG,3.9,East
+89,1999 SEP,3.9,East
+90,1999 OCT,4.2,East
+91,1999 NOV,4.2,East
+92,1999 DEC,4.2,East
+93,2000 JAN,4.0,East
+94,2000 FEB,3.9,East
+95,2000 MAR,3.8,East
+96,2000 APR,3.7,East
+97,2000 MAY,3.7,East
+98,2000 JUN,3.5,East
+99,2000 JUL,3.6,East
+100,2000 AUG,3.7,East
+101,2000 SEP,3.8,East
+102,2000 OCT,3.6,East
+103,2000 NOV,3.6,East
+104,2000 DEC,3.4,East
+105,2001 JAN,3.4,East
+106,2001 FEB,3.5,East
+107,2001 MAR,3.7,East
+108,2001 APR,3.7,East
+109,2001 MAY,3.6,East
+110,2001 JUN,3.6,East
+111,2001 JUL,3.9,East
+112,2001 AUG,3.9,East
+113,2001 SEP,4.0,East
+114,2001 OCT,3.9,East
+115,2001 NOV,3.9,East
+116,2001 DEC,3.8,East
+117,2002 JAN,3.7,East
+118,2002 FEB,3.7,East
+119,2002 MAR,3.4,East
+120,2002 APR,3.5,East
+121,2002 MAY,3.7,East
+122,2002 JUN,3.8,East
+123,2002 JUL,3.8,East
+124,2002 AUG,3.9,East
+125,2002 SEP,3.9,East
+126,2002 OCT,4.1,East
+127,2002 NOV,4.1,East
+128,2002 DEC,4.2,East
+129,2003 JAN,4.4,East
+130,2003 FEB,4.7,East
+131,2003 MAR,4.4,East
+132,2003 APR,4.0,East
+133,2003 MAY,3.9,East
+134,2003 JUN,3.8,East
+135,2003 JUL,3.9,East
+136,2003 AUG,3.9,East
+137,2003 SEP,4.0,East
+138,2003 OCT,3.5,East
+139,2003 NOV,3.5,East
+140,2003 DEC,3.3,East
+141,2004 JAN,3.4,East
+142,2004 FEB,3.4,East
+143,2004 MAR,3.6,East
+144,2004 APR,4.0,East
+145,2004 MAY,3.8,East
+146,2004 JUN,3.7,East
+147,2004 JUL,3.6,East
+148,2004 AUG,3.5,East
+149,2004 SEP,3.5,East
+150,2004 OCT,3.6,East
+151,2004 NOV,3.9,East
+152,2004 DEC,3.9,East
+153,2005 JAN,4.1,East
+154,2005 FEB,3.9,East
+155,2005 MAR,3.8,East
+156,2005 APR,3.7,East
+157,2005 MAY,3.9,East
+158,2005 JUN,3.9,East
+159,2005 JUL,4.0,East
+160,2005 AUG,3.9,East
+161,2005 SEP,4.2,East
+162,2005 OCT,4.4,East
+163,2005 NOV,4.6,East
+164,2005 DEC,4.7,East
+165,2006 JAN,4.7,East
+166,2006 FEB,4.9,East
+167,2006 MAR,4.9,East
+168,2006 APR,5.2,East
+169,2006 MAY,5.1,East
+170,2006 JUN,4.7,East
+171,2006 JUL,4.6,East
+172,2006 AUG,4.7,East
+173,2006 SEP,4.8,East
+174,2006 OCT,4.8,East
+175,2006 NOV,4.5,East
+176,2006 DEC,4.7,East
+177,2007 JAN,4.6,East
+178,2007 FEB,4.8,East
+179,2007 MAR,4.7,East
+180,2007 APR,4.5,East
+181,2007 MAY,4.7,East
+182,2007 JUN,4.7,East
+183,2007 JUL,5.1,East
+184,2007 AUG,5.0,East
+185,2007 SEP,4.8,East
+186,2007 OCT,4.4,East
+187,2007 NOV,4.4,East
+188,2007 DEC,4.4,East
+189,2008 JAN,4.6,East
+190,2008 FEB,4.5,East
+191,2008 MAR,4.6,East
+192,2008 APR,4.5,East
+193,2008 MAY,4.6,East
+194,2008 JUN,4.8,East
+195,2008 JUL,4.6,East
+196,2008 AUG,4.8,East
+197,2008 SEP,4.6,East
+198,2008 OCT,5.3,East
+199,2008 NOV,5.5,East
+200,2008 DEC,5.7,East
+201,2009 JAN,5.9,East
+202,2009 FEB,6.0,East
+203,2009 MAR,6.1,East
+204,2009 APR,6.3,East
+205,2009 MAY,6.4,East
+206,2009 JUN,6.5,East
+207,2009 JUL,6.5,East
+208,2009 AUG,6.3,East
+209,2009 SEP,6.5,East
+210,2009 OCT,6.1,East
+211,2009 NOV,6.4,East
+212,2009 DEC,6.6,East
+213,2010 JAN,6.7,East
+214,2010 FEB,6.7,East
+215,2010 MAR,6.6,East
+216,2010 APR,6.7,East
+217,2010 MAY,6.9,East
+218,2010 JUN,6.8,East
+219,2010 JUL,6.7,East
+220,2010 AUG,6.5,East
+221,2010 SEP,6.7,East
+222,2010 OCT,6.3,East
+223,2010 NOV,6.5,East
+224,2010 DEC,6.2,East
+225,2011 JAN,6.0,East
+226,2011 FEB,6.2,East
+227,2011 MAR,6.3,East
+228,2011 APR,6.7,East
+229,2011 MAY,6.6,East
+230,2011 JUN,6.6,East
+231,2011 JUL,6.7,East
+232,2011 AUG,6.9,East
+233,2011 SEP,7.1,East
+234,2011 OCT,7.1,East
+235,2011 NOV,7.0,East
+236,2011 DEC,6.8,East
+237,2012 JAN,6.6,East
+238,2012 FEB,6.7,East
+239,2012 MAR,6.8,East
+240,2012 APR,6.7,East
+241,2012 MAY,6.7,East
+242,2012 JUN,6.5,East
+243,2012 JUL,6.7,East
+244,2012 AUG,6.8,East
+245,2012 SEP,7.0,East
+246,2012 OCT,6.7,East
+247,2012 NOV,6.8,East
+248,2012 DEC,6.6,East
+249,2013 JAN,6.9,East
+250,2013 FEB,6.8,East
+251,2013 MAR,6.8,East
+252,2013 APR,6.6,East
+253,2013 MAY,6.5,East
+254,2013 JUN,6.7,East
+255,2013 JUL,5.9,East
+256,2013 AUG,5.7,East
+257,2013 SEP,5.5,East
+258,2013 OCT,5.6,East
+259,2013 NOV,5.7,East
+260,2013 DEC,5.8,East
+261,2014 JAN,5.4,East
+262,2014 FEB,5.5,East
+263,2014 MAR,5.4,East
+264,2014 APR,5.5,East
+265,2014 MAY,5.1,East
+266,2014 JUN,5.0,East
+267,2014 JUL,4.9,East
+268,2014 AUG,4.8,East
+269,2014 SEP,4.8,East
+270,2014 OCT,4.9,East
+271,2014 NOV,5.0,East
+272,2014 DEC,5.1,East
+273,2015 JAN,4.9,East
+274,2015 FEB,4.5,East
+275,2015 MAR,4.4,East
+276,2015 APR,4.7,East
+277,2015 MAY,4.8,East
+278,2015 JUN,4.8,East
+279,2015 JUL,4.2,East
+280,2015 AUG,4.0,East
+281,2015 SEP,3.8,East
+282,2015 OCT,3.7,East
+283,2015 NOV,3.8,East
+284,2015 DEC,3.5,East
+285,2016 JAN,3.5,East
+286,2016 FEB,3.8,East
+287,2016 MAR,3.8,East
+288,2016 APR,3.7,East
+289,2016 MAY,3.4,East
+290,2016 JUN,3.3,East
+291,2016 JUL,3.9,East
+292,2016 AUG,4.2,East
+293,2016 SEP,4.5,East
+294,2016 OCT,4.5,East
+295,2016 NOV,4.4,East
+296,2016 DEC,4.4,East
+297,2017 JAN,4.3,East
+298,2017 FEB,3.9,East
+299,2017 MAR,4.1,East
+300,2017 APR,4.1,East
+301,2017 MAY,4.1,East
+302,2017 JUN,3.8,East
+303,2017 JUL,3.8,East
+304,2017 AUG,3.5,East
+305,2017 SEP,3.5,East
+306,2017 OCT,3.7,East
+307,2017 NOV,4.2,East
+308,2017 DEC,4.2,East
+309,2018 JAN,3.8,East
+310,2018 FEB,3.8,East
+311,2018 MAR,3.6,East
+312,2018 APR,3.5,East
+313,2018 MAY,3.2,East
+314,2018 JUN,3.1,East
+315,2018 JUL,2.9,East
+316,2018 AUG,3.0,East
+317,2018 SEP,2.9,East
+318,2018 OCT,3.1,East
+319,2018 NOV,2.8,East
+320,2018 DEC,3.2,East
+321,2019 JAN,3.1,East
+322,2019 FEB,2.9,East
+323,2019 MAR,3.0,East
+324,2019 APR,2.8,East
+325,2019 MAY,2.9,East
+326,2019 JUN,3.1,East
+327,2019 JUL,3.4,East
+328,2019 AUG,3.1,East
+329,2019 SEP,3.2,East
+330,2019 OCT,3.3,East
+331,2019 NOV,3.3,East
+332,2019 DEC,3.4,East
+333,2020 JAN,3.5,East
+334,2020 FEB,3.9,East
+335,2020 MAR,3.8,East
+336,2020 APR,3.8,East
+337,2020 MAY,4.0,East
+338,2020 JUN,3.9,East
+339,2020 JUL,4.1,East
+340,2020 AUG,4.3,East
+341,2020 SEP,4.7,East
+342,2020 OCT,4.6,East
+343,2020 NOV,4.4,East
+344,2020 DEC,4.1,East
+345,2021 JAN,3.9,East
+346,2021 FEB,3.9,East
+347,2021 MAR,3.9,East
+348,2021 APR,4.0,East
+349,2021 MAY,3.9,East
+350,2021 JUN,3.7,East
+351,2021 JUL,3.5,East
+352,2021 AUG,3.3,East
+353,2021 SEP,3.1,East
+354,2021 OCT,2.7,East
+355,2021 NOV,3.0,East
+356,2021 DEC,3.1,East
+357,2022 JAN,3.2,East
+358,2022 FEB,3.4,East
+359,2022 MAR,3.7,East
+360,2022 APR,3.6,East
+361,2022 MAY,3.3,East
+362,2022 JUN,3.1,East
+363,2022 JUL,2.8,East
+364,2022 AUG,2.8,East
+365,2022 SEP,2.7,East
+0,1992 APR,8.7,East Midlands
+1,1992 MAY,8.4,East Midlands
+2,1992 JUN,8.6,East Midlands
+3,1992 JUL,8.4,East Midlands
+4,1992 AUG,8.4,East Midlands
+5,1992 SEP,8.7,East Midlands
+6,1992 OCT,8.6,East Midlands
+7,1992 NOV,8.8,East Midlands
+8,1992 DEC,9.2,East Midlands
+9,1993 JAN,9.3,East Midlands
+10,1993 FEB,9.3,East Midlands
+11,1993 MAR,9.2,East Midlands
+12,1993 APR,9.0,East Midlands
+13,1993 MAY,9.0,East Midlands
+14,1993 JUN,8.7,East Midlands
+15,1993 JUL,8.7,East Midlands
+16,1993 AUG,8.6,East Midlands
+17,1993 SEP,8.5,East Midlands
+18,1993 OCT,8.5,East Midlands
+19,1993 NOV,8.2,East Midlands
+20,1993 DEC,8.1,East Midlands
+21,1994 JAN,8.0,East Midlands
+22,1994 FEB,7.9,East Midlands
+23,1994 MAR,8.1,East Midlands
+24,1994 APR,8.2,East Midlands
+25,1994 MAY,8.3,East Midlands
+26,1994 JUN,8.5,East Midlands
+27,1994 JUL,8.9,East Midlands
+28,1994 AUG,8.7,East Midlands
+29,1994 SEP,8.5,East Midlands
+30,1994 OCT,8.2,East Midlands
+31,1994 NOV,8.0,East Midlands
+32,1994 DEC,7.8,East Midlands
+33,1995 JAN,7.5,East Midlands
+34,1995 FEB,7.7,East Midlands
+35,1995 MAR,7.3,East Midlands
+36,1995 APR,7.4,East Midlands
+37,1995 MAY,7.2,East Midlands
+38,1995 JUN,7.2,East Midlands
+39,1995 JUL,6.9,East Midlands
+40,1995 AUG,6.8,East Midlands
+41,1995 SEP,6.7,East Midlands
+42,1995 OCT,7.0,East Midlands
+43,1995 NOV,7.2,East Midlands
+44,1995 DEC,7.3,East Midlands
+45,1996 JAN,7.4,East Midlands
+46,1996 FEB,7.2,East Midlands
+47,1996 MAR,7.6,East Midlands
+48,1996 APR,7.4,East Midlands
+49,1996 MAY,7.3,East Midlands
+50,1996 JUN,7.1,East Midlands
+51,1996 JUL,6.9,East Midlands
+52,1996 AUG,6.9,East Midlands
+53,1996 SEP,7.1,East Midlands
+54,1996 OCT,6.9,East Midlands
+55,1996 NOV,7.0,East Midlands
+56,1996 DEC,6.7,East Midlands
+57,1997 JAN,6.2,East Midlands
+58,1997 FEB,6.1,East Midlands
+59,1997 MAR,6.0,East Midlands
+60,1997 APR,6.4,East Midlands
+61,1997 MAY,5.9,East Midlands
+62,1997 JUN,6.0,East Midlands
+63,1997 JUL,5.4,East Midlands
+64,1997 AUG,5.0,East Midlands
+65,1997 SEP,5.0,East Midlands
+66,1997 OCT,5.2,East Midlands
+67,1997 NOV,5.3,East Midlands
+68,1997 DEC,5.0,East Midlands
+69,1998 JAN,5.0,East Midlands
+70,1998 FEB,5.2,East Midlands
+71,1998 MAR,5.2,East Midlands
+72,1998 APR,4.9,East Midlands
+73,1998 MAY,4.9,East Midlands
+74,1998 JUN,5.0,East Midlands
+75,1998 JUL,5.2,East Midlands
+76,1998 AUG,5.3,East Midlands
+77,1998 SEP,5.2,East Midlands
+78,1998 OCT,5.0,East Midlands
+79,1998 NOV,4.9,East Midlands
+80,1998 DEC,5.0,East Midlands
+81,1999 JAN,5.2,East Midlands
+82,1999 FEB,5.1,East Midlands
+83,1999 MAR,5.3,East Midlands
+84,1999 APR,5.3,East Midlands
+85,1999 MAY,5.4,East Midlands
+86,1999 JUN,5.3,East Midlands
+87,1999 JUL,5.5,East Midlands
+88,1999 AUG,5.6,East Midlands
+89,1999 SEP,5.6,East Midlands
+90,1999 OCT,5.5,East Midlands
+91,1999 NOV,5.5,East Midlands
+92,1999 DEC,5.5,East Midlands
+93,2000 JAN,5.2,East Midlands
+94,2000 FEB,5.1,East Midlands
+95,2000 MAR,5.0,East Midlands
+96,2000 APR,5.2,East Midlands
+97,2000 MAY,4.8,East Midlands
+98,2000 JUN,4.4,East Midlands
+99,2000 JUL,4.6,East Midlands
+100,2000 AUG,4.8,East Midlands
+101,2000 SEP,4.7,East Midlands
+102,2000 OCT,4.7,East Midlands
+103,2000 NOV,4.7,East Midlands
+104,2000 DEC,4.9,East Midlands
+105,2001 JAN,4.7,East Midlands
+106,2001 FEB,4.7,East Midlands
+107,2001 MAR,4.6,East Midlands
+108,2001 APR,5.0,East Midlands
+109,2001 MAY,5.0,East Midlands
+110,2001 JUN,5.1,East Midlands
+111,2001 JUL,4.8,East Midlands
+112,2001 AUG,4.6,East Midlands
+113,2001 SEP,4.7,East Midlands
+114,2001 OCT,4.3,East Midlands
+115,2001 NOV,4.6,East Midlands
+116,2001 DEC,4.2,East Midlands
+117,2002 JAN,4.7,East Midlands
+118,2002 FEB,4.7,East Midlands
+119,2002 MAR,4.8,East Midlands
+120,2002 APR,4.4,East Midlands
+121,2002 MAY,4.6,East Midlands
+122,2002 JUN,4.5,East Midlands
+123,2002 JUL,4.6,East Midlands
+124,2002 AUG,4.7,East Midlands
+125,2002 SEP,4.9,East Midlands
+126,2002 OCT,4.9,East Midlands
+127,2002 NOV,4.8,East Midlands
+128,2002 DEC,4.3,East Midlands
+129,2003 JAN,4.3,East Midlands
+130,2003 FEB,4.0,East Midlands
+131,2003 MAR,4.1,East Midlands
+132,2003 APR,4.2,East Midlands
+133,2003 MAY,4.3,East Midlands
+134,2003 JUN,4.7,East Midlands
+135,2003 JUL,4.7,East Midlands
+136,2003 AUG,4.6,East Midlands
+137,2003 SEP,4.5,East Midlands
+138,2003 OCT,4.5,East Midlands
+139,2003 NOV,4.5,East Midlands
+140,2003 DEC,4.5,East Midlands
+141,2004 JAN,4.5,East Midlands
+142,2004 FEB,4.6,East Midlands
+143,2004 MAR,4.4,East Midlands
+144,2004 APR,4.3,East Midlands
+145,2004 MAY,4.3,East Midlands
+146,2004 JUN,3.9,East Midlands
+147,2004 JUL,3.8,East Midlands
+148,2004 AUG,4.1,East Midlands
+149,2004 SEP,4.1,East Midlands
+150,2004 OCT,4.3,East Midlands
+151,2004 NOV,4.2,East Midlands
+152,2004 DEC,4.2,East Midlands
+153,2005 JAN,4.5,East Midlands
+154,2005 FEB,4.3,East Midlands
+155,2005 MAR,4.3,East Midlands
+156,2005 APR,4.2,East Midlands
+157,2005 MAY,4.3,East Midlands
+158,2005 JUN,4.5,East Midlands
+159,2005 JUL,4.5,East Midlands
+160,2005 AUG,4.4,East Midlands
+161,2005 SEP,4.3,East Midlands
+162,2005 OCT,4.4,East Midlands
+163,2005 NOV,4.6,East Midlands
+164,2005 DEC,4.6,East Midlands
+165,2006 JAN,4.7,East Midlands
+166,2006 FEB,5.0,East Midlands
+167,2006 MAR,5.1,East Midlands
+168,2006 APR,5.5,East Midlands
+169,2006 MAY,5.5,East Midlands
+170,2006 JUN,5.5,East Midlands
+171,2006 JUL,5.0,East Midlands
+172,2006 AUG,5.2,East Midlands
+173,2006 SEP,5.4,East Midlands
+174,2006 OCT,5.7,East Midlands
+175,2006 NOV,5.8,East Midlands
+176,2006 DEC,5.5,East Midlands
+177,2007 JAN,5.3,East Midlands
+178,2007 FEB,5.4,East Midlands
+179,2007 MAR,5.3,East Midlands
+180,2007 APR,5.2,East Midlands
+181,2007 MAY,5.0,East Midlands
+182,2007 JUN,5.1,East Midlands
+183,2007 JUL,5.3,East Midlands
+184,2007 AUG,5.6,East Midlands
+185,2007 SEP,5.6,East Midlands
+186,2007 OCT,5.3,East Midlands
+187,2007 NOV,5.3,East Midlands
+188,2007 DEC,5.4,East Midlands
+189,2008 JAN,5.5,East Midlands
+190,2008 FEB,5.4,East Midlands
+191,2008 MAR,5.5,East Midlands
+192,2008 APR,5.6,East Midlands
+193,2008 MAY,5.7,East Midlands
+194,2008 JUN,5.9,East Midlands
+195,2008 JUL,6.2,East Midlands
+196,2008 AUG,5.7,East Midlands
+197,2008 SEP,5.5,East Midlands
+198,2008 OCT,5.8,East Midlands
+199,2008 NOV,6.3,East Midlands
+200,2008 DEC,6.3,East Midlands
+201,2009 JAN,6.7,East Midlands
+202,2009 FEB,7.1,East Midlands
+203,2009 MAR,7.5,East Midlands
+204,2009 APR,7.3,East Midlands
+205,2009 MAY,7.3,East Midlands
+206,2009 JUN,7.3,East Midlands
+207,2009 JUL,7.1,East Midlands
+208,2009 AUG,7.2,East Midlands
+209,2009 SEP,7.2,East Midlands
+210,2009 OCT,7.0,East Midlands
+211,2009 NOV,7.1,East Midlands
+212,2009 DEC,7.2,East Midlands
+213,2010 JAN,7.8,East Midlands
+214,2010 FEB,7.4,East Midlands
+215,2010 MAR,7.4,East Midlands
+216,2010 APR,7.3,East Midlands
+217,2010 MAY,7.5,East Midlands
+218,2010 JUN,7.4,East Midlands
+219,2010 JUL,7.6,East Midlands
+220,2010 AUG,8.0,East Midlands
+221,2010 SEP,8.2,East Midlands
+222,2010 OCT,8.1,East Midlands
+223,2010 NOV,8.0,East Midlands
+224,2010 DEC,7.8,East Midlands
+225,2011 JAN,7.8,East Midlands
+226,2011 FEB,7.7,East Midlands
+227,2011 MAR,7.7,East Midlands
+228,2011 APR,7.9,East Midlands
+229,2011 MAY,8.0,East Midlands
+230,2011 JUN,8.0,East Midlands
+231,2011 JUL,7.9,East Midlands
+232,2011 AUG,8.3,East Midlands
+233,2011 SEP,8.0,East Midlands
+234,2011 OCT,8.2,East Midlands
+235,2011 NOV,8.0,East Midlands
+236,2011 DEC,8.2,East Midlands
+237,2012 JAN,8.2,East Midlands
+238,2012 FEB,7.9,East Midlands
+239,2012 MAR,7.9,East Midlands
+240,2012 APR,8.3,East Midlands
+241,2012 MAY,8.4,East Midlands
+242,2012 JUN,8.4,East Midlands
+243,2012 JUL,7.8,East Midlands
+244,2012 AUG,8.0,East Midlands
+245,2012 SEP,8.0,East Midlands
+246,2012 OCT,8.3,East Midlands
+247,2012 NOV,7.6,East Midlands
+248,2012 DEC,7.7,East Midlands
+249,2013 JAN,7.6,East Midlands
+250,2013 FEB,7.7,East Midlands
+251,2013 MAR,7.7,East Midlands
+252,2013 APR,7.7,East Midlands
+253,2013 MAY,8.0,East Midlands
+254,2013 JUN,7.4,East Midlands
+255,2013 JUL,7.6,East Midlands
+256,2013 AUG,7.2,East Midlands
+257,2013 SEP,6.9,East Midlands
+258,2013 OCT,6.4,East Midlands
+259,2013 NOV,6.7,East Midlands
+260,2013 DEC,7.0,East Midlands
+261,2014 JAN,7.0,East Midlands
+262,2014 FEB,6.6,East Midlands
+263,2014 MAR,5.9,East Midlands
+264,2014 APR,5.6,East Midlands
+265,2014 MAY,5.5,East Midlands
+266,2014 JUN,5.6,East Midlands
+267,2014 JUL,5.5,East Midlands
+268,2014 AUG,5.8,East Midlands
+269,2014 SEP,5.6,East Midlands
+270,2014 OCT,5.5,East Midlands
+271,2014 NOV,4.7,East Midlands
+272,2014 DEC,4.9,East Midlands
+273,2015 JAN,4.9,East Midlands
+274,2015 FEB,4.9,East Midlands
+275,2015 MAR,4.8,East Midlands
+276,2015 APR,4.7,East Midlands
+277,2015 MAY,4.8,East Midlands
+278,2015 JUN,4.7,East Midlands
+279,2015 JUL,4.7,East Midlands
+280,2015 AUG,4.5,East Midlands
+281,2015 SEP,4.3,East Midlands
+282,2015 OCT,4.5,East Midlands
+283,2015 NOV,4.4,East Midlands
+284,2015 DEC,4.4,East Midlands
+285,2016 JAN,4.5,East Midlands
+286,2016 FEB,4.7,East Midlands
+287,2016 MAR,4.4,East Midlands
+288,2016 APR,4.4,East Midlands
+289,2016 MAY,4.3,East Midlands
+290,2016 JUN,4.3,East Midlands
+291,2016 JUL,4.6,East Midlands
+292,2016 AUG,4.7,East Midlands
+293,2016 SEP,4.7,East Midlands
+294,2016 OCT,4.6,East Midlands
+295,2016 NOV,4.6,East Midlands
+296,2016 DEC,4.2,East Midlands
+297,2017 JAN,4.0,East Midlands
+298,2017 FEB,3.9,East Midlands
+299,2017 MAR,4.0,East Midlands
+300,2017 APR,3.7,East Midlands
+301,2017 MAY,3.9,East Midlands
+302,2017 JUN,3.9,East Midlands
+303,2017 JUL,4.4,East Midlands
+304,2017 AUG,4.2,East Midlands
+305,2017 SEP,4.3,East Midlands
+306,2017 OCT,4.3,East Midlands
+307,2017 NOV,4.1,East Midlands
+308,2017 DEC,4.1,East Midlands
+309,2018 JAN,4.1,East Midlands
+310,2018 FEB,4.0,East Midlands
+311,2018 MAR,3.9,East Midlands
+312,2018 APR,4.0,East Midlands
+313,2018 MAY,4.0,East Midlands
+314,2018 JUN,4.1,East Midlands
+315,2018 JUL,4.5,East Midlands
+316,2018 AUG,4.6,East Midlands
+317,2018 SEP,4.5,East Midlands
+318,2018 OCT,4.8,East Midlands
+319,2018 NOV,5.0,East Midlands
+320,2018 DEC,4.7,East Midlands
+321,2019 JAN,4.2,East Midlands
+322,2019 FEB,4.0,East Midlands
+323,2019 MAR,4.3,East Midlands
+324,2019 APR,4.2,East Midlands
+325,2019 MAY,4.3,East Midlands
+326,2019 JUN,4.6,East Midlands
+327,2019 JUL,4.5,East Midlands
+328,2019 AUG,4.5,East Midlands
+329,2019 SEP,3.7,East Midlands
+330,2019 OCT,3.9,East Midlands
+331,2019 NOV,3.6,East Midlands
+332,2019 DEC,3.9,East Midlands
+333,2020 JAN,4.0,East Midlands
+334,2020 FEB,3.9,East Midlands
+335,2020 MAR,3.9,East Midlands
+336,2020 APR,4.2,East Midlands
+337,2020 MAY,4.6,East Midlands
+338,2020 JUN,4.7,East Midlands
+339,2020 JUL,4.5,East Midlands
+340,2020 AUG,5.1,East Midlands
+341,2020 SEP,5.6,East Midlands
+342,2020 OCT,5.8,East Midlands
+343,2020 NOV,6.3,East Midlands
+344,2020 DEC,5.4,East Midlands
+345,2021 JAN,5.4,East Midlands
+346,2021 FEB,5.2,East Midlands
+347,2021 MAR,4.9,East Midlands
+348,2021 APR,4.9,East Midlands
+349,2021 MAY,4.4,East Midlands
+350,2021 JUN,4.4,East Midlands
+351,2021 JUL,4.3,East Midlands
+352,2021 AUG,4.1,East Midlands
+353,2021 SEP,4.2,East Midlands
+354,2021 OCT,3.5,East Midlands
+355,2021 NOV,3.4,East Midlands
+356,2021 DEC,3.0,East Midlands
+357,2022 JAN,2.8,East Midlands
+358,2022 FEB,2.6,East Midlands
+359,2022 MAR,2.7,East Midlands
+360,2022 APR,2.5,East Midlands
+361,2022 MAY,2.4,East Midlands
+362,2022 JUN,2.8,East Midlands
+363,2022 JUL,3.1,East Midlands
+364,2022 AUG,3.5,East Midlands
+365,2022 SEP,3.3,East Midlands
+0,1992 APR,10.7,West Midlands
+1,1992 MAY,10.9,West Midlands
+2,1992 JUN,11.4,West Midlands
+3,1992 JUL,11.3,West Midlands
+4,1992 AUG,11.5,West Midlands
+5,1992 SEP,11.4,West Midlands
+6,1992 OCT,11.9,West Midlands
+7,1992 NOV,12.0,West Midlands
+8,1992 DEC,12.1,West Midlands
+9,1993 JAN,12.6,West Midlands
+10,1993 FEB,12.2,West Midlands
+11,1993 MAR,11.9,West Midlands
+12,1993 APR,11.8,West Midlands
+13,1993 MAY,11.6,West Midlands
+14,1993 JUN,11.5,West Midlands
+15,1993 JUL,11.4,West Midlands
+16,1993 AUG,11.4,West Midlands
+17,1993 SEP,11.5,West Midlands
+18,1993 OCT,11.4,West Midlands
+19,1993 NOV,11.7,West Midlands
+20,1993 DEC,11.5,West Midlands
+21,1994 JAN,11.1,West Midlands
+22,1994 FEB,10.8,West Midlands
+23,1994 MAR,10.3,West Midlands
+24,1994 APR,10.0,West Midlands
+25,1994 MAY,10.0,West Midlands
+26,1994 JUN,9.7,West Midlands
+27,1994 JUL,9.6,West Midlands
+28,1994 AUG,9.2,West Midlands
+29,1994 SEP,9.1,West Midlands
+30,1994 OCT,9.1,West Midlands
+31,1994 NOV,8.9,West Midlands
+32,1994 DEC,9.0,West Midlands
+33,1995 JAN,8.7,West Midlands
+34,1995 FEB,8.7,West Midlands
+35,1995 MAR,8.9,West Midlands
+36,1995 APR,8.9,West Midlands
+37,1995 MAY,8.5,West Midlands
+38,1995 JUN,8.6,West Midlands
+39,1995 JUL,8.6,West Midlands
+40,1995 AUG,8.9,West Midlands
+41,1995 SEP,8.6,West Midlands
+42,1995 OCT,8.7,West Midlands
+43,1995 NOV,8.6,West Midlands
+44,1995 DEC,8.6,West Midlands
+45,1996 JAN,8.7,West Midlands
+46,1996 FEB,8.6,West Midlands
+47,1996 MAR,8.8,West Midlands
+48,1996 APR,9.2,West Midlands
+49,1996 MAY,9.4,West Midlands
+50,1996 JUN,9.2,West Midlands
+51,1996 JUL,8.7,West Midlands
+52,1996 AUG,8.3,West Midlands
+53,1996 SEP,8.4,West Midlands
+54,1996 OCT,7.8,West Midlands
+55,1996 NOV,7.7,West Midlands
+56,1996 DEC,7.3,West Midlands
+57,1997 JAN,7.3,West Midlands
+58,1997 FEB,7.2,West Midlands
+59,1997 MAR,6.9,West Midlands
+60,1997 APR,6.8,West Midlands
+61,1997 MAY,6.8,West Midlands
+62,1997 JUN,7.0,West Midlands
+63,1997 JUL,7.3,West Midlands
+64,1997 AUG,7.3,West Midlands
+65,1997 SEP,7.0,West Midlands
+66,1997 OCT,6.5,West Midlands
+67,1997 NOV,6.5,West Midlands
+68,1997 DEC,6.8,West Midlands
+69,1998 JAN,6.4,West Midlands
+70,1998 FEB,6.2,West Midlands
+71,1998 MAR,6.2,West Midlands
+72,1998 APR,6.3,West Midlands
+73,1998 MAY,5.9,West Midlands
+74,1998 JUN,5.9,West Midlands
+75,1998 JUL,6.2,West Midlands
+76,1998 AUG,6.1,West Midlands
+77,1998 SEP,6.3,West Midlands
+78,1998 OCT,6.5,West Midlands
+79,1998 NOV,6.6,West Midlands
+80,1998 DEC,6.5,West Midlands
+81,1999 JAN,6.8,West Midlands
+82,1999 FEB,7.1,West Midlands
+83,1999 MAR,6.9,West Midlands
+84,1999 APR,6.8,West Midlands
+85,1999 MAY,7.0,West Midlands
+86,1999 JUN,6.9,West Midlands
+87,1999 JUL,6.6,West Midlands
+88,1999 AUG,6.4,West Midlands
+89,1999 SEP,6.4,West Midlands
+90,1999 OCT,6.6,West Midlands
+91,1999 NOV,6.7,West Midlands
+92,1999 DEC,6.6,West Midlands
+93,2000 JAN,6.2,West Midlands
+94,2000 FEB,6.1,West Midlands
+95,2000 MAR,6.2,West Midlands
+96,2000 APR,6.3,West Midlands
+97,2000 MAY,6.1,West Midlands
+98,2000 JUN,6.0,West Midlands
+99,2000 JUL,5.7,West Midlands
+100,2000 AUG,5.7,West Midlands
+101,2000 SEP,5.8,West Midlands
+102,2000 OCT,6.2,West Midlands
+103,2000 NOV,6.0,West Midlands
+104,2000 DEC,5.9,West Midlands
+105,2001 JAN,5.9,West Midlands
+106,2001 FEB,5.6,West Midlands
+107,2001 MAR,5.4,West Midlands
+108,2001 APR,5.2,West Midlands
+109,2001 MAY,5.5,West Midlands
+110,2001 JUN,5.4,West Midlands
+111,2001 JUL,5.2,West Midlands
+112,2001 AUG,5.4,West Midlands
+113,2001 SEP,5.5,West Midlands
+114,2001 OCT,5.4,West Midlands
+115,2001 NOV,5.5,West Midlands
+116,2001 DEC,5.7,West Midlands
+117,2002 JAN,5.6,West Midlands
+118,2002 FEB,5.6,West Midlands
+119,2002 MAR,5.6,West Midlands
+120,2002 APR,5.6,West Midlands
+121,2002 MAY,5.7,West Midlands
+122,2002 JUN,5.8,West Midlands
+123,2002 JUL,5.9,West Midlands
+124,2002 AUG,5.9,West Midlands
+125,2002 SEP,5.9,West Midlands
+126,2002 OCT,5.9,West Midlands
+127,2002 NOV,5.6,West Midlands
+128,2002 DEC,5.8,West Midlands
+129,2003 JAN,5.9,West Midlands
+130,2003 FEB,6.0,West Midlands
+131,2003 MAR,6.0,West Midlands
+132,2003 APR,5.7,West Midlands
+133,2003 MAY,5.6,West Midlands
+134,2003 JUN,5.7,West Midlands
+135,2003 JUL,5.5,West Midlands
+136,2003 AUG,5.9,West Midlands
+137,2003 SEP,5.8,West Midlands
+138,2003 OCT,5.8,West Midlands
+139,2003 NOV,5.7,West Midlands
+140,2003 DEC,5.5,West Midlands
+141,2004 JAN,5.4,West Midlands
+142,2004 FEB,5.6,West Midlands
+143,2004 MAR,5.5,West Midlands
+144,2004 APR,5.6,West Midlands
+145,2004 MAY,5.5,West Midlands
+146,2004 JUN,5.1,West Midlands
+147,2004 JUL,5.2,West Midlands
+148,2004 AUG,5.0,West Midlands
+149,2004 SEP,5.1,West Midlands
+150,2004 OCT,4.9,West Midlands
+151,2004 NOV,4.8,West Midlands
+152,2004 DEC,4.8,West Midlands
+153,2005 JAN,4.8,West Midlands
+154,2005 FEB,4.7,West Midlands
+155,2005 MAR,4.5,West Midlands
+156,2005 APR,4.5,West Midlands
+157,2005 MAY,4.6,West Midlands
+158,2005 JUN,4.6,West Midlands
+159,2005 JUL,4.5,West Midlands
+160,2005 AUG,4.7,West Midlands
+161,2005 SEP,4.9,West Midlands
+162,2005 OCT,5.0,West Midlands
+163,2005 NOV,5.3,West Midlands
+164,2005 DEC,5.4,West Midlands
+165,2006 JAN,5.4,West Midlands
+166,2006 FEB,5.2,West Midlands
+167,2006 MAR,5.3,West Midlands
+168,2006 APR,5.3,West Midlands
+169,2006 MAY,5.6,West Midlands
+170,2006 JUN,5.8,West Midlands
+171,2006 JUL,6.1,West Midlands
+172,2006 AUG,6.1,West Midlands
+173,2006 SEP,6.2,West Midlands
+174,2006 OCT,6.5,West Midlands
+175,2006 NOV,6.7,West Midlands
+176,2006 DEC,6.7,West Midlands
+177,2007 JAN,6.3,West Midlands
+178,2007 FEB,6.4,West Midlands
+179,2007 MAR,6.3,West Midlands
+180,2007 APR,6.7,West Midlands
+181,2007 MAY,6.7,West Midlands
+182,2007 JUN,6.6,West Midlands
+183,2007 JUL,6.5,West Midlands
+184,2007 AUG,6.4,West Midlands
+185,2007 SEP,6.3,West Midlands
+186,2007 OCT,6.2,West Midlands
+187,2007 NOV,5.7,West Midlands
+188,2007 DEC,5.7,West Midlands
+189,2008 JAN,6.0,West Midlands
+190,2008 FEB,6.1,West Midlands
+191,2008 MAR,6.4,West Midlands
+192,2008 APR,6.1,West Midlands
+193,2008 MAY,6.3,West Midlands
+194,2008 JUN,6.2,West Midlands
+195,2008 JUL,6.3,West Midlands
+196,2008 AUG,6.6,West Midlands
+197,2008 SEP,7.0,West Midlands
+198,2008 OCT,7.2,West Midlands
+199,2008 NOV,7.8,West Midlands
+200,2008 DEC,8.1,West Midlands
+201,2009 JAN,8.4,West Midlands
+202,2009 FEB,9.2,West Midlands
+203,2009 MAR,9.4,West Midlands
+204,2009 APR,10.3,West Midlands
+205,2009 MAY,10.7,West Midlands
+206,2009 JUN,10.5,West Midlands
+207,2009 JUL,10.5,West Midlands
+208,2009 AUG,10.0,West Midlands
+209,2009 SEP,10.0,West Midlands
+210,2009 OCT,9.4,West Midlands
+211,2009 NOV,9.0,West Midlands
+212,2009 DEC,9.1,West Midlands
+213,2010 JAN,9.1,West Midlands
+214,2010 FEB,9.2,West Midlands
+215,2010 MAR,9.1,West Midlands
+216,2010 APR,8.8,West Midlands
+217,2010 MAY,8.4,West Midlands
+218,2010 JUN,8.4,West Midlands
+219,2010 JUL,8.2,West Midlands
+220,2010 AUG,8.9,West Midlands
+221,2010 SEP,8.8,West Midlands
+222,2010 OCT,9.7,West Midlands
+223,2010 NOV,9.6,West Midlands
+224,2010 DEC,9.8,West Midlands
+225,2011 JAN,9.6,West Midlands
+226,2011 FEB,9.6,West Midlands
+227,2011 MAR,9.0,West Midlands
+228,2011 APR,8.6,West Midlands
+229,2011 MAY,8.5,West Midlands
+230,2011 JUN,9.0,West Midlands
+231,2011 JUL,9.0,West Midlands
+232,2011 AUG,8.9,West Midlands
+233,2011 SEP,9.2,West Midlands
+234,2011 OCT,9.2,West Midlands
+235,2011 NOV,9.3,West Midlands
+236,2011 DEC,9.0,West Midlands
+237,2012 JAN,8.9,West Midlands
+238,2012 FEB,8.6,West Midlands
+239,2012 MAR,8.4,West Midlands
+240,2012 APR,8.6,West Midlands
+241,2012 MAY,8.7,West Midlands
+242,2012 JUN,8.7,West Midlands
+243,2012 JUL,8.6,West Midlands
+244,2012 AUG,8.5,West Midlands
+245,2012 SEP,8.8,West Midlands
+246,2012 OCT,9.1,West Midlands
+247,2012 NOV,8.9,West Midlands
+248,2012 DEC,8.9,West Midlands
+249,2013 JAN,9.3,West Midlands
+250,2013 FEB,9.4,West Midlands
+251,2013 MAR,9.5,West Midlands
+252,2013 APR,9.8,West Midlands
+253,2013 MAY,9.8,West Midlands
+254,2013 JUN,9.7,West Midlands
+255,2013 JUL,9.3,West Midlands
+256,2013 AUG,9.3,West Midlands
+257,2013 SEP,8.9,West Midlands
+258,2013 OCT,8.2,West Midlands
+259,2013 NOV,8.4,West Midlands
+260,2013 DEC,8.2,West Midlands
+261,2014 JAN,8.3,West Midlands
+262,2014 FEB,7.8,West Midlands
+263,2014 MAR,7.4,West Midlands
+264,2014 APR,7.5,West Midlands
+265,2014 MAY,7.7,West Midlands
+266,2014 JUN,7.2,West Midlands
+267,2014 JUL,7.5,West Midlands
+268,2014 AUG,7.2,West Midlands
+269,2014 SEP,6.9,West Midlands
+270,2014 OCT,6.2,West Midlands
+271,2014 NOV,6.1,West Midlands
+272,2014 DEC,6.4,West Midlands
+273,2015 JAN,6.3,West Midlands
+274,2015 FEB,6.4,West Midlands
+275,2015 MAR,6.3,West Midlands
+276,2015 APR,6.0,West Midlands
+277,2015 MAY,6.1,West Midlands
+278,2015 JUN,5.7,West Midlands
+279,2015 JUL,6.1,West Midlands
+280,2015 AUG,5.8,West Midlands
+281,2015 SEP,5.7,West Midlands
+282,2015 OCT,5.6,West Midlands
+283,2015 NOV,5.1,West Midlands
+284,2015 DEC,5.4,West Midlands
+285,2016 JAN,5.5,West Midlands
+286,2016 FEB,5.6,West Midlands
+287,2016 MAR,5.7,West Midlands
+288,2016 APR,5.9,West Midlands
+289,2016 MAY,6.2,West Midlands
+290,2016 JUN,6.3,West Midlands
+291,2016 JUL,6.1,West Midlands
+292,2016 AUG,5.5,West Midlands
+293,2016 SEP,5.3,West Midlands
+294,2016 OCT,5.4,West Midlands
+295,2016 NOV,5.6,West Midlands
+296,2016 DEC,5.5,West Midlands
+297,2017 JAN,5.6,West Midlands
+298,2017 FEB,5.7,West Midlands
+299,2017 MAR,5.9,West Midlands
+300,2017 APR,6.0,West Midlands
+301,2017 MAY,5.9,West Midlands
+302,2017 JUN,5.9,West Midlands
+303,2017 JUL,5.4,West Midlands
+304,2017 AUG,5.6,West Midlands
+305,2017 SEP,5.2,West Midlands
+306,2017 OCT,5.2,West Midlands
+307,2017 NOV,5.1,West Midlands
+308,2017 DEC,4.7,West Midlands
+309,2018 JAN,4.9,West Midlands
+310,2018 FEB,4.8,West Midlands
+311,2018 MAR,5.1,West Midlands
+312,2018 APR,4.9,West Midlands
+313,2018 MAY,4.7,West Midlands
+314,2018 JUN,4.8,West Midlands
+315,2018 JUL,4.9,West Midlands
+316,2018 AUG,5.0,West Midlands
+317,2018 SEP,5.1,West Midlands
+318,2018 OCT,5.0,West Midlands
+319,2018 NOV,5.2,West Midlands
+320,2018 DEC,5.1,West Midlands
+321,2019 JAN,5.2,West Midlands
+322,2019 FEB,5.1,West Midlands
+323,2019 MAR,5.0,West Midlands
+324,2019 APR,4.8,West Midlands
+325,2019 MAY,4.6,West Midlands
+326,2019 JUN,4.2,West Midlands
+327,2019 JUL,4.0,West Midlands
+328,2019 AUG,4.1,West Midlands
+329,2019 SEP,4.5,West Midlands
+330,2019 OCT,4.3,West Midlands
+331,2019 NOV,4.4,West Midlands
+332,2019 DEC,4.5,West Midlands
+333,2020 JAN,4.8,West Midlands
+334,2020 FEB,5.0,West Midlands
+335,2020 MAR,4.9,West Midlands
+336,2020 APR,5.0,West Midlands
+337,2020 MAY,4.7,West Midlands
+338,2020 JUN,4.7,West Midlands
+339,2020 JUL,4.8,West Midlands
+340,2020 AUG,5.1,West Midlands
+341,2020 SEP,5.6,West Midlands
+342,2020 OCT,6.2,West Midlands
+343,2020 NOV,6.3,West Midlands
+344,2020 DEC,6.2,West Midlands
+345,2021 JAN,5.8,West Midlands
+346,2021 FEB,6.1,West Midlands
+347,2021 MAR,6.0,West Midlands
+348,2021 APR,5.7,West Midlands
+349,2021 MAY,5.1,West Midlands
+350,2021 JUN,5.2,West Midlands
+351,2021 JUL,4.9,West Midlands
+352,2021 AUG,4.9,West Midlands
+353,2021 SEP,4.7,West Midlands
+354,2021 OCT,4.6,West Midlands
+355,2021 NOV,4.9,West Midlands
+356,2021 DEC,5.0,West Midlands
+357,2022 JAN,5.1,West Midlands
+358,2022 FEB,4.6,West Midlands
+359,2022 MAR,4.5,West Midlands
+360,2022 APR,4.4,West Midlands
+361,2022 MAY,4.6,West Midlands
+362,2022 JUN,4.6,West Midlands
+363,2022 JUL,4.7,West Midlands
+364,2022 AUG,4.7,West Midlands
+365,2022 SEP,4.9,West Midlands
+0,1992 APR,12.3,London
+1,1992 MAY,12.4,London
+2,1992 JUN,12.4,London
+3,1992 JUL,12.8,London
+4,1992 AUG,12.6,London
+5,1992 SEP,12.7,London
+6,1992 OCT,12.5,London
+7,1992 NOV,12.5,London
+8,1992 DEC,13.1,London
+9,1993 JAN,13.4,London
+10,1993 FEB,13.6,London
+11,1993 MAR,13.5,London
+12,1993 APR,13.5,London
+13,1993 MAY,13.5,London
+14,1993 JUN,13.6,London
+15,1993 JUL,13.4,London
+16,1993 AUG,13.7,London
+17,1993 SEP,14.1,London
+18,1993 OCT,14.2,London
+19,1993 NOV,14.3,London
+20,1993 DEC,14.1,London
+21,1994 JAN,14.0,London
+22,1994 FEB,13.8,London
+23,1994 MAR,13.7,London
+24,1994 APR,13.5,London
+25,1994 MAY,13.2,London
+26,1994 JUN,12.8,London
+27,1994 JUL,12.5,London
+28,1994 AUG,12.3,London
+29,1994 SEP,12.1,London
+30,1994 OCT,11.9,London
+31,1994 NOV,11.9,London
+32,1994 DEC,12.1,London
+33,1995 JAN,12.1,London
+34,1995 FEB,12.0,London
+35,1995 MAR,11.9,London
+36,1995 APR,11.9,London
+37,1995 MAY,12.1,London
+38,1995 JUN,12.2,London
+39,1995 JUL,12.1,London
+40,1995 AUG,11.9,London
+41,1995 SEP,11.7,London
+42,1995 OCT,11.7,London
+43,1995 NOV,11.6,London
+44,1995 DEC,11.4,London
+45,1996 JAN,11.3,London
+46,1996 FEB,11.3,London
+47,1996 MAR,11.5,London
+48,1996 APR,11.6,London
+49,1996 MAY,11.6,London
+50,1996 JUN,11.5,London
+51,1996 JUL,11.3,London
+52,1996 AUG,11.5,London
+53,1996 SEP,11.5,London
+54,1996 OCT,11.3,London
+55,1996 NOV,11.1,London
+56,1996 DEC,10.9,London
+57,1997 JAN,10.5,London
+58,1997 FEB,10.3,London
+59,1997 MAR,9.9,London
+60,1997 APR,9.5,London
+61,1997 MAY,9.3,London
+62,1997 JUN,9.5,London
+63,1997 JUL,9.5,London
+64,1997 AUG,9.3,London
+65,1997 SEP,9.3,London
+66,1997 OCT,9.4,London
+67,1997 NOV,9.3,London
+68,1997 DEC,9.1,London
+69,1998 JAN,8.7,London
+70,1998 FEB,8.2,London
+71,1998 MAR,8.3,London
+72,1998 APR,8.5,London
+73,1998 MAY,8.6,London
+74,1998 JUN,8.4,London
+75,1998 JUL,7.9,London
+76,1998 AUG,7.9,London
+77,1998 SEP,7.7,London
+78,1998 OCT,7.5,London
+79,1998 NOV,7.7,London
+80,1998 DEC,7.8,London
+81,1999 JAN,7.8,London
+82,1999 FEB,7.7,London
+83,1999 MAR,7.7,London
+84,1999 APR,7.8,London
+85,1999 MAY,7.4,London
+86,1999 JUN,7.3,London
+87,1999 JUL,7.3,London
+88,1999 AUG,7.4,London
+89,1999 SEP,7.6,London
+90,1999 OCT,7.3,London
+91,1999 NOV,7.0,London
+92,1999 DEC,7.1,London
+93,2000 JAN,7.3,London
+94,2000 FEB,7.6,London
+95,2000 MAR,7.4,London
+96,2000 APR,7.4,London
+97,2000 MAY,7.3,London
+98,2000 JUN,7.3,London
+99,2000 JUL,7.0,London
+100,2000 AUG,6.9,London
+101,2000 SEP,6.9,London
+102,2000 OCT,6.9,London
+103,2000 NOV,6.8,London
+104,2000 DEC,6.8,London
+105,2001 JAN,6.8,London
+106,2001 FEB,6.5,London
+107,2001 MAR,6.4,London
+108,2001 APR,6.2,London
+109,2001 MAY,6.2,London
+110,2001 JUN,6.1,London
+111,2001 JUL,6.3,London
+112,2001 AUG,6.6,London
+113,2001 SEP,7.0,London
+114,2001 OCT,7.1,London
+115,2001 NOV,7.3,London
+116,2001 DEC,7.2,London
+117,2002 JAN,7.0,London
+118,2002 FEB,6.9,London
+119,2002 MAR,6.9,London
+120,2002 APR,7.0,London
+121,2002 MAY,6.8,London
+122,2002 JUN,6.6,London
+123,2002 JUL,6.9,London
+124,2002 AUG,7.1,London
+125,2002 SEP,6.9,London
+126,2002 OCT,6.6,London
+127,2002 NOV,6.6,London
+128,2002 DEC,6.8,London
+129,2003 JAN,7.1,London
+130,2003 FEB,7.1,London
+131,2003 MAR,7.2,London
+132,2003 APR,7.1,London
+133,2003 MAY,7.2,London
+134,2003 JUN,7.4,London
+135,2003 JUL,7.4,London
+136,2003 AUG,7.2,London
+137,2003 SEP,6.9,London
+138,2003 OCT,7.1,London
+139,2003 NOV,6.9,London
+140,2003 DEC,6.9,London
+141,2004 JAN,6.9,London
+142,2004 FEB,7.0,London
+143,2004 MAR,7.0,London
+144,2004 APR,6.8,London
+145,2004 MAY,7.0,London
+146,2004 JUN,7.2,London
+147,2004 JUL,7.2,London
+148,2004 AUG,7.3,London
+149,2004 SEP,7.2,London
+150,2004 OCT,7.0,London
+151,2004 NOV,7.2,London
+152,2004 DEC,7.0,London
+153,2005 JAN,7.2,London
+154,2005 FEB,6.7,London
+155,2005 MAR,6.8,London
+156,2005 APR,7.1,London
+157,2005 MAY,7.1,London
+158,2005 JUN,6.7,London
+159,2005 JUL,6.7,London
+160,2005 AUG,6.7,London
+161,2005 SEP,7.5,London
+162,2005 OCT,7.6,London
+163,2005 NOV,7.4,London
+164,2005 DEC,7.2,London
+165,2006 JAN,7.6,London
+166,2006 FEB,7.7,London
+167,2006 MAR,7.7,London
+168,2006 APR,7.8,London
+169,2006 MAY,7.7,London
+170,2006 JUN,8.0,London
+171,2006 JUL,8.2,London
+172,2006 AUG,8.0,London
+173,2006 SEP,7.6,London
+174,2006 OCT,7.5,London
+175,2006 NOV,7.8,London
+176,2006 DEC,7.5,London
+177,2007 JAN,7.5,London
+178,2007 FEB,7.2,London
+179,2007 MAR,7.5,London
+180,2007 APR,7.4,London
+181,2007 MAY,7.3,London
+182,2007 JUN,6.9,London
+183,2007 JUL,6.4,London
+184,2007 AUG,6.2,London
+185,2007 SEP,6.5,London
+186,2007 OCT,6.8,London
+187,2007 NOV,6.8,London
+188,2007 DEC,7.0,London
+189,2008 JAN,6.9,London
+190,2008 FEB,6.9,London
+191,2008 MAR,7.2,London
+192,2008 APR,6.6,London
+193,2008 MAY,6.8,London
+194,2008 JUN,6.9,London
+195,2008 JUL,7.8,London
+196,2008 AUG,7.5,London
+197,2008 SEP,7.7,London
+198,2008 OCT,7.4,London
+199,2008 NOV,7.4,London
+200,2008 DEC,7.7,London
+201,2009 JAN,8.1,London
+202,2009 FEB,8.3,London
+203,2009 MAR,8.5,London
+204,2009 APR,8.8,London
+205,2009 MAY,9.1,London
+206,2009 JUN,9.4,London
+207,2009 JUL,9.0,London
+208,2009 AUG,9.2,London
+209,2009 SEP,9.3,London
+210,2009 OCT,9.5,London
+211,2009 NOV,9.3,London
+212,2009 DEC,8.9,London
+213,2010 JAN,9.1,London
+214,2010 FEB,9.2,London
+215,2010 MAR,9.3,London
+216,2010 APR,9.5,London
+217,2010 MAY,9.5,London
+218,2010 JUN,9.4,London
+219,2010 JUL,9.3,London
+220,2010 AUG,9.2,London
+221,2010 SEP,9.2,London
+222,2010 OCT,9.4,London
+223,2010 NOV,9.2,London
+224,2010 DEC,9.5,London
+225,2011 JAN,9.4,London
+226,2011 FEB,9.2,London
+227,2011 MAR,9.4,London
+228,2011 APR,9.8,London
+229,2011 MAY,9.9,London
+230,2011 JUN,10.1,London
+231,2011 JUL,10.4,London
+232,2011 AUG,10.2,London
+233,2011 SEP,10.3,London
+234,2011 OCT,10.4,London
+235,2011 NOV,10.4,London
+236,2011 DEC,10.3,London
+237,2012 JAN,10.2,London
+238,2012 FEB,10.0,London
+239,2012 MAR,9.7,London
+240,2012 APR,9.0,London
+241,2012 MAY,8.9,London
+242,2012 JUN,9.1,London
+243,2012 JUL,9.2,London
+244,2012 AUG,9.1,London
+245,2012 SEP,9.3,London
+246,2012 OCT,8.7,London
+247,2012 NOV,8.8,London
+248,2012 DEC,8.7,London
+249,2013 JAN,9.2,London
+250,2013 FEB,8.7,London
+251,2013 MAR,8.7,London
+252,2013 APR,8.6,London
+253,2013 MAY,8.8,London
+254,2013 JUN,8.4,London
+255,2013 JUL,8.8,London
+256,2013 AUG,9.0,London
+257,2013 SEP,8.8,London
+258,2013 OCT,8.4,London
+259,2013 NOV,8.2,London
+260,2013 DEC,8.3,London
+261,2014 JAN,8.0,London
+262,2014 FEB,7.8,London
+263,2014 MAR,7.5,London
+264,2014 APR,7.2,London
+265,2014 MAY,7.0,London
+266,2014 JUN,6.7,London
+267,2014 JUL,6.5,London
+268,2014 AUG,6.3,London
+269,2014 SEP,6.6,London
+270,2014 OCT,6.6,London
+271,2014 NOV,6.5,London
+272,2014 DEC,6.1,London
+273,2015 JAN,6.2,London
+274,2015 FEB,6.1,London
+275,2015 MAR,6.2,London
+276,2015 APR,6.6,London
+277,2015 MAY,6.5,London
+278,2015 JUN,6.3,London
+279,2015 JUL,5.9,London
+280,2015 AUG,6.4,London
+281,2015 SEP,6.5,London
+282,2015 OCT,6.4,London
+283,2015 NOV,6.3,London
+284,2015 DEC,6.2,London
+285,2016 JAN,6.2,London
+286,2016 FEB,5.7,London
+287,2016 MAR,5.7,London
+288,2016 APR,5.7,London
+289,2016 MAY,5.8,London
+290,2016 JUN,6.0,London
+291,2016 JUL,6.1,London
+292,2016 AUG,5.6,London
+293,2016 SEP,5.6,London
+294,2016 OCT,5.7,London
+295,2016 NOV,5.6,London
+296,2016 DEC,5.6,London
+297,2017 JAN,5.9,London
+298,2017 FEB,6.0,London
+299,2017 MAR,5.8,London
+300,2017 APR,5.4,London
+301,2017 MAY,5.4,London
+302,2017 JUN,5.1,London
+303,2017 JUL,4.8,London
+304,2017 AUG,4.9,London
+305,2017 SEP,4.9,London
+306,2017 OCT,5.2,London
+307,2017 NOV,5.0,London
+308,2017 DEC,5.0,London
+309,2018 JAN,4.8,London
+310,2018 FEB,4.9,London
+311,2018 MAR,5.2,London
+312,2018 APR,5.1,London
+313,2018 MAY,4.9,London
+314,2018 JUN,4.7,London
+315,2018 JUL,4.7,London
+316,2018 AUG,4.6,London
+317,2018 SEP,4.6,London
+318,2018 OCT,4.6,London
+319,2018 NOV,4.5,London
+320,2018 DEC,4.2,London
+321,2019 JAN,4.5,London
+322,2019 FEB,4.4,London
+323,2019 MAR,4.3,London
+324,2019 APR,4.3,London
+325,2019 MAY,4.5,London
+326,2019 JUN,4.6,London
+327,2019 JUL,4.6,London
+328,2019 AUG,4.5,London
+329,2019 SEP,4.5,London
+330,2019 OCT,4.3,London
+331,2019 NOV,4.3,London
+332,2019 DEC,4.5,London
+333,2020 JAN,4.5,London
+334,2020 FEB,4.8,London
+335,2020 MAR,4.9,London
+336,2020 APR,5.3,London
+337,2020 MAY,4.9,London
+338,2020 JUN,5.2,London
+339,2020 JUL,5.3,London
+340,2020 AUG,6.1,London
+341,2020 SEP,6.5,London
+342,2020 OCT,7.1,London
+343,2020 NOV,7.2,London
+344,2020 DEC,7.5,London
+345,2021 JAN,7.3,London
+346,2021 FEB,7.0,London
+347,2021 MAR,6.7,London
+348,2021 APR,6.5,London
+349,2021 MAY,6.3,London
+350,2021 JUN,6.0,London
+351,2021 JUL,5.8,London
+352,2021 AUG,5.6,London
+353,2021 SEP,5.4,London
+354,2021 OCT,5.3,London
+355,2021 NOV,5.1,London
+356,2021 DEC,5.0,London
+357,2022 JAN,4.6,London
+358,2022 FEB,4.7,London
+359,2022 MAR,4.8,London
+360,2022 APR,4.6,London
+361,2022 MAY,4.6,London
+362,2022 JUN,4.2,London
+363,2022 JUL,4.0,London
+364,2022 AUG,4.2,London
+365,2022 SEP,4.5,London
+0,1992 APR,10.2,Yorkshire and The Humber
+1,1992 MAY,9.6,Yorkshire and The Humber
+2,1992 JUN,9.5,Yorkshire and The Humber
+3,1992 JUL,8.8,Yorkshire and The Humber
+4,1992 AUG,9.1,Yorkshire and The Humber
+5,1992 SEP,9.4,Yorkshire and The Humber
+6,1992 OCT,9.9,Yorkshire and The Humber
+7,1992 NOV,9.7,Yorkshire and The Humber
+8,1992 DEC,9.9,Yorkshire and The Humber
+9,1993 JAN,10.2,Yorkshire and The Humber
+10,1993 FEB,10.0,Yorkshire and The Humber
+11,1993 MAR,10.0,Yorkshire and The Humber
+12,1993 APR,10.0,Yorkshire and The Humber
+13,1993 MAY,10.2,Yorkshire and The Humber
+14,1993 JUN,10.4,Yorkshire and The Humber
+15,1993 JUL,10.6,Yorkshire and The Humber
+16,1993 AUG,10.4,Yorkshire and The Humber
+17,1993 SEP,10.2,Yorkshire and The Humber
+18,1993 OCT,10.2,Yorkshire and The Humber
+19,1993 NOV,10.3,Yorkshire and The Humber
+20,1993 DEC,10.2,Yorkshire and The Humber
+21,1994 JAN,10.1,Yorkshire and The Humber
+22,1994 FEB,9.7,Yorkshire and The Humber
+23,1994 MAR,10.2,Yorkshire and The Humber
+24,1994 APR,10.0,Yorkshire and The Humber
+25,1994 MAY,10.1,Yorkshire and The Humber
+26,1994 JUN,9.9,Yorkshire and The Humber
+27,1994 JUL,9.9,Yorkshire and The Humber
+28,1994 AUG,9.5,Yorkshire and The Humber
+29,1994 SEP,9.3,Yorkshire and The Humber
+30,1994 OCT,9.2,Yorkshire and The Humber
+31,1994 NOV,9.2,Yorkshire and The Humber
+32,1994 DEC,9.1,Yorkshire and The Humber
+33,1995 JAN,8.9,Yorkshire and The Humber
+34,1995 FEB,9.0,Yorkshire and The Humber
+35,1995 MAR,8.9,Yorkshire and The Humber
+36,1995 APR,8.7,Yorkshire and The Humber
+37,1995 MAY,8.2,Yorkshire and The Humber
+38,1995 JUN,8.5,Yorkshire and The Humber
+39,1995 JUL,8.6,Yorkshire and The Humber
+40,1995 AUG,8.6,Yorkshire and The Humber
+41,1995 SEP,8.7,Yorkshire and The Humber
+42,1995 OCT,8.3,Yorkshire and The Humber
+43,1995 NOV,7.8,Yorkshire and The Humber
+44,1995 DEC,8.1,Yorkshire and The Humber
+45,1996 JAN,8.0,Yorkshire and The Humber
+46,1996 FEB,7.9,Yorkshire and The Humber
+47,1996 MAR,7.9,Yorkshire and The Humber
+48,1996 APR,8.1,Yorkshire and The Humber
+49,1996 MAY,8.4,Yorkshire and The Humber
+50,1996 JUN,8.3,Yorkshire and The Humber
+51,1996 JUL,8.1,Yorkshire and The Humber
+52,1996 AUG,8.3,Yorkshire and The Humber
+53,1996 SEP,8.4,Yorkshire and The Humber
+54,1996 OCT,8.8,Yorkshire and The Humber
+55,1996 NOV,8.6,Yorkshire and The Humber
+56,1996 DEC,8.5,Yorkshire and The Humber
+57,1997 JAN,8.3,Yorkshire and The Humber
+58,1997 FEB,7.9,Yorkshire and The Humber
+59,1997 MAR,7.9,Yorkshire and The Humber
+60,1997 APR,8.0,Yorkshire and The Humber
+61,1997 MAY,7.5,Yorkshire and The Humber
+62,1997 JUN,7.6,Yorkshire and The Humber
+63,1997 JUL,7.2,Yorkshire and The Humber
+64,1997 AUG,7.3,Yorkshire and The Humber
+65,1997 SEP,7.3,Yorkshire and The Humber
+66,1997 OCT,7.2,Yorkshire and The Humber
+67,1997 NOV,7.1,Yorkshire and The Humber
+68,1997 DEC,7.0,Yorkshire and The Humber
+69,1998 JAN,7.0,Yorkshire and The Humber
+70,1998 FEB,7.1,Yorkshire and The Humber
+71,1998 MAR,7.0,Yorkshire and The Humber
+72,1998 APR,7.0,Yorkshire and The Humber
+73,1998 MAY,7.3,Yorkshire and The Humber
+74,1998 JUN,7.7,Yorkshire and The Humber
+75,1998 JUL,7.7,Yorkshire and The Humber
+76,1998 AUG,7.1,Yorkshire and The Humber
+77,1998 SEP,7.1,Yorkshire and The Humber
+78,1998 OCT,6.8,Yorkshire and The Humber
+79,1998 NOV,7.0,Yorkshire and The Humber
+80,1998 DEC,6.9,Yorkshire and The Humber
+81,1999 JAN,7.1,Yorkshire and The Humber
+82,1999 FEB,6.8,Yorkshire and The Humber
+83,1999 MAR,7.0,Yorkshire and The Humber
+84,1999 APR,6.5,Yorkshire and The Humber
+85,1999 MAY,6.3,Yorkshire and The Humber
+86,1999 JUN,6.1,Yorkshire and The Humber
+87,1999 JUL,6.0,Yorkshire and The Humber
+88,1999 AUG,5.9,Yorkshire and The Humber
+89,1999 SEP,6.0,Yorkshire and The Humber
+90,1999 OCT,6.2,Yorkshire and The Humber
+91,1999 NOV,6.1,Yorkshire and The Humber
+92,1999 DEC,6.3,Yorkshire and The Humber
+93,2000 JAN,6.4,Yorkshire and The Humber
+94,2000 FEB,6.4,Yorkshire and The Humber
+95,2000 MAR,6.3,Yorkshire and The Humber
+96,2000 APR,6.0,Yorkshire and The Humber
+97,2000 MAY,6.1,Yorkshire and The Humber
+98,2000 JUN,5.9,Yorkshire and The Humber
+99,2000 JUL,5.9,Yorkshire and The Humber
+100,2000 AUG,5.9,Yorkshire and The Humber
+101,2000 SEP,6.2,Yorkshire and The Humber
+102,2000 OCT,6.1,Yorkshire and The Humber
+103,2000 NOV,6.1,Yorkshire and The Humber
+104,2000 DEC,5.8,Yorkshire and The Humber
+105,2001 JAN,5.7,Yorkshire and The Humber
+106,2001 FEB,5.4,Yorkshire and The Humber
+107,2001 MAR,5.3,Yorkshire and The Humber
+108,2001 APR,5.0,Yorkshire and The Humber
+109,2001 MAY,5.5,Yorkshire and The Humber
+110,2001 JUN,5.4,Yorkshire and The Humber
+111,2001 JUL,5.3,Yorkshire and The Humber
+112,2001 AUG,5.3,Yorkshire and The Humber
+113,2001 SEP,5.2,Yorkshire and The Humber
+114,2001 OCT,5.1,Yorkshire and The Humber
+115,2001 NOV,5.1,Yorkshire and The Humber
+116,2001 DEC,5.2,Yorkshire and The Humber
+117,2002 JAN,5.3,Yorkshire and The Humber
+118,2002 FEB,5.1,Yorkshire and The Humber
+119,2002 MAR,5.1,Yorkshire and The Humber
+120,2002 APR,5.4,Yorkshire and The Humber
+121,2002 MAY,5.3,Yorkshire and The Humber
+122,2002 JUN,5.5,Yorkshire and The Humber
+123,2002 JUL,5.4,Yorkshire and The Humber
+124,2002 AUG,5.5,Yorkshire and The Humber
+125,2002 SEP,5.3,Yorkshire and The Humber
+126,2002 OCT,5.1,Yorkshire and The Humber
+127,2002 NOV,5.0,Yorkshire and The Humber
+128,2002 DEC,4.8,Yorkshire and The Humber
+129,2003 JAN,5.0,Yorkshire and The Humber
+130,2003 FEB,5.3,Yorkshire and The Humber
+131,2003 MAR,5.3,Yorkshire and The Humber
+132,2003 APR,5.4,Yorkshire and The Humber
+133,2003 MAY,5.0,Yorkshire and The Humber
+134,2003 JUN,5.0,Yorkshire and The Humber
+135,2003 JUL,5.1,Yorkshire and The Humber
+136,2003 AUG,4.8,Yorkshire and The Humber
+137,2003 SEP,5.0,Yorkshire and The Humber
+138,2003 OCT,4.8,Yorkshire and The Humber
+139,2003 NOV,4.9,Yorkshire and The Humber
+140,2003 DEC,5.0,Yorkshire and The Humber
+141,2004 JAN,5.2,Yorkshire and The Humber
+142,2004 FEB,4.8,Yorkshire and The Humber
+143,2004 MAR,4.5,Yorkshire and The Humber
+144,2004 APR,4.4,Yorkshire and The Humber
+145,2004 MAY,4.5,Yorkshire and The Humber
+146,2004 JUN,4.4,Yorkshire and The Humber
+147,2004 JUL,4.3,Yorkshire and The Humber
+148,2004 AUG,4.5,Yorkshire and The Humber
+149,2004 SEP,4.4,Yorkshire and The Humber
+150,2004 OCT,4.6,Yorkshire and The Humber
+151,2004 NOV,4.6,Yorkshire and The Humber
+152,2004 DEC,4.5,Yorkshire and The Humber
+153,2005 JAN,4.2,Yorkshire and The Humber
+154,2005 FEB,4.3,Yorkshire and The Humber
+155,2005 MAR,4.8,Yorkshire and The Humber
+156,2005 APR,5.1,Yorkshire and The Humber
+157,2005 MAY,4.8,Yorkshire and The Humber
+158,2005 JUN,4.5,Yorkshire and The Humber
+159,2005 JUL,4.4,Yorkshire and The Humber
+160,2005 AUG,4.5,Yorkshire and The Humber
+161,2005 SEP,4.9,Yorkshire and The Humber
+162,2005 OCT,5.2,Yorkshire and The Humber
+163,2005 NOV,5.5,Yorkshire and The Humber
+164,2005 DEC,5.2,Yorkshire and The Humber
+165,2006 JAN,5.3,Yorkshire and The Humber
+166,2006 FEB,5.4,Yorkshire and The Humber
+167,2006 MAR,5.4,Yorkshire and The Humber
+168,2006 APR,5.7,Yorkshire and The Humber
+169,2006 MAY,5.7,Yorkshire and The Humber
+170,2006 JUN,6.0,Yorkshire and The Humber
+171,2006 JUL,5.8,Yorkshire and The Humber
+172,2006 AUG,5.9,Yorkshire and The Humber
+173,2006 SEP,5.9,Yorkshire and The Humber
+174,2006 OCT,5.9,Yorkshire and The Humber
+175,2006 NOV,6.0,Yorkshire and The Humber
+176,2006 DEC,6.0,Yorkshire and The Humber
+177,2007 JAN,6.1,Yorkshire and The Humber
+178,2007 FEB,6.1,Yorkshire and The Humber
+179,2007 MAR,5.9,Yorkshire and The Humber
+180,2007 APR,5.6,Yorkshire and The Humber
+181,2007 MAY,5.5,Yorkshire and The Humber
+182,2007 JUN,5.3,Yorkshire and The Humber
+183,2007 JUL,5.6,Yorkshire and The Humber
+184,2007 AUG,5.3,Yorkshire and The Humber
+185,2007 SEP,5.3,Yorkshire and The Humber
+186,2007 OCT,5.2,Yorkshire and The Humber
+187,2007 NOV,5.3,Yorkshire and The Humber
+188,2007 DEC,5.1,Yorkshire and The Humber
+189,2008 JAN,5.2,Yorkshire and The Humber
+190,2008 FEB,4.9,Yorkshire and The Humber
+191,2008 MAR,5.4,Yorkshire and The Humber
+192,2008 APR,5.5,Yorkshire and The Humber
+193,2008 MAY,6.0,Yorkshire and The Humber
+194,2008 JUN,6.0,Yorkshire and The Humber
+195,2008 JUL,6.1,Yorkshire and The Humber
+196,2008 AUG,6.8,Yorkshire and The Humber
+197,2008 SEP,6.9,Yorkshire and The Humber
+198,2008 OCT,6.7,Yorkshire and The Humber
+199,2008 NOV,6.7,Yorkshire and The Humber
+200,2008 DEC,7.2,Yorkshire and The Humber
+201,2009 JAN,7.4,Yorkshire and The Humber
+202,2009 FEB,7.8,Yorkshire and The Humber
+203,2009 MAR,8.0,Yorkshire and The Humber
+204,2009 APR,8.7,Yorkshire and The Humber
+205,2009 MAY,8.8,Yorkshire and The Humber
+206,2009 JUN,8.8,Yorkshire and The Humber
+207,2009 JUL,8.5,Yorkshire and The Humber
+208,2009 AUG,8.6,Yorkshire and The Humber
+209,2009 SEP,8.9,Yorkshire and The Humber
+210,2009 OCT,8.9,Yorkshire and The Humber
+211,2009 NOV,8.9,Yorkshire and The Humber
+212,2009 DEC,8.6,Yorkshire and The Humber
+213,2010 JAN,9.4,Yorkshire and The Humber
+214,2010 FEB,9.6,Yorkshire and The Humber
+215,2010 MAR,9.6,Yorkshire and The Humber
+216,2010 APR,9.2,Yorkshire and The Humber
+217,2010 MAY,9.1,Yorkshire and The Humber
+218,2010 JUN,9.1,Yorkshire and The Humber
+219,2010 JUL,9.2,Yorkshire and The Humber
+220,2010 AUG,8.9,Yorkshire and The Humber
+221,2010 SEP,9.3,Yorkshire and The Humber
+222,2010 OCT,9.0,Yorkshire and The Humber
+223,2010 NOV,9.1,Yorkshire and The Humber
+224,2010 DEC,9.1,Yorkshire and The Humber
+225,2011 JAN,9.0,Yorkshire and The Humber
+226,2011 FEB,9.1,Yorkshire and The Humber
+227,2011 MAR,9.0,Yorkshire and The Humber
+228,2011 APR,8.6,Yorkshire and The Humber
+229,2011 MAY,8.4,Yorkshire and The Humber
+230,2011 JUN,9.1,Yorkshire and The Humber
+231,2011 JUL,9.6,Yorkshire and The Humber
+232,2011 AUG,9.8,Yorkshire and The Humber
+233,2011 SEP,9.4,Yorkshire and The Humber
+234,2011 OCT,9.9,Yorkshire and The Humber
+235,2011 NOV,9.8,Yorkshire and The Humber
+236,2011 DEC,9.7,Yorkshire and The Humber
+237,2012 JAN,9.1,Yorkshire and The Humber
+238,2012 FEB,8.9,Yorkshire and The Humber
+239,2012 MAR,9.2,Yorkshire and The Humber
+240,2012 APR,9.6,Yorkshire and The Humber
+241,2012 MAY,9.6,Yorkshire and The Humber
+242,2012 JUN,9.8,Yorkshire and The Humber
+243,2012 JUL,9.2,Yorkshire and The Humber
+244,2012 AUG,8.6,Yorkshire and The Humber
+245,2012 SEP,8.6,Yorkshire and The Humber
+246,2012 OCT,8.8,Yorkshire and The Humber
+247,2012 NOV,9.1,Yorkshire and The Humber
+248,2012 DEC,9.0,Yorkshire and The Humber
+249,2013 JAN,9.2,Yorkshire and The Humber
+250,2013 FEB,9.0,Yorkshire and The Humber
+251,2013 MAR,8.8,Yorkshire and The Humber
+252,2013 APR,9.0,Yorkshire and The Humber
+253,2013 MAY,8.7,Yorkshire and The Humber
+254,2013 JUN,8.8,Yorkshire and The Humber
+255,2013 JUL,8.6,Yorkshire and The Humber
+256,2013 AUG,8.6,Yorkshire and The Humber
+257,2013 SEP,8.5,Yorkshire and The Humber
+258,2013 OCT,8.4,Yorkshire and The Humber
+259,2013 NOV,8.7,Yorkshire and The Humber
+260,2013 DEC,8.7,Yorkshire and The Humber
+261,2014 JAN,8.6,Yorkshire and The Humber
+262,2014 FEB,8.0,Yorkshire and The Humber
+263,2014 MAR,7.9,Yorkshire and The Humber
+264,2014 APR,7.8,Yorkshire and The Humber
+265,2014 MAY,7.7,Yorkshire and The Humber
+266,2014 JUN,7.1,Yorkshire and The Humber
+267,2014 JUL,6.9,Yorkshire and The Humber
+268,2014 AUG,7.0,Yorkshire and The Humber
+269,2014 SEP,6.9,Yorkshire and The Humber
+270,2014 OCT,6.8,Yorkshire and The Humber
+271,2014 NOV,6.3,Yorkshire and The Humber
+272,2014 DEC,6.1,Yorkshire and The Humber
+273,2015 JAN,6.2,Yorkshire and The Humber
+274,2015 FEB,6.5,Yorkshire and The Humber
+275,2015 MAR,7.0,Yorkshire and The Humber
+276,2015 APR,7.0,Yorkshire and The Humber
+277,2015 MAY,6.5,Yorkshire and The Humber
+278,2015 JUN,6.3,Yorkshire and The Humber
+279,2015 JUL,6.2,Yorkshire and The Humber
+280,2015 AUG,5.8,Yorkshire and The Humber
+281,2015 SEP,6.1,Yorkshire and The Humber
+282,2015 OCT,6.2,Yorkshire and The Humber
+283,2015 NOV,6.3,Yorkshire and The Humber
+284,2015 DEC,6.1,Yorkshire and The Humber
+285,2016 JAN,6.3,Yorkshire and The Humber
+286,2016 FEB,6.2,Yorkshire and The Humber
+287,2016 MAR,5.9,Yorkshire and The Humber
+288,2016 APR,5.8,Yorkshire and The Humber
+289,2016 MAY,6.0,Yorkshire and The Humber
+290,2016 JUN,5.9,Yorkshire and The Humber
+291,2016 JUL,5.9,Yorkshire and The Humber
+292,2016 AUG,5.5,Yorkshire and The Humber
+293,2016 SEP,5.2,Yorkshire and The Humber
+294,2016 OCT,4.9,Yorkshire and The Humber
+295,2016 NOV,5.0,Yorkshire and The Humber
+296,2016 DEC,5.2,Yorkshire and The Humber
+297,2017 JAN,5.0,Yorkshire and The Humber
+298,2017 FEB,4.9,Yorkshire and The Humber
+299,2017 MAR,5.1,Yorkshire and The Humber
+300,2017 APR,5.0,Yorkshire and The Humber
+301,2017 MAY,5.0,Yorkshire and The Humber
+302,2017 JUN,4.8,Yorkshire and The Humber
+303,2017 JUL,4.8,Yorkshire and The Humber
+304,2017 AUG,4.7,Yorkshire and The Humber
+305,2017 SEP,4.9,Yorkshire and The Humber
+306,2017 OCT,5.0,Yorkshire and The Humber
+307,2017 NOV,5.0,Yorkshire and The Humber
+308,2017 DEC,5.0,Yorkshire and The Humber
+309,2018 JAN,5.1,Yorkshire and The Humber
+310,2018 FEB,4.7,Yorkshire and The Humber
+311,2018 MAR,4.5,Yorkshire and The Humber
+312,2018 APR,4.6,Yorkshire and The Humber
+313,2018 MAY,4.4,Yorkshire and The Humber
+314,2018 JUN,4.4,Yorkshire and The Humber
+315,2018 JUL,4.4,Yorkshire and The Humber
+316,2018 AUG,4.9,Yorkshire and The Humber
+317,2018 SEP,4.7,Yorkshire and The Humber
+318,2018 OCT,5.0,Yorkshire and The Humber
+319,2018 NOV,5.2,Yorkshire and The Humber
+320,2018 DEC,5.2,Yorkshire and The Humber
+321,2019 JAN,4.9,Yorkshire and The Humber
+322,2019 FEB,4.7,Yorkshire and The Humber
+323,2019 MAR,4.9,Yorkshire and The Humber
+324,2019 APR,5.0,Yorkshire and The Humber
+325,2019 MAY,5.0,Yorkshire and The Humber
+326,2019 JUN,4.3,Yorkshire and The Humber
+327,2019 JUL,4.0,Yorkshire and The Humber
+328,2019 AUG,3.9,Yorkshire and The Humber
+329,2019 SEP,4.1,Yorkshire and The Humber
+330,2019 OCT,4.3,Yorkshire and The Humber
+331,2019 NOV,4.5,Yorkshire and The Humber
+332,2019 DEC,4.6,Yorkshire and The Humber
+333,2020 JAN,4.7,Yorkshire and The Humber
+334,2020 FEB,4.4,Yorkshire and The Humber
+335,2020 MAR,4.2,Yorkshire and The Humber
+336,2020 APR,4.1,Yorkshire and The Humber
+337,2020 MAY,4.1,Yorkshire and The Humber
+338,2020 JUN,4.4,Yorkshire and The Humber
+339,2020 JUL,4.5,Yorkshire and The Humber
+340,2020 AUG,4.8,Yorkshire and The Humber
+341,2020 SEP,5.4,Yorkshire and The Humber
+342,2020 OCT,5.5,Yorkshire and The Humber
+343,2020 NOV,5.4,Yorkshire and The Humber
+344,2020 DEC,5.4,Yorkshire and The Humber
+345,2021 JAN,5.2,Yorkshire and The Humber
+346,2021 FEB,5.0,Yorkshire and The Humber
+347,2021 MAR,5.1,Yorkshire and The Humber
+348,2021 APR,5.1,Yorkshire and The Humber
+349,2021 MAY,5.0,Yorkshire and The Humber
+350,2021 JUN,4.7,Yorkshire and The Humber
+351,2021 JUL,4.7,Yorkshire and The Humber
+352,2021 AUG,4.5,Yorkshire and The Humber
+353,2021 SEP,4.0,Yorkshire and The Humber
+354,2021 OCT,3.7,Yorkshire and The Humber
+355,2021 NOV,3.8,Yorkshire and The Humber
+356,2021 DEC,3.9,Yorkshire and The Humber
+357,2022 JAN,4.2,Yorkshire and The Humber
+358,2022 FEB,4.0,Yorkshire and The Humber
+359,2022 MAR,4.6,Yorkshire and The Humber
+360,2022 APR,4.5,Yorkshire and The Humber
+361,2022 MAY,4.5,Yorkshire and The Humber
+362,2022 JUN,4.5,Yorkshire and The Humber
+363,2022 JUL,3.9,Yorkshire and The Humber
+364,2022 AUG,4.1,Yorkshire and The Humber
+365,2022 SEP,4.0,Yorkshire and The Humber
