@@ -1,0 +1,73 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {
+      "url": "https://raw.githubusercontent.com/luigilp123/luigilp123.github.io/main/qualificationsofregions.csv"
+    },
+    "height":400,
+    "width":600,
+  
+    "title": {
+      "text": "Education by region",
+      "subtitle":"% working age population with given qualification",
+      "subtitleFontStyle":"italic",
+      "subtitleFontSize":10,
+      "anchor": "start",
+      "color": "black"},
+  
+    
+    "repeat": {"layer": ["% with degree","% with A-level (or equivalent)"]},
+    "spec": {
+      "mark": "bar",
+      "encoding": {
+        "x": {
+          "field": "Region",
+          "type": "nominal",
+          "sort": ["London","South East","South West", "East", "East Midlands", "West Midlands", "Yorkshire and the Humber ", "North East","North West"]
+        },
+        "tooltip": [
+          {
+            "field": "Region",
+            "type": "nominal",
+            "title": "Region"
+          },
+          {
+            "field": "% with degree",
+            "type": "quantitative",
+            "title": "% with degree",
+            "format":".0f"
+          },
+          {
+            "field": "% with A-level (or equivalent)",
+            "type": "quantitative",
+            "title": "% with A-level",
+            "format":".0f"
+          }
+          ],
+        
+        "y": {
+          "aggregate": "sum",
+          "field": {"repeat": "layer"},
+          "type": "quantitative",
+          "scale": {"domain": [0, 70], "clamp": true},
+          "title": "% of working age population"
+        },
+        "color": {
+          "datum": {"repeat": "layer"},
+          "title": "Qualification",
+          "scale": {"scheme": "darkblue"},
+          "legend": {
+            "orient": "bottom",
+            "fillColor": "#ffffff",
+            "labelColor": "#000000"
+          }
+        },
+        "xOffset": {"datum": {"repeat": "layer"}}
+      }
+        
+    },
+    
+    "config": {
+      "mark": {"invalid": null}
+    }
+  }
+  

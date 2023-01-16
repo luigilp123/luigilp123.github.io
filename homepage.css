@@ -1,0 +1,285 @@
+/* This is the design for my project page */
+
+
+/* Import a font */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Assistant&display=swap');   
+
+
+
+/* Background design */ 
+
+body{
+  background-color:rgb(10, 50, 55);
+  margin: 0;
+  padding: 0;
+}
+
+  
+/* Set the apperance of the class, chart */
+.chart{
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    width:500px;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: #393f49;
+    
+}
+
+.myportfolio{
+  margin: auto;
+  max-width: 600px;
+  background-color: rgb(10, 50, 55);
+
+}
+
+
+/* Setting fonts */
+
+p.title {
+  text-align: left;
+  color:  rgb(154, 197, 191);
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 2rem;
+  padding: 0px;
+  margin-bottom: 0px;
+}
+
+
+h3{
+  color:  rgb(154, 197, 191);
+  font-family: 'Bebas Neue', sans-serif;
+  text-align: center;
+  font-size: 1rem;
+}
+
+h1{
+    color:  rgb(154, 197, 191);
+    font-family: 'Bebas Neue', sans-serif;
+    text-align: center;
+    font-size: 1.4rem;
+  }
+
+
+
+p {
+  align-items: center;
+  text-align: left;
+  color: rgb(255, 255, 255);
+  max-width: 750px;
+  margin-left: auto;
+  margin-right: auto;
+  overflow-wrap: break-all;
+  font-family: sans-serif;
+  font-size: 1rem;
+}
+
+
+
+.leader{
+  font-weight: 550;
+}
+
+/* Solid border */
+hr.solid {
+  border-top: 5px solid #605c74;
+  max-width: 750px;
+}
+
+.bold{
+  font-weight: 950;
+}
+
+
+
+  /*Setting navigation bar*/
+.navigationbar {
+    position:relative;
+    background-color: rgb(21, 102, 109);
+    overflow: hidden;
+    justify-items: right;
+    border-bottom:1px solid rgb(255, 255, 255);
+    font-family: 'Bebas Neue', sans-serif;
+    opacity: 100%;
+    color:rgb(154, 197, 191);
+  }
+  
+
+  .navigationbar a {
+    float: right;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .navigationbar a:hover {
+    background-color: rgb(13, 65, 70);
+    color: black;
+  }
+  
+  .navigationbar a.active {
+    background-color: #0e0776;
+    color: white;
+  }
+/*Individual weeks*/
+/*Week 1 work*/
+.myWeek1{
+    margin: auto;
+    max-width: 600px;
+    background-color: rgb(10, 50, 55);
+
+      
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: rgb(11, 11, 11);
+}
+
+/*Week 2 work*/
+
+/*Layout of my week 2 page*/
+.myWeek2{
+    margin: auto;
+    max-width: 600px;
+    background-color: rgb(10, 50, 55);
+
+      
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: rgb(11, 11, 11);
+
+}
+
+/*Week 3 work*/
+
+/*Layout of my week 3 page*/
+.myWeek3{
+    margin: auto;
+    max-width: 1100px;
+    background-color: rgb(10, 50, 55);
+
+      
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: rgb(11, 11, 11);
+}
+/*In week 3, my charts were really wide so here I'm setting the appearance for these charts using a hashtag:*/
+#Week3stackedbar{
+    width:1000px;
+}
+#Week3line{
+    width:1000px;
+}
+
+/*Week 4 work*/
+
+/*Layout of my week 4 page*/
+.myWeek4{
+    margin: auto;
+    max-width: 600px;
+    background-color: rgb(10, 50, 55);
+
+      
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: rgb(11, 11, 11);
+
+}
+/*Week 5 work*/
+.myWeek5{
+    margin: auto;
+    max-width: 1200x;
+    background-color: rgb(10, 50, 55);
+
+      
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: rgb(0, 0, 0);
+}
+
+/*Making a grid thingy*/
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;  /*3 columns */
+    grid-gap: 0px;  /* gap value*/
+    justify-items: center;  /* center the items along the x-axis */
+    margin: auto;
+    max-width: 1200px;
+}
+
+/*Week 6 work*/
+
+/*Layout of my week 6 page*/
+.myWeek6{
+    margin: auto;
+    max-width: 600px;
+    background-color: rgb(10, 50, 55);
+
+      
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: rgb(11, 11, 11);
+
+}
+
+/*Week 7 work*/
+
+/*Layout of my week 7 page*/
+.myWeek7{
+    margin: auto;
+    max-width: 600px;
+    background-color: rgb(10, 50, 55);
+
+      
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: rgb(11, 11, 11);
+
+}
+
+/*Layout of my week 8 page*/
+.myWeek8{
+    margin: auto;
+    max-width: 600px;
+    background-color: rgb(10, 50, 55);
+
+      
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: rgb(11, 11, 11);
+
+}
+
+/*Layout of my week 9 page*/
+.myWeek9{
+    margin: auto;
+    max-width: 1200px;
+    background-color: rgb(10, 50, 55);
+
+      
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: rgb(11, 11, 11);
+/*Had really wide charts*/
+}
+#Week9_regression{
+    width:1000px;
+}
+#Week9_bubbletrellis{
+    width:1000px;
+}
+
+/*Individual charts */

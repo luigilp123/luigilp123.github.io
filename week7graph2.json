@@ -1,0 +1,47 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Regional Crime Rates In England",
+    "subtitle": "Crimes per 1,000 population, source: Statista",
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 10,
+    "anchor": "middle",
+    "color": "black"
+  },
+  "width": 500,
+  "height": 700,
+  "data": {
+    "url": "https://raw.githubusercontent.com/luigilp123/luigilp123.github.io/main/jsonforbasemap.json",
+    "format": {"type": "topojson", "feature": "eer"}
+  },
+  "transform": [
+    {
+      "lookup": "properties.EER13NM",
+      "from": {
+        "data": {
+          "url": "https://raw.githubusercontent.com/luigilp123/luigilp123.github.io/main/crime_byregion_formap.csv"
+        },
+        "key": "Region",
+        "fields": ["Crime rate per 1,000 population"]
+      }
+    }
+  ],
+  "projection": {"type": "mercator"},
+  "mark": {
+    "type": "geoshape",
+    "strokeWidth": 1.4
+  },
+  "encoding": {
+    "color": {
+      "field": "Crime rate per 1,000 population",
+      "type": "quantitative",
+      "scale": {"scheme": "yelloworangered"},
+      "title": "Crime rate (per 1,000 population)"
+    },
+    
+    "tooltip": [
+      {"field": "properties.EER13NM", "type": "nominal", "title": "Region"},
+      {"field":"Crime rate per 1,000 population","type": "nominal","title":"Crime rate (per 1,000 population)"}
+    ]
+  }
+}

@@ -54,3 +54,141 @@ h1, h3, p{
     border-color: blue;
 }
 
+/*Week 2 work*/
+
+/*Layout of my week 2 page*/
+.myWeek2{
+    margin: auto;
+    max-width: 600px;
+    background-color: rgb(220, 220, 220);
+
+      
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: rgb(11, 11, 11);
+
+}
+
+/*Week 3 work*/
+
+/*Layout of my week 3 page*/
+.myWeek3{
+    margin: auto;
+    max-width: 1100px;
+    background-color: rgb(220, 220, 220);
+
+      
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: rgb(11, 11, 11);
+}
+/*In week 3, my charts were really wide so here I'm setting the appearance for these charts using a hashtag:*/
+#Week3stackedbar{
+    width:1000px;
+}
+#Week3line{
+    width:1000px;
+}
+
+/*Week 4 work*/
+
+/*Layout of my week 4 page*/
+.myWeek4{
+    margin: auto;
+    max-width: 600px;
+    background-color: rgb(220, 220, 220);
+
+      
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: rgb(11, 11, 11);
+
+}
+
+/*Week 5 work*/
+
+/*Layout of my week 5 page*/
+.myWeek5{
+    margin: auto;
+    max-width: 1200x;
+    background-color: rgb(220, 220, 220);
+
+      
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: rgb(11, 11, 11);
+}
+
+/*Making a grid thingy*/
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;  /*3 columns */
+    grid-gap: 0px;  /* gap value*/
+    justify-items: center;  /* center the items along the x-axis */
+    margin: auto;
+    max-width: 1200px;
+}
+
+/*Week 6 work*/
+
+/*Layout of my week 6 page*/
+.myWeek6{
+    margin: auto;
+    max-width: 600px;
+    background-color: rgb(220, 220, 220);
+
+      
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: rgb(11, 11, 11);
+
+}
+
+/*Week 7 work*/
+
+/*Layout of my week 7 page*/
+.myWeek7{
+    margin: auto;
+    max-width: 600px;
+    background-color: rgb(220, 220, 220);
+
+      
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: rgb(11, 11, 11);
+
+}
+
+/*Layout of my week 8 page*/
+.myWeek8{
+    margin: auto;
+    max-width: 600px;
+    background-color: rgb(220, 220, 220);
+
+      
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: rgb(11, 11, 11);
+
+}
+
+/*Layout of my week 9 page*/
+.myWeek9{
+    margin: auto;
+    max-width: 600px;
+    background-color: rgb(220, 220, 220);
+
+      
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: rgb(11, 11, 11);
+
+}

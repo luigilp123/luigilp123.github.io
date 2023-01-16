@@ -1,0 +1,35 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "A simple donut chart with embedded data.",
+  "title": {
+    "text": "Figure 1: Total GDP by region",
+    "subtitle":["Proportion of total GDP in England (2020) by region, Source: Statista", "Purples: South of England", "Oranges: Midlands", "Greens: North of England"],
+    "subtitleFontStyle":"italic",
+    "subtitleFontSize":10,
+    "anchor": "start",
+    "color": "black"},
+  "width": 250,
+  "height": 350,
+
+  "data": {
+    "url": "https://raw.githubusercontent.com/luigilp123/luigilp123.github.io/main/GDP_by_region.csv" 
+  },
+  "mark": {"type": "arc", "innerRadius": 50},
+  "encoding": {
+    "tooltip": [
+        {"field": "Region", "type": "nominal", "title": "Region"},
+        {
+          "field": "GDP (million GBP)",
+          "type": "quantitative",
+          "title": "Total GDP (£million)"
+        }
+      ],
+    "theta": {"field": "GDP (million GBP)", "type": "quantitative"},
+    "color": { 
+      "field":"Region",
+      "type": "nominal",
+      "scale": {"range": ["#cc8400", "#ff66ff", "#330033","#008000","#00cc00","#800080","#cc00cc","#ffb733","#33ff33"]}
+    }
+    
+  }
+}

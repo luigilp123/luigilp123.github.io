@@ -1,0 +1,26 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  
+     "title": {
+        "text": "UK inflation rate over last ten years (%)",
+        "subtitle": ["Measured by CPI, source: Statista"],
+        "subtitleFontStyle": "italic",
+        "subtitleFontSize": 10,
+        "anchor": "start",
+        "color": "black"
+      },
+  
+      "width": 400,
+      "height": 200,
+  
+   
+    "data": {"url": "https://raw.githubusercontent.com/luigilp123/luigilp123.github.io/main/UK%20inflation.csv"},
+  
+    
+    "mark": "line",
+    "encoding": {
+      "x": {"field": "Date", "type": "temporal"},
+      "y": {"field": "Inflation rate", "type": "quantitative"}
+    }
+  }
+  

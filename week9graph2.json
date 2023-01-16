@@ -1,0 +1,83 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+     "title": {
+       "text": "Is there a relationship between GDP per capita and life expectancy in areas of England?",
+       "subtitle": [
+         "Linear regression of life expectancy on GDP per capita in English areas, sources: ONS, Statista"
+       ],
+       "subtitleFontStyle": "italic",
+       "subtitleFontSize": 10,
+       "anchor": "start",
+       "color": "darkblue"
+     },
+     "height": 300,
+     "width": 700,
+     "config": {"background": "white", "view": {"stroke": "transparent"}},
+     "data": {
+       "url": "https://raw.githubusercontent.com/luigilp123/luigilp123.github.io/main/life_gdppc_wNorS.csv",
+       "format": {"type": "csv"}
+     },
+      "layer": [
+       {
+         "mark": {
+           "type": "circle",
+           "color": "blueviolet",
+           "opacity": 1,
+           "size": 100
+         },
+         "encoding": {
+           "x": {"field": "2018 GDP per capita", 
+           "type": "quantitative",
+           "title": "GDP per capita (2018), £",
+             "scale": {"domain": [15000,290000]}},
+           "y": {
+             "field": "life expectancy (2017-2019)",
+             "type": "quantitative",
+             "title": "Life expectancy (male/female average), years",
+             "scale": {"domain": [76, 87]}
+           },
+           "color": {
+             "field": "Southern",
+             "type": "nominal",
+             "title": "Northern or South:",
+             "scale": {"scheme": "dark2"}
+           },
+            "tooltip": [
+             {"field": "Area", "type": "nominal", "title": "Area"},
+             {
+               "field": "life expectancy (2017-2019)",
+               "type": "quantitative",
+               "title": "Life expectancy (years)",
+               "format": ".2f"
+             },
+             {"field": "2018 GDP per capita", "type": "quantitative", "title": "GDP per Capita (£)"}
+           ]
+         }
+       },
+        {
+         "mark": {"type": "line", "color": "black"},
+         "transform": [
+           {"regression": "life expectancy (2017-2019)", "on": "2018 GDP per capita", "extent": [9000, 300000]}
+         ],
+         "encoding": {
+           "x": {"field": "2018 GDP per capita", "type": "quantitative"},
+           "y": {"field": "life expectancy (2017-2019)", "type": "quantitative"}
+         }
+       },
+       {
+         "transform": [
+           {"regression": "life expectancy (2017-2019)", "on": "2018 GDP per capita", "params": true},
+           {"calculate": "'R²: '+format(datum.rSquared, '.2f')", "as": "R2"}
+         ],
+         "mark": {
+           "type": "text",
+           "color": "firebrick",
+           "x": "width",
+           "align": "right",
+           "y": -10
+         },
+         "encoding": {"text": {"type": "ordinal", "field": "R2"}}
+       }
+     ]
+   }
+   

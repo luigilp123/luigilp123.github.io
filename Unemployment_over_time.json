@@ -1,0 +1,67 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 525,
+  "height": 300,
+  "title": {
+    "text": "Unemployment rate over time",
+    "subtitle": [
+      "Regional unemployment rates since 1992, source: ONS"
+    ],
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 10,
+    "anchor": "start",
+    "color": "black"
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/luigilp123/luigilp123.github.io/main/unemploymenttimeseriesdata.csv"
+  },
+  "mark": {"type": "line", "point": false},
+  "selection": {
+    "grid": {
+      "type": "interval",
+      "bind": "scales",
+      "on": "[mousedown, window:mouseup] > window:mousemove!",
+      "translate": "[mousedown, window:mouseup] > window:mousemove!",
+      "zoom": "wheel!",
+      "resolve": "global"
+    }
+  },
+  "encoding": {
+    "x": {"field": "Date", "type": "temporal", "title": "Date"},
+    "y": {
+      "field": "Value",
+      "type": "quantitative",
+      "title": "Unemployment rate, %",
+      "axis": {"grid": false},
+      "scale": {"domain": [1.5, 16]}
+    },
+    "tooltip": [
+      {"field": "Series", "type": "nominal", "title": "Region"},
+      {
+        "field": "Value",
+        "type": "quantitative",
+        "title": "Unemployment Rate (%)"
+      },
+      {"field": "Date", "type": "temporal", "title": "Date"}
+    ],
+    "color": {
+      "field": "Series",
+      "type": "nominal",
+      "title": "Region",
+      "scale": {
+        "range": [
+          "#cc8400",
+          "#ff66ff",
+          "#330033",
+          "#008000",
+          "#00cc00",
+          "#800080",
+          "#cc00cc",
+          "#ffb733",
+          "#33ff33"
+        ]
+      }
+    }
+  },
+  "config": {}
+}

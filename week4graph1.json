@@ -1,0 +1,22 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "A simple bar chart with embedded data.",
+
+    "title": {
+        "text": "Premier League goals scored by top ten goalscorers in 2021/2022 season",
+        "subtitleFontStyle":"italic",
+        "subtitleFontSize":10,
+        "anchor": "start",
+        "color": "black"},
+    
+    "data": {
+      "values":[{"Rank": 1.0, "Player": "Mohamed Salah", "Goals": 23}, {"Rank": 1.0, "Player": "Son Heung-Min", "Goals": 23}, {"Rank": 3.0, "Player": "Cristiano Ronaldo", "Goals": 18}, {"Rank": 4.0, "Player": "Harry Kane", "Goals": 17}, {"Rank": 5.0, "Player": "Sadio Mane", "Goals": 16}, {"Rank": 6.0, "Player": "Kevin De Bruyne", "Goals": 15}, {"Rank": 6.0, "Player": "Diogo Jota", "Goals": 15}, {"Rank": 6.0, "Player": "Jamie Vardy", "Goals": 15}, {"Rank": 9.0, "Player": "Wilfried Zaha", "Goals": 14}, {"Rank": 10.0, "Player": "Raheem Sterling", "Goals": 13}]
+    },
+    "mark": "bar",
+    "encoding": {
+      "x": {"field": "Player", "type": "nominal", "axis": {"labelAngle": 45}},
+      "y": {"field": "Goals", "type": "quantitative"}
+  
+    }
+  }
+  

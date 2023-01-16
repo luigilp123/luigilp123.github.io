@@ -1,0 +1,54 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  
+    "title": {
+          "text": "Percentage price change of different products over 12 months (Nov 2022)",
+          "subtitle": "Source: ONS",
+          "subtitleFontStyle": "italic",
+          "subtitleFontSize": 10,
+          "anchor": "start",
+          "color": "black"
+        },
+    
+        "width": 200,
+        "height": 100,
+  
+    "data": {
+      "url": "https://raw.githubusercontent.com/luigilp123/luigilp123.github.io/main/inflation_different_products.csv" 
+    },
+    "encoding": {
+      "y": {
+        "field": "Product",
+        "type": "nominal",
+        "axis": {
+          "domain": false,
+          "ticks": false,
+          "labelAngle": 0,
+          "labelPadding": 4
+        }
+      },
+      "x": {
+        "field": "Price percentage change on a year earlier (November 2022)",
+        "type": "quantitative",
+        "scale": {"padding": 20},
+        "axis": {
+          "gridColor": {
+            "condition": {"test": "datum.value === 0", "value": "black"},
+            "value": "#b39c9c"
+          }
+        }
+      }
+    },
+    "layer": [
+      {"mark": "bar"},
+      {
+        "mark": {
+          "type": "text",
+          "align": {"expr": "datum.b < 0 ? 'right' : 'left'"},
+          "dx": {"expr": "datum.b < 0 ? -2 : 2"}
+        },
+        "encoding": {"text": {"field": "Price percentage change on a year earlier (November 2022)", "type": "quantitative"}}
+      }
+    ]
+  }
+  

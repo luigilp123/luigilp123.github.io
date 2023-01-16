@@ -1,0 +1,56 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 525,
+    "height": 300,
+    "title": {
+      "text": "Unemployment rate over time",
+      "subtitle": [
+        "The unemployment rate in different regions of England since 1992, source: ONS"
+      ],
+      "subtitleFontStyle": "italic",
+      "subtitleFontSize": 10,
+      "anchor": "start",
+      "color": "black"
+    },
+    "data": {
+      "url": "https://raw.githubusercontent.com/luigilp123/luigilp123.github.io/main/unemploymenttimeseriesdata.csv"
+    },
+  
+     "selection": {
+      "grid": {
+        "type": "interval",
+        "bind": "scales",
+        "on": "[mousedown, window:mouseup] > window:mousemove!",
+        "translate": "[mousedown, window:mouseup] > window:mousemove!",
+        "zoom": "wheel!",
+        "resolve": "global"
+      }
+    },
+  
+    "mark": {"type": "line"},
+    
+    
+    
+    "encoding": {
+      "x": {"field": "Date", "type": "temporal", "title": "Date"},
+      "y": {
+        "field": "Value",
+        "type": "quantitative",
+        "title": null,
+        "axis": {"grid": false},
+        "scale": {"domain": [1.5, 16]}
+      },
+      "tooltip":[
+        {"field": "Series", "type": "nominal", "title": "Region"},
+        {"field": "Value", "type": "quantitative", "title": "Unemployment Rate (%)"},
+        {"field": "Date", "type": "temporal", "title": "Date"}
+      ],
+      "color": {
+        "field": "Series",
+        "type": "nominal",
+        "scale": {"scheme": "set1"},
+        "title": "Region"
+      }
+    },
+    "config": {}
+  }

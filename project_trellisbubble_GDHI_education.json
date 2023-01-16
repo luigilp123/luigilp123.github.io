@@ -1,0 +1,74 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Education rates against GDHI per capita of different regions, 2019 ",
+    "subtitle": "% of population with given qualification plotted against GDHI per capita for different English regions, Source: ONS",
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 12.5,
+    "fontSize": 15.5,
+    "anchor": "start",
+    "color": "black"
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/luigilp123/luigilp123.github.io/main/Education_and_GDHI_byregion_2019.csv"
+  },
+  "height": 150,
+  "width": 250,
+  "mark": {"type": "circle", "strokeWidth": 1.2},
+  "encoding": {
+    "x": {
+      "field": "Population_percentage",
+      "type": "quantitative",
+      "title": "% of population",
+      "axis": {"grid": true, "labelAngle": 30, "labelFontSize": 12},
+      "scale": {"domain": [20, 90]}
+    },
+    "size": {
+      "field": "Population_2019",
+      "type": "quantitative",
+      "title": "Population"
+    },
+    "y": {
+      "field": "GDHI per capita (2019)",
+      "type": "quantitative",
+      "title": "GDHI per capita",
+      "scale": {"domain": [15000, 35000]}
+    },
+    "facet": {
+      "field": "Qualification",
+      "columns": 2,
+      "title": null,
+      "header": {
+        "titleColor": "black",
+        "labelColor": "black",
+        "labelFontSize": 14
+      }
+    },
+    "color": {
+      "field": "Region",
+      "type": "nominal",
+      "scale": {"scheme": "viridis"},
+      "title": "Region"
+    },
+    "tooltip": [
+      {"field": "Region", "type": "nominal", "title": "Region"},
+      {
+        "field": "Population_2019",
+        "type": "quantitative",
+        "title": "Population"
+      },
+      {
+        "field": "Population_percentage",
+        "type": "quantitative",
+        "title": "Percentage of population with qualification (2018)",
+        "format": ".2f"
+      },
+      {
+        "field": "GDHI per capita (2019)",
+        "type": "quantitative",
+        "title": "GDHI per capita (2019)"
+      }
+    ]
+  },
+  "resolve": {"scale": {"y": "independent", "x": "independent"}}
+}

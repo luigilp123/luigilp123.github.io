@@ -1,0 +1,47 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Figure 2: Regional GDP per Capita",
+    "subtitle": "GDP per Capita £ (2020), Source: Statista",
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 10,
+    "anchor": "start",
+    "color": "black"
+  },
+  "width": 250,
+  "height": 350,
+  "data": {
+    "url": "https://raw.githubusercontent.com/luigilp123/luigilp123.github.io/main/jsonforbasemap.json",
+    "format": {"type": "topojson", "feature": "eer"}
+  },
+  "transform": [
+    {
+      "lookup": "properties.EER13NM",
+      "from": {
+        "data": {
+          "url": "https://raw.githubusercontent.com/luigilp123/luigilp123.github.io/main/GDPperCapitamap.csv"
+        },
+        "key": "Region",
+        "fields": ["GDP per capita in GDP"]
+      }
+    }
+  ],
+  "projection": {"type": "mercator"},
+  "mark": {"type": "geoshape", "stroke": "black", "strokeWidth": 0.5},
+  "encoding": {
+    "color": {
+      "field": "GDP per capita in GDP",
+      "type": "quantitative",
+      "scale": {"scheme": "yellowgreenblue"},
+      "title": "GDP per Capita (£)"
+    },
+    "tooltip": [
+      {"field": "properties.EER13NM", "type": "nominal", "title": "Region"},
+      {
+        "field": "GDP per capita in GDP",
+        "type": "nominal",
+        "title": "GDP per Capita (£)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+
+  "title": {
+    "text": "England Base Map",
+    "subtitle": "Divided by region",
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 10,
+    "anchor": "middle",
+    "color": "black"
+  },
+  "width": 500,
+  "height": 700,
+
+  "data": {
+    "url": "https://raw.githubusercontent.com/luigilp123/luigilp123.github.io/main/basemapengland.json",
+    "format": {"type": "topojson", "feature": "eer"}
+  },
+  "projection": {"type": "mercator"},
+  "mark": {
+    "type": "geoshape",
+    "fill":"hotpink",
+    "stroke": "limegreen",
+    "strokeWidth": 1.4
+  },
+  "encoding": {
+    "tooltip": [{"field": "properties.EER13NM", "type": "nominal", "title": "Region"}]
+  }
+}

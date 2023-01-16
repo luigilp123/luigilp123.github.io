@@ -1,0 +1,86 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": {
+      "text": "Education rates  against GDP per capita of different regions, 2018 ",
+      "subtitle": 
+        "% of population with given qualification plotted against GDP per capita for different English regions",
+        
+      
+      "subtitleFontStyle": "italic",
+      "subtitleFontSize": 12.5,
+      "fontSize": 15.5,
+      "anchor": "middle",
+      "color": "black"
+    },
+    "data": {
+      "url": "https://raw.githubusercontent.com/luigilp123/luigilp123.github.io/main/education_gdp_per_capita_population.csv"
+    },
+  
+    "height": 200,
+    "width": 400,
+     
+    "mark": {
+      "type": "circle", "strokeWidth": 1.2},
+      
+    
+    "encoding": {
+      
+      "x": {
+        "field": "Population_percentage",
+        "type": "quantitative",
+        "title": "% of population",
+        "axis": {"grid": true, "labelAngle": 30, "labelFontSize": 12},
+        "scale":{"domain":[20,90]}
+        
+      },
+      "size":{
+        "field":"Population_2018",
+        "type": "quantitative",
+        "title":"Population"
+        
+      },
+      "y": {
+        "field": "GDP_per_head_2018",
+        "type": "quantitative",
+        "title": "GDP per capita",
+        "scale":{"domain":[20000,60000]}
+        
+      },
+      
+      "facet": {
+        "field": "Qualification",
+        "columns": 2,
+        "title": null,
+        "header": {
+          "titleColor": "black",
+          "labelColor": "black",
+          "labelFontSize": 14
+        }
+      },
+      "color": {
+          "field": "Region",
+          "type": "nominal",
+          "scale": {"scheme": "viridis"},
+          "title": "Northern or Southern"
+        },
+      "tooltip": [
+         {
+          "field": "Region",
+          "type": "nominal",
+          "title": "Region"
+        },
+        {
+          "field": "Population_2018",
+          "type": "quantitative",
+          "title": "Population"
+        },
+        {"field": "Population_percentage", "type": "quantitative", "title": "Percentage of population with qualification","format": ".2f"},
+   {"field": "GDP_per_head_2018", "type": "quantitative", "title": "GDP per capita"}
+      ]
+      
+    },
+    
+    "resolve": {"scale": {"y": "independent","x": "independent"}}
+     
+    
+  }
