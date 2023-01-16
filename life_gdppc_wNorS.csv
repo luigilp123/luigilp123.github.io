@@ -1,0 +1,306 @@
+,Region,Area,2018 GDP per capita,life expectancy (2017-2019),Southern
+0,East Midlands,Amber Valley,24120,81.65,North
+1,East Midlands,Ashfield,24791,80.03,North
+2,East Midlands,Bassetlaw,22264,80.635,North
+3,East Midlands,Blaby,40653,83.455,North
+4,East Midlands,Bolsover,28641,79.895,North
+5,East Midlands,Boston,23819,80.175,North
+6,East Midlands,Broxtowe,22536,81.665,North
+7,East Midlands,Charnwood,22650,82.285,North
+8,East Midlands,Chesterfield,25957,80.015,North
+9,East Midlands,Derby,31712,80.325,North
+10,East Midlands,Derbyshire Dales,25838,83.35,North
+11,East Midlands,East Lindsey,18424,80.135,North
+12,East Midlands,Erewash,17836,81.44,North
+13,East Midlands,Gedling,15718,81.805,North
+14,East Midlands,Harborough,26011,83.34,North
+15,East Midlands,High Peak,19647,81.545,North
+16,East Midlands,Hinckley and Bosworth,24190,82.215,North
+17,East Midlands,Leicester,27181,79.87,North
+18,East Midlands,Lincoln,31511,78.755,North
+19,East Midlands,Mansfield,17866,79.72,North
+20,East Midlands,Melton,26765,82.6,North
+21,East Midlands,Newark and Sherwood,23771,81.345,North
+22,East Midlands,North East Derbyshire,17383,81.19,North
+23,East Midlands,North Kesteven,23463,81.935,North
+24,East Midlands,North West Leicestershire,40114,81.825,North
+25,East Midlands,Nottingham,33900,79.17,North
+26,East Midlands,Oadby and Wigston,16944,82.3,North
+27,East Midlands,Rushcliffe,26955,83.025,North
+28,East Midlands,Rutland,22183,84.2,North
+29,East Midlands,South Derbyshire,30612,81.45,North
+30,East Midlands,South Holland,26186,81.52,North
+31,East Midlands,South Kesteven,22988,82.49,North
+32,East Midlands,West Lindsey,18840,81.64,North
+33,East of England,Babergh,22408,83.49,South
+34,East of England,Basildon,34506,81.215,South
+35,East of England,Bedford,27485,81.525,South
+36,East of England,Braintree,28325,81.56,South
+37,East of England,Breckland,20263,82.065,South
+38,East of England,Brentwood,49860,83.0,South
+39,East of England,Broadland,29686,83.38,South
+40,East of England,Broxbourne,28245,82.62,South
+41,East of England,Cambridge,50464,82.57,South
+42,East of England,Castle Point,13993,81.84,South
+43,East of England,Central Bedfordshire,25229,82.81,South
+44,East of England,Chelmsford,32012,82.89,South
+45,East of England,Colchester,25461,81.945,South
+46,East of England,Dacorum,32106,82.895,South
+47,East of England,East Cambridgeshire,24606,83.12,South
+48,East of England,East Hertfordshire,29944,83.32,South
+49,East of England,East Suffolk,23487,82.24,South
+50,East of England,Epping Forest,35945,82.52,South
+51,East of England,Fenland,20956,80.43,South
+52,East of England,Great Yarmouth,19917,80.66,South
+53,East of England,Harlow,29841,80.675,South
+54,East of England,Hertsmere,45270,82.375,South
+55,East of England,Huntingdonshire,28588,82.895,South
+56,East of England,Ipswich,34474,81.335,South
+57,East of England,King's Lynn and West Norfolk,22710,81.135,South
+58,East of England,Luton,31934,80.695,South
+59,East of England,Maldon,20220,82.355,South
+60,East of England,Mid Suffolk,23886,83.355,South
+61,East of England,North Hertfordshire,30303,82.58,South
+62,East of England,North Norfolk,18140,83.055,South
+63,East of England,Norwich,31613,80.75,South
+64,East of England,Peterborough,37608,80.605,South
+65,East of England,Rochford,16313,82.99,South
+66,East of England,South Cambridgeshire,37497,84.37,South
+67,East of England,South Norfolk,22640,83.245,South
+68,East of England,Southend-on-Sea,20335,80.81,South
+69,East of England,St Albans,33487,83.735,South
+70,East of England,Stevenage,34429,80.93,South
+71,East of England,Tendring,16125,79.94,South
+72,East of England,Three Rivers,53065,82.78,South
+73,East of England,Thurrock,28570,81.025,South
+74,East of England,Uttlesford,30128,84.35,South
+75,East of England,Watford,57239,80.885,South
+76,East of England,Welwyn Hatfield,42230,82.55,South
+77,East of England,West Suffolk,33558,82.915,South
+78,London,Barking and Dagenham,19574,80.2,South
+79,London,Barnet,26249,84.43,South
+80,London,Bexley,28415,82.105,South
+81,London,Brent,29816,83.42,South
+82,London,Bromley,29133,83.335,South
+83,London,Camden,138089,85.185,South
+84,London,Croydon,28640,82.16,South
+85,London,Ealing,31226,82.935,South
+86,London,Enfield,26984,82.835,South
+87,London,Greenwich,22878,81.51,South
+88,London,Hackney,32289,81.99,South
+89,London,Hammersmith and Fulham,63844,82.255,South
+90,London,Haringey,18569,82.75,South
+91,London,Harrow,24213,84.71,South
+92,London,Havering,26011,82.07,South
+93,London,Hillingdon,53224,82.09,South
+94,London,Hounslow,67284,82.08,South
+95,London,Islington,87129,81.51,South
+96,London,Kensington and Chelsea,72146,85.41,South
+97,London,Kingston upon Thames,33757,83.455,South
+98,London,Lambeth,42416,81.84,South
+99,London,Lewisham,15508,81.49,South
+100,London,Merton,31205,82.815,South
+101,London,Newham,22097,81.94,South
+102,London,Redbridge,19959,83.365,South
+103,London,Richmond upon Thames,42912,84.43,South
+104,London,Southwark,67844,82.235,South
+105,London,Sutton,24558,82.63,South
+106,London,Tower Hamlets,122300,81.995,South
+107,London,Waltham Forest,18540,82.855,South
+108,London,Wandsworth,27672,82.415,South
+109,London,Westminster,291294,86.05,South
+110,North East,County Durham,19707,80.045,North
+111,North East,Darlington,27515,80.355,North
+112,North East,Gateshead,23868,79.775,North
+113,North East,Hartlepool,17950,79.08,North
+114,North East,Middlesbrough,24540,77.845,North
+115,North East,Newcastle upon Tyne,34018,79.94,North
+116,North East,North Tyneside,24969,80.09,North
+117,North East,Northumberland,19110,81.15,North
+118,North East,Redcar and Cleveland,15545,79.955,North
+119,North East,South Tyneside,15503,79.37,North
+120,North East,Stockton-on-Tees,27998,80.095,North
+121,North East,Sunderland,28856,79.185,North
+122,North West,Allerdale,21394,80.945,North
+123,North West,Barrow-in-Furness,28972,79.565,North
+124,North West,Blackburn with Darwen,23712,78.835,North
+125,North West,Blackpool,22375,76.97,North
+126,North West,Bolton,23714,79.76,North
+127,North West,Burnley,26280,78.385,North
+128,North West,Bury,20930,80.585,North
+129,North West,Carlisle,30037,80.6,North
+130,North West,Cheshire East,40088,82.19,North
+131,North West,Cheshire West and Chester,36311,81.695,North
+132,North West,Chorley,20357,80.65,North
+133,North West,Copeland,24168,80.235,North
+134,North West,Eden,31896,83.89,North
+135,North West,Fylde,34768,81.54,North
+136,North West,Halton,35880,79.525,North
+137,North West,Hyndburn,19767,79.01,North
+138,North West,Knowsley,27576,78.65,North
+139,North West,Lancaster,22462,80.61,North
+140,North West,Liverpool,29556,78.475,North
+141,North West,Manchester,46815,78.33,North
+142,North West,Oldham,19789,79.285,North
+143,North West,Pendle,23574,79.82,North
+144,North West,Preston,34207,79.185,North
+145,North West,Ribble Valley,32084,82.69,North
+146,North West,Rochdale,19493,79.28,North
+147,North West,Rossendale,17384,79.94,North
+148,North West,Salford,33645,79.38,North
+149,North West,Sefton,18336,80.915,North
+150,North West,South Lakeland,28087,83.395,North
+151,North West,South Ribble,36024,81.865,North
+152,North West,St. Helens,18492,79.5,North
+153,North West,Stockport,26999,81.56,North
+154,North West,Tameside,18414,79.065,North
+155,North West,Trafford,42659,82.105,North
+156,North West,Warrington,40729,80.9,North
+157,North West,West Lancashire,25781,80.995,North
+158,North West,Wigan,18861,79.59,North
+159,North West,Wirral,18699,80.38,North
+160,North West,Wyre,18456,80.85,North
+161,South East,Adur,20739,82.46,South
+162,South East,Arun,18062,81.845,South
+163,South East,Ashford,27051,82.33,South
+164,South East,Basingstoke and Deane,42835,82.19,South
+165,South East,Bracknell Forest,46178,83.58,South
+166,South East,Brighton and Hove,32437,81.135,South
+167,South East,Buckinghamshire,32130,83.5,South
+168,South East,Canterbury,23187,81.445,South
+169,South East,Cherwell,36278,82.625,South
+170,South East,Chichester,31723,82.84,South
+171,South East,Crawley,60513,82.095,South
+172,South East,Dartford,39896,81.125,South
+173,South East,Dover,23837,81.215,South
+174,South East,East Hampshire,24842,83.2,South
+175,South East,Eastbourne,21179,81.255,South
+176,South East,Eastleigh,36213,83.33,South
+177,South East,Elmbridge,51596,84.275,South
+178,South East,Epsom and Ewell,24532,84.7,South
+179,South East,Fareham,28996,83.535,South
+180,South East,Folkestone and Hythe,22880,81.06,South
+181,South East,Gosport,15298,81.085,South
+182,South East,Gravesham,19014,81.62,South
+183,South East,Guildford,37807,84.075,South
+184,South East,Hart,34578,84.21,South
+185,South East,Hastings,19819,79.885,South
+186,South East,Havant,24682,82.115,South
+187,South East,Horsham,27826,83.97,South
+188,South East,Isle of Wight,21255,81.57,South
+189,South East,Lewes,21459,83.025,South
+190,South East,Maidstone,28563,82.07,South
+191,South East,Medway,23283,80.805,South
+192,South East,Mid Sussex,25634,83.26,South
+193,South East,Milton Keynes,56433,81.43,South
+194,South East,Mole Valley,53788,84.6,South
+195,South East,New Forest,29387,83.815,South
+196,South East,Oxford,44537,82.435,South
+197,South East,Portsmouth,30601,80.16,South
+198,South East,Reading,56476,81.2,South
+199,South East,Reigate and Banstead,45662,82.965,South
+200,South East,Rother,16428,82.31,South
+201,South East,Runnymede,74448,82.835,South
+202,South East,Rushmoor,60520,81.98,South
+203,South East,Sevenoaks,38881,83.42,South
+204,South East,Slough,59052,80.925,South
+205,South East,South Oxfordshire,30679,83.905,South
+206,South East,Southampton,33803,80.5,South
+207,South East,Spelthorne,34704,82.545,South
+208,South East,Surrey Heath,43086,83.78,South
+209,South East,Swale,22805,80.915,South
+210,South East,Tandridge,24942,83.385,South
+211,South East,Test Valley,30488,83.13,South
+212,South East,Thanet,18142,80.23,South
+213,South East,Tonbridge and Malling,38561,82.59,South
+214,South East,Tunbridge Wells,33397,83.02,South
+215,South East,Vale of White Horse,35868,83.945,South
+216,South East,Waverley,28926,84.1,South
+217,South East,Wealden,19475,83.145,South
+218,South East,West Berkshire,52305,83.52,South
+219,South East,West Oxfordshire,26919,83.41,South
+220,South East,Winchester,47816,83.53,South
+221,South East,Windsor and Maidenhead,54747,83.345,South
+222,South East,Woking,36984,83.77,South
+223,South East,Wokingham,46599,84.095,South
+224,South East,Worthing,39134,81.115,South
+225,South West,Bath and North East Somerset,24995,83.095,South
+226,South West,"Bournemouth, Christchurch and Poole",30005,82.07,South
+227,South West,"Bristol, City of",35921,80.64,South
+228,South West,Cheltenham,31926,82.16,South
+229,South West,Cornwall,22600,81.645,South
+230,South West,Cotswold,47051,83.915,South
+231,South West,Dorset,23437,83.12,South
+232,South West,East Devon,21829,83.32,South
+233,South West,Exeter,45329,81.345,South
+234,South West,Forest of Dean,23037,82.34,South
+235,South West,Gloucester,28374,80.71,South
+236,South West,Mendip,23133,82.74,South
+237,South West,Mid Devon,20320,82.855,South
+238,South West,North Devon,26697,82.08,South
+239,South West,North Somerset,24428,82.635,South
+240,South West,Plymouth,24137,80.56,South
+241,South West,Sedgemoor,24894,82.16,South
+242,South West,Somerset West and Taunton,24712,82.215,South
+243,South West,South Gloucestershire,46044,83.05,South
+244,South West,South Hams,26999,83.56,South
+245,South West,South Somerset,25246,82.735,South
+246,South West,Stroud,27022,82.265,South
+247,South West,Swindon,48107,81.81,South
+248,South West,Teignbridge,21561,82.71,South
+249,South West,Tewkesbury,37170,83.2,South
+250,South West,Torbay,17077,80.8,South
+251,South West,Torridge,17423,81.295,South
+252,South West,West Devon,17906,82.28,South
+253,South West,Wiltshire,25980,82.875,South
+254,West Midlands,Birmingham,26974,80.1,North
+255,West Midlands,Bromsgrove,33458,82.425,North
+256,West Midlands,Cannock Chase,24658,80.685,North
+257,West Midlands,Coventry,29453,80.44,North
+258,West Midlands,Dudley,19293,81.035,North
+259,West Midlands,East Staffordshire,32694,80.82,North
+260,West Midlands,"Herefordshire, County of",23394,82.09,North
+261,West Midlands,Lichfield,25471,82.045,North
+262,West Midlands,Malvern Hills,24285,82.24,North
+263,West Midlands,Newcastle-under-Lyme,19902,81.13,North
+264,West Midlands,North Warwickshire,52368,80.855,North
+265,West Midlands,Nuneaton and Bedworth,19621,79.975,North
+266,West Midlands,Redditch,29557,81.37,North
+267,West Midlands,Rugby,31757,81.98,North
+268,West Midlands,Sandwell,22933,79.15,North
+269,West Midlands,Shropshire,22357,82.075,North
+270,West Midlands,Solihull,49917,82.52,North
+271,West Midlands,South Staffordshire,19679,82.29,North
+272,West Midlands,Stafford,26891,82.245,North
+273,West Midlands,Staffordshire Moorlands,18512,81.865,North
+274,West Midlands,Stoke-on-Trent,26310,78.32,North
+275,West Midlands,Stratford-on-Avon,44844,83.305,North
+276,West Midlands,Tamworth,24797,81.215,North
+277,West Midlands,Telford and Wrekin,28205,80.235,North
+278,West Midlands,Walsall,19303,79.895,North
+279,West Midlands,Warwick,49321,83.025,North
+280,West Midlands,Wolverhampton,22188,79.6,North
+281,West Midlands,Worcester,33160,81.095,North
+282,West Midlands,Wychavon,26602,83.01,North
+283,West Midlands,Wyre Forest,17847,80.625,North
+284,Yorkshire and The Humber,Barnsley,18881,79.8,North
+285,Yorkshire and The Humber,Bradford,21083,79.98,North
+286,Yorkshire and The Humber,Calderdale,28662,80.515,North
+287,Yorkshire and The Humber,Craven,29836,83.41,North
+288,Yorkshire and The Humber,Doncaster,21918,80.01,North
+289,Yorkshire and The Humber,East Riding of Yorkshire,23596,82.09,North
+290,Yorkshire and The Humber,Hambleton,29436,83.275,North
+291,Yorkshire and The Humber,Harrogate,30649,83.1,North
+292,Yorkshire and The Humber,"Kingston upon Hull, City of",26426,77.97,North
+293,Yorkshire and The Humber,Kirklees,20356,80.615,North
+294,Yorkshire and The Humber,Leeds,37007,80.14,North
+295,Yorkshire and The Humber,North East Lincolnshire,22807,79.955,North
+296,Yorkshire and The Humber,North Lincolnshire,30130,80.79,North
+297,Yorkshire and The Humber,Richmondshire,20159,82.565,North
+298,Yorkshire and The Humber,Rotherham,21376,79.825,North
+299,Yorkshire and The Humber,Ryedale,27420,83.165,North
+300,Yorkshire and The Humber,Scarborough,22289,80.44,North
+301,Yorkshire and The Humber,Selby,28338,82.025,North
+302,Yorkshire and The Humber,Sheffield,24643,80.885,North
+303,Yorkshire and The Humber,Wakefield,25749,79.97,North
+304,Yorkshire and The Humber,York,33681,81.91,North
