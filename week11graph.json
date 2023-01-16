@@ -1,0 +1,38 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  
+    "title": {
+      "text": "My chosen 4 Stocks",
+      "subtitle": [
+        "Price changes of four popular stocks between over the last 10 years",
+        "Source: Yahoo Finance"
+      ],
+      "subtitleFontStyle": "italic",
+      "subtitleFontSize": 11,
+      "anchor": "start",
+      "color": "black"
+    },
+    "data": {
+      "url": "https://raw.githubusercontent.com/luigilp123/luigilp123.github.io/main/fourstocksforweek11.csv"
+    },
+    "repeat": {
+      "layer": ["AMZN_z_norm", "KO_z_norm", "META_z_norm", "TSLA_z_norm"]
+    },
+    "spec": {
+      "mark": {"type": "line", "strokeWidth": 0.9},
+      "encoding": {
+        "x": {"field": "Date", "type": "temporal", "title":"year"},
+        "y": {
+          "field": {"repeat": "layer"},
+          "type": "quantitative",
+          "title": "price change"
+        },
+        "color": {
+          "datum": {"repeat": "layer"},
+          "scale": {"range": ["blue", "pink", "red", "limegreen"]},
+          "legend": "object"
+        }
+      }
+    },
+    "config": {}
+  }
